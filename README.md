@@ -4,22 +4,24 @@ React.js 스터디 저장소
 ## TUTORIAL
 React.js 학습 목적<br />
 
-- WEBGAME: React.js로 만드는 웹게임
-- BOOKS: CRA 기반 useContext 연습
-- BOOKLIST: CRA 기반 useContext + useReducer 연습
-- TODOLIST: CRA 기반 투두앱 만들기
-- QUERY: 리액트 쿼리를 활용한 데이터 패칭 및 페이지네이션 구현
-- REACT-REDUX: 간단한 react-redux 예제
-- FRAMER-MOTION: 인터렉티브한 리액트 앱을 제작하기 위한 framer-motion 사용법
-- TRELLO: CRA 기반 + trello clone
-- REDUX-MIDDLEWARE: CRA 기반으로 만드는 리덕스 미들웨어
+- <font color="green">WEBGAME: React.js로 만드는 웹게임 中</font>
+- BOOKS: CRA 기반 useContext 연습 下
+- BOOKLIST: CRA 기반 useContext + useReducer 연습 下
+
+- QUERY: 리액트 쿼리를 활용한 데이터 패칭 및 페이지네이션 구현 中
+- REACT-REDUX: 간단한 react-redux 예제 下
+- FRAMER-MOTION: 인터렉티브한 리액트 앱을 제작하기 위한 framer-motion 사용법 中
+- TRELLO: CRA 기반 + trello clone 中
+
+- <font color="red">TODOLIST: CRA 기반 투두앱 만들기 中</font>
+- <font color="red">REDUX-MIDDLEWARE: CRA 기반으로 만드는 리덕스 미들웨어 上</font>
 
 ## SAMPLE
 React.js로 완성한 간단한 애플리케이션 예제<br />
 
-- CHAT: CRA 기반 + express + socket.io로 채팅앱을 만들어 배포
-- WORD-CLOUD: CRA 기반 + fireabase로 워드클라우드앱 만들어 배포
-- NODEBIRD: React.js + Next.js로 SNS앱 만들어 아마존 웹서버로 배포
+- CHAT: CRA 기반 + express + socket.io로 채팅앱을 만들어 배포 下
+- WORD-CLOUD: CRA 기반 + fireabase로 워드클라우드앱 만들어 배포 下
+- <font color="green"> NODEBIRD: React.js + Next.js로 SNS앱 만들어 아마존 웹서버로 배포 上</font>
 
 ## DEVELOP
 개발·공부중인 폴더...<br />
