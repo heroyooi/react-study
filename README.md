@@ -12,6 +12,7 @@ React.js 학습 목적<br />
 - REACT-REDUX: 간단한 react-redux 예제
 - FRAMER-MOTION: 인터렉티브한 리액트 앱을 제작하기 위한 framer-motion 사용법
 - TRELLO: CRA 기반 + trello clone
+- REDUX-MIDDLEWARE: CRA 기반으로 만드는 리덕스 미들웨어
 
 ## SAMPLE
 React.js로 완성한 간단한 애플리케이션 예제<br />
@@ -25,7 +26,6 @@ React.js로 완성한 간단한 애플리케이션 예제<br />
 
 - CRA-REDUX: React 리덕스의 비동기 처리 예제
 - MODULES: React 프로젝트에 사용되는 기능별 모듈 정리 (작업중...)
-- REDUX-MIDDLEWARE: CRA 기반으로 만드는 리덕스 미들웨어
 
 
 ### AUTHOR
