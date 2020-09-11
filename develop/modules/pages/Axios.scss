@@ -1,0 +1,22 @@
+.axios-wrap {
+  .search-area {
+    padding: 10px;
+    p {
+      &.result {
+        margin-top: 10px;
+      }
+    }
+  }  
+  ul {
+    padding: 0 10px;
+    background: #eee;
+    border-radius: 3px;
+    li {
+      padding: 10px;
+      border-bottom: 1px solid #ddd;
+      &:last-child {
+        border-bottom: 0;
+      }
+    }
+  }
+}

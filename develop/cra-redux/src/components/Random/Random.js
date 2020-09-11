@@ -1,0 +1,76 @@
+import React, {useCallback} from 'react';
+import {
+  useActions as useRandomActions,
+  useRandomAPI as useRandomStore,
+} from '../../features/random';
+import classes from './Random.module.css';
+
+const Random = () => {
+  /**STORE - useSelector*/
+  const {number} = useRandomStore();
+  const {isLoading, hasError, isFulfilled} = useRandomStore(); // block state
+
+  /** Define pristine state condition, when user didn't do any actions */
+  const isPristine = !isLoading && !hasError && !isFulfilled;
+
+  /** GET REDUX ACTION - LOADING BAR or NOT*/
+  const {getRandomNumber: getRandomNumWithBlock} = useRandomActions(true);
+  const {getRandomNumber: getRandomNum} = useRandomActions();
+
+  /** NORMAL ASYNC MODE WITH PROMISE */
+  const onClickAsyncButton = async () => {
+    // getRandomNum('100').then(res => getRandomNum(res.data));
+    // getRandomNum('200');
+
+    Promise.all([
+      getRandomNum('100'),
+      getRandomNum('50'),
+      getRandomNum('10'),
+    ]).then(responses => {
+      responses.forEach(response => {
+        console.log('each response : ', response.data);
+      });
+      console.log('all done');
+    });
+  };
+
+  /**BLOCK MODE WITH AWAIT - WHEN LOADING BAR NECESSARY */
+  const onClickSyncButton = useCallback(async () => {
+    let res = await getRandomNumWithBlock('100');
+    console.log('response : ', res.value.data);
+  }, [getRandomNumWithBlock]);
+
+  /**UPDATE REDUX STORE AND PAGE STATE */
+  // 코드를 태그안에 직접 정의 : state setter 와 id가 겹쳐서 효율적
+
+  return (
+    <div className={classes.counter}>
+      <h2 className={classes.header}>Random Number</h2>
+      <button
+        disabled={isLoading}
+        className={classes.button}
+        type="button"
+        onClick={onClickSyncButton}>
+        LOADING BAR
+      </button>
+      <button
+        disabled={isLoading}
+        className={classes.button}
+        type="button"
+        onClick={onClickAsyncButton}>
+        NORMAL ASYNC
+      </button>
+      <p />
+      {isPristine && <div>Click the button to get random number</div>}
+      {isLoading && <div>Getting number</div>}
+      {isFulfilled && (
+        <div>
+          Number from random.org: <strong>{number}</strong>
+        </div>
+      )}
+      {hasError && <div>Ups...</div>}
+    </div>
+  );
+};
+
+export default Random;

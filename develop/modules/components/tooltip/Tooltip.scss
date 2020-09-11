@@ -1,0 +1,141 @@
+$cal-diff: 12px;
+
+.tooltip-wrap {
+  position: relative;
+  display: inline-block;
+}
+
+.tooltip-area {
+  position: absolute;
+  z-index: 10;
+  min-width: 30px;
+  max-width: 150px;
+  min-height: 32px;
+  padding: 6px 8px;
+  color: #fff;
+  text-align: left;
+  background-color: rgba(0, 0, 0, 0.75);
+  border-radius: 4px;
+  font-size: 12px;
+  line-height: 1.4;
+  &.place-leftTop {
+    transform: translate(-100%, 0);
+  }
+  &.place-left {
+    transform: translate(-100%, -50%);
+  }
+  &.place-leftBottom {
+    transform: translate(-100%, -100%);
+  }
+  &.place-rightTop {
+    transform: translate(0, 0);
+  }
+  &.place-right {
+    transform: translate(0, -50%);
+  }
+  &.place-rightBottom {
+    transform: translate(0, -100%);
+  }
+  &.place-topLeft {
+    transform: translate(0, -100%);
+  }
+  &.place-top {
+    transform: translate(-50%, -100%);
+  }
+  &.place-topRight {
+    transform: translate(-100%, -100%);
+  }
+  &.place-bottomLeft {
+    transform: translate(0, 0);
+  }
+  &.place-bottom {
+    transform: translate(-50%, 0);
+  }
+  &.place-bottomRight {
+    transform: translate(-100%, 0);
+  }  
+  &:before {
+    content: '';
+    display: block;
+    opacity: 0.5;
+    position: absolute;
+  }
+  &[class*='place-top']:before,
+  &[class*='place-bottom']:before {
+    width: 100%;
+    height: $cal-diff;
+    left: 0;
+  }
+  &[class*='place-top']:before {
+    bottom: -$cal-diff;
+  }
+  &[class*='place-bottom']:before {
+    top: -$cal-diff;
+  }
+  &[class*='place-left']:before,
+  &[class*='place-right']:before {
+    height: 100%;
+    width: $cal-diff;
+    top: 0;
+  }
+  &[class*='place-left']:before {
+    right: -$cal-diff;
+  }
+  &[class*='place-right']:before {
+    left: -$cal-diff;
+  }
+  & i.edge {
+    position: absolute;
+    display: block;
+  }
+  &[class*='Top'] i.edge {
+    top: $cal-diff;
+  }
+  &[class*='Bottom'] i.edge {
+    bottom: $cal-diff;
+  }
+  &[class*='Left'] i.edge {
+    left: $cal-diff;
+  }
+  &[class*='Right'] i.edge {
+    right: $cal-diff;
+  }
+  &.place-top i.edge, &.place-bottom i.edge {
+    left: 50%;
+    transform: translateX(-50%);
+  }
+  &.place-left i.edge, &.place-right i.edge {
+    top: 50%;
+    transform: translateY(-50%);
+  }
+  &[class*='place-top'] i.edge, &[class*='place-bottom'] i.edge {
+    border-left: 4px solid transparent;
+    border-right: 4px solid transparent;
+  }
+  &[class*='place-top'] i.edge {
+    border-top: 6px solid rgba(0, 0, 0, 0.75);
+    bottom: -6px;
+  }
+  &[class*='place-bottom'] i.edge {
+    border-bottom: 6px solid rgba(0, 0, 0, 0.75);
+    top: -6px;
+  }
+  &[class*='place-left'] i.edge, &[class*='place-right'] i.edge {
+    border-top: 4px solid transparent;
+    border-bottom: 4px solid transparent;
+  }
+  &[class*='place-left'] i.edge {
+    border-left: 6px solid rgba(0, 0, 0, 0.75);
+    right: -6px;
+  }
+  &[class*='place-right'] i.edge {
+    border-right: 6px solid rgba(0, 0, 0, 0.75);
+    left: -6px;
+  }
+  &.black {
+    background-color: rgba(0, 0, 0, 1);
+    & i.edge {
+      border-bottom: 6px solid rgba(0, 0, 0, 1);
+    }
+  }
+}
