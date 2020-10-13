@@ -6,7 +6,7 @@ React.js 학습 목적<br />
 
 - WEBGAME: React.js로 만드는 웹게임
 - BOOKS: CRA 기반 useContext 연습
-- BOOKLIST: CRA 기반 useContext + useReducer 연습 下
+- BOOKLIST: CRA 기반 useContext + useReducer 연습
 
 - QUERY: 리액트 쿼리를 활용한 데이터 패칭 및 페이지네이션 구현
 - REACT-REDUX: 간단한 react-redux 예제
