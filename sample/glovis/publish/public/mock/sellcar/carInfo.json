@@ -1,0 +1,49 @@
+{
+    "carNum" : "01가1234",
+    "carName" : "기아 K3 쿱 1.6 터보 GDI 프레스티지 K3 2DR 1.6T / GDI 프레스티지 M/T",
+    "regDate" : "2017-05-07",
+    "modDate" : "2018",
+    "carColor" : "검정",
+    "fuelType" : "가솔린",
+    "displacement" : "1,591cc",
+    "carType" : "준중형차",
+    "carUsage" : "일반",
+    "carPrice" : "20,700,000원",
+    "options": [
+        {
+            "optionName" : "sunroof",
+            "exist" : "false",
+            "text" : "선루프"
+        },
+        {
+            "optionName" : "hid",
+            "exist" : "true",
+            "text" : "헤드램프(HID)"
+        },
+        {
+            "optionName" : "led",
+            "exist" : "false",
+            "text" : "헤드램프(LED)"
+        },
+        {
+            "optionName" : "parking-sensor",
+            "exist" : "true",
+            "text" : "주차감지센서"
+        },
+        {
+            "optionName" : "back-camera",
+            "exist" : "true",
+            "text" : "후방카메라"
+        },
+        {
+            "optionName" : "smart-key",
+            "exist" : "true",
+            "text" : "스마트키"
+        },
+        {
+            "optionName" : "navigation",
+            "exist" : "true",
+            "text" : "네비게이션"
+        }
+    ]
+}

@@ -1,0 +1,102 @@
+{
+  "data": {
+    "brdLst": [
+      {
+        "prtnDvcd": "0010",
+        "amllId": 1,
+        "amllNm": "아우디",
+        "logoImgUrl": "/images/dummy/brand/audi-logo.png",
+        "bnrImgUrl": "/images/dummy/brand/audi-logo.png",
+        "deleShopId": "f205d9be-60a7-4d31-a194-5603c1232756"
+      },
+      {
+        "prtnDvcd": "0010",
+        "amllId": 2,
+        "amllNm": "벤틀리",
+        "logoImgUrl": "/images/dummy/brand/bentley-logo.png",
+        "bnrImgUrl": "/images/dummy/brand/bentley-logo.png",
+        "deleShopId": "f205d9be-60a7-4d31-a194-5603c1232756"
+      },
+      {
+        "prtnDvcd": "0010",
+        "amllId": 3,
+        "amllNm": "BMW",
+        "logoImgUrl": "/images/dummy/brand/bmw-logo.png",
+        "bnrImgUrl": "/images/dummy/brand/bmw-logo.png",
+        "deleShopId": "f205d9be-60a7-4d31-a194-5603c1232756"
+      },
+      {
+        "prtnDvcd": "0010",
+        "amllId": 4,
+        "amllNm": "캐딜락",
+        "logoImgUrl": "/images/dummy/brand/cadillac-logo.png",
+        "bnrImgUrl": "/images/dummy/brand/cadillac-logo.png",
+        "deleShopId": "f205d9be-60a7-4d31-a194-5603c1232756"
+      },
+      {
+        "prtnDvcd": "0010",
+        "amllId": 5,
+        "amllNm": "쉐보레",
+        "logoImgUrl": "/images/dummy/brand/chevrolet-logo.png",
+        "bnrImgUrl": "/images/dummy/brand/chevrolet-logo.png",
+        "deleShopId": "f205d9be-60a7-4d31-a194-5603c1232756"
+      },
+      {
+        "prtnDvcd": "0010",
+        "amllId": 6,
+        "amllNm": "페라리",
+        "logoImgUrl": "/images/dummy/brand/ferrari-logo.png",
+        "bnrImgUrl": "/images/dummy/brand/ferrari-logo.png",
+        "deleShopId": "f205d9be-60a7-4d31-a194-5603c1232756"
+      },
+      {
+        "prtnDvcd": "0010",
+        "amllId": 7,
+        "amllNm": "피아트",
+        "logoImgUrl": "/images/dummy/brand/fiat-logo.png",
+        "bnrImgUrl": "/images/dummy/brand/fiat-logo.png",
+        "deleShopId": "f205d9be-60a7-4d31-a194-5603c1232756"
+      },
+      {
+        "prtnDvcd": "0010",
+        "amllId": 8,
+        "amllNm": "포드",
+        "logoImgUrl": "/images/dummy/brand/ford-logo.png",
+        "bnrImgUrl": "/images/dummy/brand/ford-logo.png",
+        "deleShopId": "f205d9be-60a7-4d31-a194-5603c1232756"
+      },
+      {
+        "prtnDvcd": "0010",
+        "amllId": 9,
+        "amllNm": "혼다",
+        "logoImgUrl": "/images/dummy/brand/honda-logo.png",
+        "bnrImgUrl": "/images/dummy/brand/honda-logo.png",
+        "deleShopId": "f205d9be-60a7-4d31-a194-5603c1232756"
+      },
+      {
+        "prtnDvcd": "0010",
+        "amllId": 10,
+        "amllNm": "인피니티",
+        "logoImgUrl": "/images/dummy/brand/infiniti-logo.png",
+        "bnrImgUrl": "/images/dummy/brand/infiniti-logo.png",
+        "deleShopId": "f205d9be-60a7-4d31-a194-5603c1232756"
+      },
+      {
+        "prtnDvcd": "0010",
+        "amllId": 11,
+        "amllNm": "재규어",
+        "logoImgUrl": "/images/dummy/brand/jaguar-logo.png",
+        "bnrImgUrl": "/images/dummy/brand/jaguar-logo.png",
+        "deleShopId": "f205d9be-60a7-4d31-a194-5603c1232756"
+      },
+      {
+        "prtnDvcd": "0010",
+        "amllId": 12,
+        "amllNm": "JEEP",
+        "logoImgUrl": "/images/dummy/brand/jeep-logo.png",
+        "bnrImgUrl": "/images/dummy/brand/jeep-logo.png",
+        "deleShopId": "f205d9be-60a7-4d31-a194-5603c1232756"
+      }
+    ]
+  }
+}

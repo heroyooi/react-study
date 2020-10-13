@@ -1,0 +1,29 @@
+{
+    "tags": {
+        "allowUnknownTags": true,
+        "dictionaries": ["jsdoc"]
+    },
+    "source": {
+        "include": ["pages", "src/components"],
+        "includePattern": ".js$"
+    },
+    "opts": {
+        "destination": "./public/doc/",
+        "template": "node_modules/docdash",
+        "recurse": true,
+        "verbose": true
+    },
+    "sourceType": "file",
+    "plugins": [
+        "plugins/markdown"
+    ],
+    "templates": {
+        "cleverLinks": false,
+        "monospaceLinks": false
+    },
+    "docdash": {
+        "search" : true,
+        "navLevel" : 3,
+        "collapse" : true
+    }
+}

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="74" viewBox="0 0 128 74">
+    <g fill="none" fill-rule="evenodd">
+        <path fill="#F6F7F8" stroke="#E7E7E7" d="M3 0h120c1.657 0 3 1.343 3 3v45c0 13.255-10.745 24-24 24H3c-1.657 0-3-1.343-3-3V3c0-1.657 1.343-3 3-3z" transform="translate(1 1)"/>
+        <path fill="#999DA6" d="M27.81 48H14.496l-.09.67c-.153 1.165.731 2.522 3.73 2.522h7.328c2.184 0 2.148.489 1.845 1.695 0 0-1.147 4.552-1.5 5.947h-8.63c-.628 0-1.643-.154-1.384-1.185.268-1.06 1.351-1.284 2.214-1.284h5.183l3.146-3.148h-8.306c-6.107 0-7.555 3.128-7.892 4.474-.66 2.62 1.035 4.31 4.316 4.31h14.208c1.337 0 2.14-.601 2.45-1.833l1.906-7.565C33.985 48.778 31.635 48 27.81 48" transform="translate(1 1)"/>
+        <text fill="#999DA6" font-family="Roboto-Regular, Roboto" font-size="10" transform="translate(1 1)">
+            <tspan x="35" y="62">coupon</tspan>
+        </text>
+    </g>
+</svg>

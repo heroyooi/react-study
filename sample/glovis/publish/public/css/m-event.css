@@ -1,0 +1,81 @@
+.event-contents .event-msg{font-size:14px;line-height:1.14;color:#777;padding:20px 20px 16px;}
+.event-contents .event-msg span{display:block;font-size:16px;line-height:1.13;color:#222;margin-top:8px;}
+.event-contents .event-banner-item{width:100%;}
+.event-contents .event-banner-item .img-cover-wrap{height:55vw;}
+.event-contents .slick-dots{top:-30px; bottom:auto; text-align:right;font-size:0;}
+.event-contents .slick-dots .dots{display:inline-block; margin-right:16px;}
+.event-contents .slick-dots .dots li{border:0;background:none;width:auto;height:auto;float:none;margin:0 4px;}
+.event-contents .slick-dots .dots li button{width:10px;height:10px;background:#aaa;padding:0;opacity:.4;border-radius:100%;transition:opacity .3s, background .3s;}
+.event-contents .slick-dots .dots li button:before{display:none;}
+.event-contents .slick-dots .dots li button:hover{background:#2d5fde;}
+.event-contents .slick-dots .dots li.slick-active button{background:#2d5fde;opacity:1;}
+.event-contents .slick-dots .btn-play,
+.event-contents .slick-dots .btn-pause{display:none;width:7px;height:8px;font-size:0;text-indent:-20000px;margin-left:6px;}
+.event-contents .slick-dots .btn-play{background:url(/images/ico/ico-play.png) 0 0 no-repeat;background:gold;}
+.event-contents .slick-dots .btn-pause{background:url(/images/ico/ico-stop.png) 0 0 no-repeat;}
+
+.event-contents .event-list ul:after{content:'';clear:both;display:block;}
+.event-contents .event-list li{width:calc((100% - 15px) / 2 );margin-top:15px;float:left;border:1px solid #f2f2f2;}
+.event-contents .event-list li:nth-child(even){margin-left:15px}
+.event-contents .event-list li:nth-child( -n + 2 ){margin-top:0px}
+.event-contents .event-list li a{width:100%;height:100%;}
+.event-contents .event-list li a .img-area{width:100%;position:relative}
+.event-contents .bul-ing-event{position:absolute;top:8px;left:8px;width:44px;height:24px;line-height:24px;border-radius:3px;text-align:center;background-color:#2d5fde;color:#fff;font-size:10px;font-weight:500;}
+.event-contents .bul-end-event{position:absolute;top:8px;left:8px;width:44px;height:24px;line-height:24px;border-radius:3px;text-align:center;background-color:#777777;color:#fff;font-size:10px;font-weight:500;}
+.event-contents .event-list li a .img-area .img-cover-wrap{height:32vw;}
+.event-contents .event-list li a .date-area{padding:8px 8px 16px;font-size:8px;color:#aaa;}
+.event-contents .event-list li a .tit-area{padding:8px 8px 0;font-size:14px;color:#222;line-height:normal;height:70px;overflow:hidden;text-overflow:ellipsis;display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;word-wrap:break-word}
+.event-contents .event-list li a .tit-area.end{color:#777;}
+
+.event-contents .event-view-tit{position:relative;text-align:left;padding:20px;border-bottom:1px solid #f2f2f2;}
+.event-contents .event-view-tit:after{content:'';display:block;clear:both}
+.event-contents .event-view-tit .bul-ing-event,
+.event-contents .event-view-tit .bul-end-event{position:static;display:inline-block;}
+.event-contents .event-view-tit .tit-area{line-height:normal;color:#222;font-size:16px;margin-top:8px;}
+.event-contents .event-view-tit .date-area{display:inline-block;font-size:12px;color:#aaa;line-height:1.17;margin-top:8px;}
+.event-contents .event-view-cont{padding:20px;}
+.event-contents .event-view-cont .img-area{text-align:center}
+.event-contents .event-view-cont .txt-area{font-size:14px;line-height:normal;color:#777;margin-top:20px;}
+
+/* pointMall */
+.event-contents.point .slick-dots{top:auto;bottom:-25px;text-align:center;font-size:0;}
+.event-contents.point .event-msg{text-align:center;font-size:16px;line-height:1.13;color:#222;padding-top:46px;}
+.event-contents.point .m-toggle-list .tx-sub{font-size:12px;color:#777;line-height:normal;}
+.event-contents.point .m-toggle-list > li > dl > dt > a.up{color:#3f64c3;}
+.event-contents.point .essential-point{position:relative;padding:20px 0 24px;}
+.event-contents.point .essential-point p{font-size:12px;color:#3f64c3;font-weight:500;line-height:1.17;margin-top:16px;}
+.event-contents.point .essential-point p:first-child{margin-top:0;}
+.event-contents.point .essential-point li{font-size:12px;color:#777;padding-left:11px;text-indent:-9px;line-height:normal;margin-top:4px;}
+.event-contents.point .essential-point li:first-child{margin-top:8px;}
+.event-contents.point .essential-point li i{margin-right:5px;bottom:1px;}
+.event-contents.point .auction-process-wrap{padding:0;margin-bottom:0;}
+.auction-process-wrap .process-list{text-align:center;padding-bottom:20px;}
+.auction-process-wrap .process-list li{display:inline-block;text-align:center;position:relative;cursor:pointer;margin-left:9px;width:22.5%;max-width:83px;}
+.auction-process-wrap .process-list li:first-child{margin-left:0;}
+.auction-process-wrap .process-list li .ico{display:block;width:100%;padding-bottom:100%;background-color:#f6f7f8;background-repeat:no-repeat;background-position:50% 50%;background-size:auto 65%;border-radius:86px;transition:background .3s;}
+.auction-process-wrap .process-list li.step1 .ico{background-image:url(/images/ico/ico-auction-submit.png);}
+.auction-process-wrap .process-list li.step2 .ico{background-image:url(/images/ico/ico-auction-consign.png);}
+.auction-process-wrap .process-list li.step3 .ico{background-image:url(/images/ico/ico-auction-appraise.png);}
+.auction-process-wrap .process-list li.step4 .ico{background-image:url(/images/ico/ico-auction-bid.png);}
+.auction-process-wrap .process-list li.step5 .ico{background-image:url(/images/ico/ico-auction-deposit.png);}
+.auction-process-wrap .process-list li.step6 .ico{background-image:url(/images/ico/ico-auction-check.png);}
+.auction-process-wrap .process-list li .tit{font-size:12px;color:#777;line-height:1.33;display:block;position:relative;white-space:nowrap;}
+.auction-process-wrap .process-list li .tit:after{content:'';display:block;width:8px;height:12px;background:url(/images/ico/ico-step-arrow.svg) 50% 50% no-repeat;background-size:auto 12px;position:absolute;right:-8px;top:27px;pointer-events:none;cursor:default;}
+.auction-process-wrap .process-list li:last-child .tit:after{display:none;}
+.auction-process-wrap .process-list li .tit em{font-size:16px;font-weight:bold;color:#d7d7d7;display:block;margin-bottom:5px;line-height:1.33;margin-top:8px;}
+.auction-process-wrap .process-list li.on .ico{background-color:#3f64c3;}
+.auction-process-wrap .process-list li.on.step1 .ico{background-image:url(/images/ico/ico-auction-submit-white.png);}
+.auction-process-wrap .process-list li.on.step2 .ico{background-image:url(/images/ico/ico-auction-consign-white.png);}
+.auction-process-wrap .process-list li.on.step3 .ico{background-image:url(/images/ico/ico-auction-appraise-white.png);}
+.auction-process-wrap .process-list li.on.step4 .ico{background-image:url(/images/ico/ico-auction-bid-white.png);}
+.auction-process-wrap .process-list li.on.step5 .ico{background-image:url(/images/ico/ico-auction-deposit-white.png);}
+.auction-process-wrap .process-list li.on.step6 .ico{background-image:url(/images/ico/ico-auction-check-white.png);}
+.auction-process-wrap .process-list li.on .tit{color:#3f64c3;}
+.auction-process-wrap .process-list li.on .tit em{color:#3f64c3;}
+.auction-process-wrap .process-list li.on:after{content:'';display:block;width:0;height:0;border-left:16px solid transparent;border-right:16px solid transparent;border-bottom:16px solid #e6e9f0;display:inline-block;position:absolute;left:50%;bottom:-80px;margin-left:-16px;}
+.auction-process-detail{padding:100px 0 142px;background:#e6e9f0;text-align:center;overflow:hidden;}
+
+@media screen and (max-width: 320px){
+    /* pointMall */
+    .auction-process-wrap .process-list li .tit{font-size:11px;}
+}

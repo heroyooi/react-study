@@ -1,0 +1,28 @@
+// 일반 차량정보 조회 (상품 상세페이지 상단)
+// GET /buycar/selectProductDetailCarInfo.do
+//  curl -X GET --header 'Accept: application/json' 'http://10.25.44.85:8080/autobell_api/buycar/selectProductDetailCarInfo.do?dlrPrdId=PPPPPP1'
+//@ParameterType: query
+//@parameter: dlrPrdId
+//@DataType: string
+//@sampleParameterValue: PPPPPP1
+{
+  "data": {
+    "mnfcNm": "현대",
+    "mdlNm": "그랜저IG 하이브리드",
+    "clsNm": "2.4 HEV",
+    "dtlClsNm": "익스클루시브 스페셜",
+    "slAmt": 4000,
+    "lvstdYn": "Y",
+    "hsvcYn": "Y",
+    "ewYn": "Y",
+    "impMallYn": "Y",
+    "capMallYn": "N",
+    "itrtProdYn": "Y",
+    "itrtProdCnt": "3",
+    "inqCnt": "6"
+  },
+  "statusinfo": {
+    "returncd": "000",
+    "returnmsg": "정상"
+  }
+}

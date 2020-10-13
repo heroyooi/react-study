@@ -1,0 +1,226 @@
+/* Prising01 */
+.pricing-main-area {
+  margin-top: -57px;
+}
+.pricing-main-area .pricing-top-banner {
+  background: #c22d40;
+  padding: 57px 0 237px 0;
+}
+.pricing-main-area .pricing-top-banner .top-banner-bg {
+  left: 50%;
+  bottom: 33px;
+  transform: translateX(-50%);
+  width: 368px;
+  height: 158px;
+  background: url(/images/contents/obj-pricing.png) no-repeat;
+  background-size: 100%;
+}
+/* .pricing-main-area .content-sec .content-wrap{position:relative;top:50%;transform:translateY(-50%);} */
+.pricing-main-area .content-sec .content-wrap {
+  position: relative;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+.pricing-main-area .content-sec i {
+  margin-right: 13px;
+}
+.pricing-main-area .content-sec .ico-car-search {
+  width: 31px;
+  height: 27px;
+  background: url(/images/mobile/ico/ico-car-search.svg) no-repeat;
+}
+.pricing-main-area .content-sec .ico-input-search {
+  width: 36px;
+  height: 20px;
+  background: url(/images/mobile/ico/ico-input-search.svg) no-repeat;
+}
+.popup-pricing {
+  background-color: #0058bb;
+}
+.popup-pricing .today-close {
+  background-color: #0058bb;
+  padding: 11px;
+}
+.popup-pricing .today-close .chk-box input + label {
+  height: 13px;
+  line-height: 13px;
+  padding-left: 20px;
+}
+.popup-pricing .today-close .chk-box input + label::before {
+  width: 13px;
+  height: 13px;
+}
+.popup-pricing .today-close .chk-box .title {
+  font-size: 12px;
+  font-weight: 300;
+  color: #fff;
+}
+.search-cover p {
+  padding-top: 5px;
+}
+.search-cover p > strong {
+  display: block;
+  font-size: 18px;
+  margin-bottom: 16px;
+}
+.search-cover p > span {
+  color: #777;
+  line-height: 1.5;
+  font-size: 14px;
+}
+
+/* pricingViewNum */
+.market-view-sec .bid-info-wrap {
+  margin-top: 48px;
+}
+.market-view-sec .bid-info-wrap ul.goods-list.tx-list .slick-slide > div > li {
+  min-height: 118px;
+}
+.market-view-sec .bid-info-wrap ul.goods-list.tx-list .slick-slide > div > li p.tit {
+  padding-right: 25px;
+}
+/* pricingBidInfo */
+.pricing-view-sec h4.fl {
+  line-height: 40px;
+}
+.pricing-view-sec .ico-arrow-bottom-gray {
+  background-size: 85%;
+  margin-top: -1px;
+}
+.m-toggle-list.table .float-wrap h4 {
+  height: 24px;
+  line-height: 24px;
+}
+.m-toggle-list.table > li > dl > dt > a:after {
+  top: 28px;
+}
+.m-toggle-list.table > li > dl > dt > a.up > .float-wrap h4 {
+  color: #3f64c3;
+}
+.m-toggle-list.table > li > dl > dt > a.up > .summary {
+  display: none;
+}
+.m-toggle-list.table .summary .info {
+  font-size: 12px;
+  color: #777;
+  margin: 5px 0 18px;
+}
+.m-toggle-list.table .summary .info span {
+  display: inline-block;
+}
+.m-toggle-list.table > li > dl > dt > a span {
+  float: unset;
+  padding-right: 0;
+}
+.m-toggle-list.table .summary .info span:first-child:after {
+  content: '';
+  position: relative;
+  top: 1px;
+  display: inline-block;
+  width: 1px;
+  height: 10px;
+  background-color: #e7e7e7;
+  margin: 0 6px;
+}
+.m-toggle-list.table .summary .float-wrap {
+  height: 22px;
+  font-size: 12px;
+  line-height: 22px;
+}
+
+.m-toggle-list.table > li > dl > dt > em:after {
+  top: 28px;
+}
+.m-toggle-list.table > li > dl > dt > em.up > .float-wrap h4 {
+  color: #3f64c3;
+}
+.m-toggle-list.table > li > dl > dt > em.up > .summary {
+  display: none;
+}
+.m-toggle-list.table > li > dl > dt > em span {
+  float: unset;
+  padding-right: 0;
+}
+
+/* market-price-graph */
+.market-view-sec .market-price-graph li > .search-pricing .cur-price {
+  width: 100%;
+}
+.market-view-sec .market-price-graph li > .search-pricing .cur-price .proper-price {
+  margin-top: 8px;
+}
+.market-view-sec .market-price-graph li > .search-pricing .cur-price .proper-price .proper-price-tit {
+  height: 17px;
+}
+.market-view-sec .market-price-graph li > .search-pricing .cur-price .proper-price .search-filter-tit {
+  font-size: 19px;
+  font-weight: 500;
+  color: #3f64c3;
+}
+.market-view-sec .market-price-graph li > .search-pricing .cur-price .proper-price .search-filter-tit:after {
+  content: '';
+  display: block;
+  clear: both;
+}
+.market-view-sec .market-price-graph li > .search-pricing .cur-price .proper-price .price-range .input-range {
+  margin-top: -21px;
+}
+.market-view-sec .market-price-graph li > .search-pricing > div:first-child {
+  width: 100%;
+  padding-bottom: 24px;
+  margin-bottom: 24px;
+}
+.market-view-sec .market-price-graph li > .search-pricing > div p.tit {
+  text-align: left;
+  font-size: 15px;
+  font-weight: 500;
+  color: #222;
+  background: #fff;
+  padding: 0;
+  border: 0;
+}
+.market-view-sec .market-price-graph li > .search-pricing > div p.price {
+  font-size: 22px;
+  font-weight: 500;
+  color: #486fca;
+  text-align: center;
+  margin-top: 12px;
+}
+.market-view-sec .market-price-graph li > .search-pricing > div p.price .won {
+  display: inline-block;
+  font-size: 14px;
+  font-weight: normal;
+  color: #a2a2a2;
+  margin-left: 3px;
+}
+.market-view-sec .market-price-graph li > .search-pricing > div .price-range {
+  padding-top: 18px;
+}
+.market-view-sec .market-price-graph li:first-child {
+  margin-top: 28px;
+}
+.market-view-sec .market-price-graph li #pricing-chart-forecast #chart-wrapper {
+  text-align: center;
+}
+.market-view-sec .market-price-graph li #pricing-chart-forecast #chart-wrapper #chart {
+  width: 86%;
+}
+
+/* car-search */
+.pricing-num-wrap .search-car-num {
+  padding: 56px 20px;
+  background-color: #f6f7f8;
+}
+.search-cover p.tit1 > span {
+  display: block;
+  line-height: 1.5;
+  font-size: 14px;
+  font-weight: normal;
+  margin-top: 16px;
+}
+.search-car-num p.tx-exp-tp3 {
+  margin-top: 9px;
+}
+.search-car-num + .search-none {
+  padding-top: 93px;
+}

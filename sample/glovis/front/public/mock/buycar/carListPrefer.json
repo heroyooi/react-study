@@ -1,0 +1,88 @@
+[
+  {
+    "name": "투싼 Modern",
+    "price": "220,909",
+    "image": "/images/dummy/product-img-02.png",
+    "alt": "차량 이미지",
+    "discount": 20,
+    "tags": [
+      { "color": "blue60", "value": "EW" },
+      { "color": "purple", "value": "홈서비스" },
+      { "color": "pink", "value": "헛걸음" },
+      { "color": "sky", "value": "수입인증" }
+    ],
+    "infos": ["15/07식", 7989, "디젤", "서울"],
+    "options": [
+      { "color": "red", "value": "라이브" },
+      { "color": "blue60", "value": "경매" }
+    ],
+    "itrtProdYn": "Y",
+    "id": "1"
+  },
+  {
+    "name": "더뉴 아반떼 AD, 세로로 긴 이미지 테스트",
+    "price": "150,909",
+    "image": "/images/dummy/product-img-03.png",
+    "alt": "차량 이미지",
+    "discount": 10,
+    "isButton": true,
+    "buttonName": "온라인구매",
+    "tags": [
+      { "color": "blue60", "value": "EW" },
+      { "color": "gold", "value": "프랜차이즈" }
+    ],
+    "infos": ["17/07식", 26530, "가솔린", "대구"],
+    "itrtProdYn": "N",
+    "id": "2"
+  },
+  {
+    "name": "현대 코나 1.6 4WD",
+    "price": "220,909",
+    "image": "/images/dummy/product-img-01.png",
+    "alt": "차량 이미지",
+    "discount": 20,
+    "isButton": true,
+    "buttonName": "온라인구매",
+    "tags": [{ "color": "blue60", "value": "EW" }],
+    "infos": ["17/07식", 26530, "가솔린", "대구"],
+    "options": [{ "color": "red", "value": "라이브" }],
+    "itrtProdYn": "y",
+    "hsvcYn": "Y",
+    "id": "3"
+  },
+  {
+    "name": "투싼 Modern",
+    "price": "220,909",
+    "image": "/images/dummy/product-img-02.png",
+    "alt": "차량 이미지",
+    "discount": 20,
+    "tags": [
+      { "color": "blue60", "value": "EW" },
+      { "color": "purple", "value": "홈서비스" },
+      { "color": "pink", "value": "헛걸음" },
+      { "color": "sky", "value": "수입인증" }
+    ],
+    "infos": ["15/07식", 7989, "디젤", "서울"],
+    "options": [
+      { "color": "red", "value": "라이브" },
+      { "color": "blue60", "value": "경매" }
+    ],
+    "itrtProdYn": "N",
+    "id": "4"
+  },
+  {
+    "name": "현대 코나 1.6 4WD",
+    "price": "220,909",
+    "image": "/images/dummy/product-img-01.png",
+    "alt": "차량 이미지",
+    "discount": 20,
+    "isButton": true,
+    "buttonName": "온라인구매",
+    "tags": [{ "color": "blue60", "value": "EW" }],
+    "infos": ["17/07식", 26530, "가솔린", "대구"],
+    "options": [{ "color": "red", "value": "라이브" }],
+    "itrtProdYn": "N",
+    "hsvcYn": "Y",
+    "id": "5"
+  }
+]

@@ -1,0 +1,81 @@
+{
+    "data": {
+        "optionList": [
+            {
+                "optCd": "063200",
+                "optNm": "네비게이션",
+                "iconUrl": null,
+                "desc": "내비게이션은 GPS(인공위성을 통한 위치확인시스템)를 이용하여 운전자가 낯선 목적지에 실시간 교통상황을 고려하여 계산된 최적경로를 따라 목적지까지 길을 안내하는 기능을 가진 장치 입니다.",
+                "imgUrl": "/images/contents/car-option-img-01.png"
+            }
+        ],
+        "addOptionList": [
+            {
+                "category": "편의(멀티미디어)",
+                "optionList": [
+                    {
+                        "optCd": "052700",
+                        "optNm": "스티어링휠 리모컨",
+                        "iconUrl": null,
+                        "desc": "스마트키를 몸에 지니는 것만으로도<br />도어 잠금장치를 해제할 수 있거나 버튼을 눌러<br />시동을 껄 수 있는 편의 장치입니다.",
+                        "imgUrl": "/images/contents/car-option-img-01.png"
+                    }
+                ]
+            },
+            {
+                "category": "안전",
+                "optionList": [
+                    {
+                        "optCd": "041242",
+                        "optNm": "에어백: 동승석",
+                        "iconUrl": null,
+                        "desc": "스마트키를 몸에 지니는 것만으로도<br />도어 잠금장치를 해제할 수 있거나 버튼을 눌러<br />시동을 껄 수 있는 편의 장치입니다.",
+                        "imgUrl": "/images/contents/car-option-img-01.png"
+                    }
+                ]
+            },
+            {
+                "category": "외장",
+                "optionList": [
+                    {
+                        "optCd": "020205",
+                        "optNm": "HID",
+                        "iconUrl": null,
+                        "desc": "스마트키를 몸에 지니는 것만으로도<br />도어 잠금장치를 해제할 수 있거나 버튼을 눌러<br />시동을 껄 수 있는 편의 장치입니다.",
+                        "imgUrl": "/images/contents/car-option-img-01.png"
+                    }
+                ]
+            },
+            {
+                "category": "내장",
+                "optionList": [
+                    {
+                        "optCd": "030827",
+                        "optNm": "통품시트(동승석)",
+                        "iconUrl": null,
+                        "desc": "스마트키를 몸에 지니는 것만으로도<br />도어 잠금장치를 해제할 수 있거나 버튼을 눌러<br />시동을 껄 수 있는 편의 장치입니다.",
+                        "imgUrl": "/images/contents/car-option-img-01.png"
+                    }
+                ]
+            }
+        ],
+        "addOptions" : [
+            {
+                "addOptYn": "N",
+                "optCd": "063200",
+                "crId": null,
+                "cat1Seq": 6,
+                "cat1Nm": "멀티미디어",
+                "cat2Seq": 32,
+                "cat2Nm": "네비게이션",
+                "cat3Seq": 0,
+                "cat3Nm": null,
+                "optNm": null
+            }
+        ],
+    },
+    "statusinfo": {
+        "returncd": "000",
+        "returnmsg": "정상"
+    }
+}

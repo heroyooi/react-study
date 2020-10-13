@@ -1,0 +1,85 @@
+{
+  "data": {
+    "slReqId": "id003",
+    "reqTpcd": "00003",
+    "reqTpcdNm": "무평가",
+    "reqSttTpcd": "NS002",
+    "reqSttTpcdNm": "견적확인",
+    "rgstTpcd": "00001",
+    "rgstTpcdNm": "회원",
+    "count": "10",
+    "mbId": "D191470",
+    "nmbNm": "김민철",
+    "hpPn": "010-0000-0000",
+    "rgstRsdcAddrCd": "11",
+    "rgstRsdcAddrCdNm": "서울특별시",
+    "rgstRsdcDtlAddrCd": "11020",
+    "rgstRsdcDtlAddrCdNm": "용산구",
+    "applcntRsdcAddAddr": "숙대입구역...",
+    "bankCd": "1",
+    "accountNo": "891-000-0000-0",
+    "accountNm": "김민철",
+    "vltrNm": "김평가",
+    "vltrPhnNo": "010-9999-9999",
+    "estmAmt": "10000000",
+    "nomNm": "김명의자",
+    "nomPhnNo": "010-5555-5555",
+    "nomLocCd": "11",
+    "nomLocCdNm": "경기도",
+    "nomCtyCd": "11020",
+    "nomCtyCdNm": "성남시",
+    "nomAddAddr": "AK프라자",
+    "crId": "cr0000",
+    "car": {
+      "crId": null,
+      "crNo": "99가9999",
+      "crTypeCd": "1",
+      "crMnfcCd": "5",
+      "crMnfcCdNm": "현대",
+      "crMdlCd": "93",
+      "crMdlCdNm": "i30",
+      "crDtlMdlCd": "3",
+      "crDtlMdlCdNm": "i30",
+      "crClsCd": "2129",
+      "crClsCdNm": "LPG 3000cc",
+      "crDtlClsCd": "2129",
+      "crDtlClsCdNm": "3.0 LPi",
+      "crClrCd": "524",
+      "crClrCdNm": "흰색",
+      "crCmnt": "차랑설명X",
+      "crUseDvcd": "1",
+      "crUseDvcdNm": "일반",
+      "crRlsPrc": 20000000,
+      "dspl": 1000,
+      "frmYyyy": "2019",
+      "frstRegDt": "2018-11-11",
+      "fuelDvcd": "8342",
+      "drvDist": 1000,
+      "mssDvcd": "02",
+      "spExchYn": "N",
+      "spExchCntn": null,
+      "addOptCntn": "직접입력된 옵션",
+      "atbInspNo": 0,
+      "optionList": [
+        {
+          "optCd": "063200"
+        },
+        {
+          "optCd": "052061"
+        }
+      ],
+      "photoList": []
+    },
+    "cmprEstm": {
+      "hh24AuctId": "auct0001",
+      "hh24AuctSttDvcd": "02",
+      "hh24AuctStrtDt": "승인",
+      "hh24AuctEndDt": "2020-03-06 12:00",
+      "biddDrlCnt": 20,
+      "maxAmt": 1000000
+    }
+  },
+  "StatusInfo": {
+    "ReturnCd": "000"
+  }
+}

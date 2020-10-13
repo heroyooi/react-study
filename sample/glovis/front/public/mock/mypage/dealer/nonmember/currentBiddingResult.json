@@ -1,0 +1,39 @@
+{
+  "data": {
+    "auctStt": "BS06",
+    "auctEndDate": "2020/01/31 18:00:00",
+    "biddDlrCnt": 3,
+    "maxAmt": 1000,
+    "sbidAmt": 2000,
+    "selectedDlrBiddNo": 0,
+    "biddList": [
+      {
+        "dlrBiddNo": 1,
+        "biddAmt": 1000,
+        "dlrId": "ddd1",
+        "dlrNm": "kkk",
+        "dlrProfUrl": "sample.jpg",
+        "dlrAddr": "강남구 역삼동",
+        "rate": "4.6"
+      },
+      {
+        "dlrBiddNo": 2,
+        "biddAmt": 2000,
+        "dlrId": "ddd2",
+        "dlrNm": "yyy",
+        "dlrProfUrl": "sample2.jpg",
+        "dlrAddr": "용산구 청파동",
+        "rate": "4.8"
+      },
+      {
+        "dlrBiddNo": 3,
+        "biddAmt": 3000,
+        "dlrId": "ddd3",
+        "dlrNm": "zzz",
+        "dlrProfUrl": "sample3.jpg",
+        "dlrAddr": "오포읍 신현리",
+        "rate": "5"
+      }
+    ]
+  }
+}

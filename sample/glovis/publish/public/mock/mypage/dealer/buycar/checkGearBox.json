@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "title": "오토",
+    "type": "auto"
+  },
+  {
+    "id": 2,
+    "title": "수동",
+    "type": "stick"
+  },
+  {
+    "id": 3,
+    "title": "세미",
+    "type": "semi"
+  },
+  {
+    "id": 4,
+    "title": "오토",
+    "type": "auto-2"
+  },
+  {
+    "id": 5,
+    "title": "CVT",
+    "type": "cvt"
+  },
+  {
+    "id": 6,
+    "title": "기타",
+    "type": "ect"
+  }
+]

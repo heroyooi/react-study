@@ -1,0 +1,23 @@
+{
+  "data": [
+    {
+      "slReqId": "RS20011002301",
+      "nmbNm": "김현대",
+      "hpPn": "010-****-5678",
+      "email": "test@gmail.com",
+      "regDt": "2019-09-13",
+      "reqTpcd": "00001",
+      "reqTpcdNm": "방문평가",
+      "reqSttTpcd": "VS001",
+      "rgstRsdcAddrCd": "01",
+      "rgstRsdcAddrCdNm": "서울시",
+      "rgstRsdcDtlAddrCd": "001",
+      "rgstRsdcDtlAddrCdNm": "강남구",
+      "bankCd": 0,
+      "bankCdNm": "기업은행",
+      "accountNo": "",
+      "accountNm": "",
+      "car": {}
+    }
+  ]
+}

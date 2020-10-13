@@ -1,0 +1,22 @@
+// 경매낙찰차량 차량정보 조회: API-BC-AU-001
+// GET /buycar/selectProductDetailAuctionInfo.do
+//  curl -X GET --header 'Accept: application/json' 'http://10.25.44.85:8080/autobell_api/buycar/selectProductDetailAuctionInfo.do?dlrPrdId=PPPPPP1'
+//@ParameterType: query
+//@parameter: dlrPrdId
+//@DataType: string
+//@sampleParameterValue: PPPPPP1
+{
+  "data": {
+    "auctInfo": {
+      "auctNm": "경매장명",
+      "auctCorp": "N2235",
+      "auctDt": "20190808",
+      "auctNo": "12345678"
+    },
+    "auctPht": ["/abc/def/a.jpg", "/abc/def/b.jpg", "/abc/def/c.jpg", "/abc/def/d.jpg"]
+  },
+  "statusinfo": {
+    "returncd": "000",
+    "returnmsg": "정상"
+  }
+}

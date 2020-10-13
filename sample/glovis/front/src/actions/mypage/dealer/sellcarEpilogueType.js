@@ -1,0 +1,5 @@
+export const GET_EPILOGUE_LIST = 'mypage/dealer/selfsell/GET_EPILOGUE_LIST'
+export const GET_EPILOGUE_INFO = 'mypage/dealer/selfsell/GET_EPILOGUE_INFO'
+export const SAVE_EPILOGUE_INFO = 'mypage/dealer/selfsell/SAVE_EPILOGUE_INFO'
+export const EDIT_EPILOGUE_INFO = 'mypage/dealer/selfsell/EDIT_EPILOGUE_INFO'
+export const DEL_EPILOGUE_INFO = 'mypage/dealer/selfsell/DEL_EPILOGUE_INFO'

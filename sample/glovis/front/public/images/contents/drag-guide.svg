@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="264" height="212" viewBox="0 0 264 212">
+    <g fill="none" fill-rule="evenodd" stroke="#FFF" stroke-linecap="round">
+        <g stroke-linejoin="round" stroke-width="4">
+            <path d="M32 86.66h0C14.462 86.66.113 72.313.113 54.777V32C.113 14.463 14.462.114 32 .114s31.887 14.349 31.887 31.885v22.777c0 17.536-14.349 31.885-31.887 31.885z" transform="translate(2 2) translate(98 60)"/>
+            <path d="M32.113 22.9V.112c0-.06-.05-.113-.113-.113-.064 0-.113.053-.113.113V22.9c.039 0 .075-.01.113-.01.039 0 .075.01.113.01zM.113 31.887c-.061 0-.113.051-.113.113 0 .062.052.113.113.113h25.054v-.226H.113zM64 32c0-.062-.051-.113-.113-.113H38.833v.226h25.054c.062 0 .113-.052.113-.113z" transform="translate(2 2) translate(98 60)"/>
+            <path d="M32 41.11h0c-3.759 0-6.833-3.074-6.833-6.833v-4.555c0-3.759 3.074-6.833 6.833-6.833 3.759 0 6.833 3.074 6.833 6.833v4.555c0 3.759-3.074 6.833-6.833 6.833z" transform="translate(2 2) translate(98 60)"/>
+        </g>
+        <g stroke-width="3">
+            <path stroke-dasharray="2 7" stroke-linejoin="bevel" d="M11.701 39.145L11.701 16.145" transform="translate(2 2) translate(119)"/>
+            <path stroke-linejoin="round" d="M0 11.783L11.701 0 23.353 11.783M11.677 0L11.701 13.367" transform="translate(2 2) translate(119)"/>
+        </g>
+        <g stroke-width="3">
+            <path stroke-dasharray="2 7" stroke-linejoin="bevel" d="M11.701 39.145L11.701 16.145" transform="translate(2 2) matrix(1 0 0 -1 119 207.467)"/>
+            <path stroke-linejoin="round" d="M0 11.783L11.701 0 23.353 11.783M11.677 0L11.701 13.367" transform="translate(2 2) matrix(1 0 0 -1 119 207.467)"/>
+        </g>
+        <g stroke-width="3">
+            <path stroke-dasharray="2 7" stroke-linejoin="bevel" d="M11.701 78L11.701 16.145" transform="translate(2 2) matrix(0 1 1 0 0 95.467)"/>
+            <path stroke-linejoin="round" d="M0 11.783L11.701 0 23.353 11.783M11.677 0L11.701 13.367" transform="translate(2 2) matrix(0 1 1 0 0 95.467)"/>
+        </g>
+        <g stroke-width="3">
+            <path stroke-dasharray="2 7" stroke-linejoin="bevel" d="M12.033 76.5L11.701 16.145" transform="translate(2 2) rotate(90 82.267 177.733)"/>
+            <path stroke-linejoin="round" d="M0 11.783L11.701 0 23.353 11.783M11.677 0L11.701 13.367" transform="translate(2 2) rotate(90 82.267 177.733)"/>
+        </g>
+    </g>
+</svg>

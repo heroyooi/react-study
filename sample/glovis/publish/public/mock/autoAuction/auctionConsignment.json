@@ -1,0 +1,220 @@
+{
+    "data":[
+        {
+            "consignId": 1,
+            "auctHouse": 1,
+            "loc": "강남지역",
+            "locDtl": "강남구,강동구,서초구,송파구",
+            "price1": 34000,
+            "price2": 67000,
+            "price3": 80000
+        },
+        {
+            "consignId": 2,
+            "auctHouse": 1,
+            "loc": "강서지역",
+            "locDtl": "강서구,관악구,광진구,구로구,금천구,동작구,성동구,양천구,영등포구,용산구",
+            "price1": 37000,
+            "price2": 66000,
+            "price3": 79000
+        },
+        {
+            "consignId": 3,
+            "auctHouse": 1,
+            "loc": "강북지역",
+            "locDtl": "강북구,노원구,도봉구,동대문구,마포구,서대문구,성북구,은평구,종로구,중구,중랑구",
+            "price1": 41000,
+            "price2": 66000,
+            "price3": 79000
+        },
+        {
+            "consignId": 4,
+            "auctHouse": 1,
+            "loc": "경기동부1",
+            "locDtl": "광주시,성남시",
+            "price1": 26000,
+            "price2": 67000,
+            "price3": 80000
+        },
+        {
+            "consignId": 5,
+            "auctHouse": 1,
+            "loc": "경기동부2",
+            "locDtl": "이천시,하남시",
+            "price1": 37000,
+            "price2": 67000,
+            "price3": 80000
+        },
+        {
+            "consignId": 6,
+            "auctHouse": 1,
+            "loc": "경기동부3",
+            "locDtl": "양평군",
+            "price1": 41000,
+            "price2": 67000,
+            "price3": 80000
+        },
+        {
+            "consignId": 7,
+            "auctHouse": 1,
+            "loc": "경기동부4",
+            "locDtl": "여주시",
+            "price1": 46000,
+            "price2": 67000,
+            "price3": 80000
+        },
+        {
+            "consignId": 8,
+            "auctHouse": 2,
+            "loc": "경남1",
+            "locDtl": "양산",
+            "price1": 19000,
+            "price2": 23000,
+            "price3": 30000
+        },
+        {
+            "consignId": 9,
+            "auctHouse": 2,
+            "loc": "경남2",
+            "locDtl": "양산(덕계)",
+            "price1": 20000,
+            "price2": 22000,
+            "price3": 29000
+        },
+        {
+            "consignId": 10,
+            "auctHouse": 2,
+            "loc": "경남3",
+            "locDtl": "김해,창원,마산,진해",
+            "price1": 41000,
+            "price2": 49000,
+            "price3": 65000
+        },
+        {
+            "consignId": 11,
+            "auctHouse": 2,
+            "loc": "경남4",
+            "locDtl": "밀양,함안",
+            "price1": 45000,
+            "price2": 54000,
+            "price3": 71000
+        },
+        {
+            "consignId": 12,
+            "auctHouse": 2,
+            "loc": "경남5",
+            "locDtl": "의령,창녕,진주",
+            "price1": 61000,
+            "price2": 73000,
+            "price3": 96000
+        },
+        {
+            "consignId": 13,
+            "auctHouse": 2,
+            "loc": "경남6",
+            "locDtl": "합천,하동",
+            "price1": 83000,
+            "price2": 101000,
+            "price3": 132000
+        },
+        {
+            "consignId": 14,
+            "auctHouse": 2,
+            "loc": "경남7",
+            "locDtl": "거제,거창,남해",
+            "price1": 90000,
+            "price2": 109000,
+            "price3": 143000
+        },
+        {
+            "consignId": 15,
+            "auctHouse": 2,
+            "loc": "경남8",
+            "locDtl": "통영,고성,사천",
+            "price1": 77000,
+            "price2": 94000,
+            "price3": 124000
+        },
+        {
+            "consignId": 16,
+            "auctHouse": 2,
+            "loc": "경남9",
+            "locDtl": "산청,함양",
+            "price1": 96000,
+            "price2": 116000,
+            "price3": 153000
+        },
+        {
+            "consignId": 17,
+            "auctHouse": 2,
+            "loc": "울산권",
+            "locDtl": "울산광역시,울주군",
+            "price1": 41000,
+            "price2": 49000,
+            "price3": 65000
+        },
+        {
+            "consignId": 18,
+            "auctHouse": 3,
+            "loc": "서울1",
+            "locDtl": "강남구,강동구,강서구,관악구,광진구,구로구,금천구,동작구,서초구,성동구,송파구,양천구,영등포구,용산구",
+            "price1": 37000,
+            "price2": 67000,
+            "price3": 80000
+        },
+        {
+            "consignId": 19,
+            "auctHouse": 3,
+            "loc": "서울2",
+            "locDtl": "마포구,서대문구,은평구,종로구,중구,중랑구",
+            "price1": 41000,
+            "price2": 67000,
+            "price3": 80000
+        },
+        {
+            "consignId": 20,
+            "auctHouse": 3,
+            "loc": "서울3",
+            "locDtl": "강북구,노원구,도봉구,동대문구,성북구",
+            "price1": 43000,
+            "price2": 67000,
+            "price3": 80000
+        },
+        {
+            "consignId": 21,
+            "auctHouse": 3,
+            "loc": "경기동부1",
+            "locDtl": "성남시",
+            "price1": 37000,
+            "price2": 67000,
+            "price3": 80000
+        },
+        {
+            "consignId": 22,
+            "auctHouse": 3,
+            "loc": "경기동부2",
+            "locDtl": "광주시",
+            "price1": 41000,
+            "price2": 67000,
+            "price3": 80000
+        },
+        {
+            "consignId": 23,
+            "auctHouse": 3,
+            "loc": "경기동부3",
+            "locDtl": "양평군,이천시,하남시",
+            "price1": 43000,
+            "price2": 67000,
+            "price3": 80000
+        },
+        {
+            "consignId": 24,
+            "auctHouse": 3,
+            "loc": "경기동부4",
+            "locDtl": "여주시",
+            "price1": 46000,
+            "price2": 67000,
+            "price3": 80000
+        }
+    ]
+}

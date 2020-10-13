@@ -1,0 +1,26 @@
+{
+  "presets": ["next/babel"],
+  "plugins": [
+    [
+      "module-resolver",
+      {
+        "root": ["./"],
+        "alias": {
+          "@src": "./src",
+          "@lib": "./lib",
+          "@pages": "./pages"
+        },
+        "extensions": [".js", ".jsx", ".tsx"]
+      }
+    ],
+    ["emotion"]
+  ],
+  "env": {
+    "staging": {
+      "plugins": [["transform-remove-console", {"exclude": ["error", "warn", "info"] }]]
+    },
+    "production": {
+      "plugins": [["transform-remove-console", {"exclude": ["info"] }]]
+    }
+  }
+}

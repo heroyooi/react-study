@@ -1,0 +1,19 @@
+// 라이브스튜디오 차량이미지 조회: API-BC-LS-002
+// GET /buycar/selectProductDetailLiveStudioPhoto.do
+//  curl -X GET --header 'Accept: application/json' 'http://10.25.44.85:8080/autobell_api/buycar/selectProductDetailLiveStudioPhoto.do?dlrPrdId=PPPPPP1'
+// @ParameterType: query
+// @parameter: dlrPrdId
+// @DataType: string
+// @sampleParameterValue: PPPPPP1
+{
+  "data": {
+    "innerPht": ["/abc/inner/a.jpg", "/abc/inner/b.jpg", "/abc/inner/c.jpg", "/abc/inner/d.jpg"],
+    "outterPht": ["/abc/outter/a.jpg", "/abc/outter/b.jpg", "/abc/outter/c.jpg", "/abc/outter/d.jpg"],
+    "bonnetPht": ["/abc/bonnet/a.jpg", "/abc/bonnet/b.jpg", "/abc/bonnet/c.jpg", "/abc/bonnet/d.jpg"],
+    "trunkPht": ["/abc/trunk/a.jpg", "/abc/trunk/b.jpg", "/abc/trunk/c.jpg", "/abc/trunk/d.jpg"]
+  },
+  "statusinfo": {
+    "returncd": "000",
+    "returnmsg": "정상"
+  }
+}

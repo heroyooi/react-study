@@ -1,0 +1,1387 @@
+[
+  {
+    "name": "현대 팰리세이드 1",
+    "price": "4,500",
+    "carNo": "00나0000",
+    "modelYear": "18/07식",
+    "drivingDistance": "53,436",
+    "transmission": "오토",
+    "accident": "무사고",
+    "presentationNo": "21363842937",
+    "fuel": "가솔린",
+    "displacement": "4,500",
+    "carType": "대형차",
+    "color": "흰색",
+    "foreclosureMortgage": "무",
+    "itrtProdYn": "N",
+    "image": "/images/dummy/product-img-01.png",
+    "alt": "차량 이미지",
+    "discount": 20,
+    "tags": [
+      { "color": "blue60", "value": "EW" },
+      { "color": "gold", "value": "프랜차이즈" }
+    ],
+    "infos": ["18/07식", "26,530km", "가솔린", "대구"],
+    "options": [
+      { "color": "red", "value": "라이브" },
+      { "color": "blue60", "value": "경매" }
+    ],
+    "id": 0,
+    "carGallery": [
+      {
+        "bImg": "https://www.hyundai.com/content/dam/hyundai/kr/ko/images/vehicles/avante/highlights/pip-avante-highlights-gasoline-1-point-6-premium-full-option.jpg",
+        "bAlt": "차량이미지01",
+        "sImg": "https://www.hyundai.com/content/dam/hyundai/kr/ko/images/vehicles/avante/highlights/pip-avante-highlights-gasoline-1-point-6-premium-full-option.jpg",
+        "sAlt": "차량이미지01 미니"
+      },
+      {
+        "bImg": "https://www.hyundai.com/content/dam/hyundai/kr/ko/images/vehicles/avante/highlights/pip-avante-highlights-gasoline-1-point-6-premium-full-option-front-teal-blue.jpg",
+        "bAlt": "차량이미지02",
+        "sImg": "https://www.hyundai.com/content/dam/hyundai/kr/ko/images/vehicles/avante/highlights/pip-avante-highlights-gasoline-1-point-6-premium-full-option-front-teal-blue.jpg",
+        "sAlt": "차량이미지02 미니"
+      },
+      {
+        "bImg": "https://www.hyundai.com/content/dam/hyundai/kr/ko/images/vehicles/grandeur/design/pip-grandeur-design-full-led-headlamp-and-cascading-grill-n.jpg",
+        "bAlt": "차량이미지03",
+        "sImg": "https://www.hyundai.com/content/dam/hyundai/kr/ko/images/vehicles/grandeur/design/pip-grandeur-design-full-led-headlamp-and-cascading-grill-n.jpg",
+        "sAlt": "차량이미지03 미니"
+      }
+    ]
+  },
+  {
+    "name": "현대 소나타 2",
+    "price": "2,000",
+    "carNo": "11나1111",
+    "modelYear": "18/07식",
+    "drivingDistance": "53,436",
+    "transmission": "오토",
+    "accident": "무사고",
+    "presentationNo": "21363842937",
+    "fuel": "디젤",
+    "displacement": "2,000",
+    "carType": "중형차",
+    "color": "진주색",
+    "foreclosureMortgage": "무",
+    "image": "/images/dummy/product-img-01.png",
+    "alt": "차량 이미지",
+    "discount": 20,
+    "tags": [
+      { "color": "blue60", "value": "EW" },
+      { "color": "purple", "value": "홈서비스" },
+      { "color": "pink", "value": "헛걸음" },
+      { "color": "sky", "value": "수입인증" }
+    ],
+    "infos": ["18/07식", "26,530km", "디젤", "대구"],
+    "options": [{ "color": "red", "value": "라이브" }],
+    "itrtProdYn": "N",
+    "id": 1,
+    "carGallery": [
+      {
+        "bImg": "https://www.hyundai.com/content/dam/hyundai/kr/ko/images/vehicles/grandeur/design/pip-grandeur-design-led-turn-signal-applied-outside-mirror-and-satin-chrome-molding-n.jpg",
+        "bAlt": "차량이미지04",
+        "sImg": "https://www.hyundai.com/content/dam/hyundai/kr/ko/images/vehicles/grandeur/design/pip-grandeur-design-led-turn-signal-applied-outside-mirror-and-satin-chrome-molding-n.jpg",
+        "sAlt": "차량이미지04 미니"
+      },
+      {
+        "bImg": "https://www.hyundai.com/content/dam/hyundai/kr/ko/images/vehicles/grandeur/design/pip-grandeur-design-led-rear-combilamp-n.jpg",
+        "bAlt": "차량이미지05",
+        "sImg": "https://www.hyundai.com/content/dam/hyundai/kr/ko/images/vehicles/grandeur/design/pip-grandeur-design-led-rear-combilamp-n.jpg",
+        "sAlt": "차량이미지05 미니"
+      },
+      {
+        "bImg": "https://www.hyundai.com/content/dam/hyundai/kr/ko/images/vehicles/grandeur/design/pip-grandeur-design-3-point-3-celebrity-full-options.jpg",
+        "bAlt": "차량이미지06",
+        "sImg": "https://www.hyundai.com/content/dam/hyundai/kr/ko/images/vehicles/grandeur/design/pip-grandeur-design-3-point-3-celebrity-full-options.jpg",
+        "sAlt": "차량이미지06 미니"
+      }
+    ]
+  },
+  {
+    "name": "현대 그랜저 3",
+    "price": "3,000",
+    "carNo": "22나2222",
+    "modelYear": "18/07식",
+    "drivingDistance": "53,436",
+    "transmission": "오토",
+    "accident": "무사고",
+    "presentationNo": "21363842937",
+    "fuel": "가솔린+전기",
+    "displacement": "3,000",
+    "carType": "소형차",
+    "color": "검정색",
+    "foreclosureMortgage": "무",
+    "image": "/images/dummy/product-img-01.png",
+    "alt": "차량 이미지",
+    "discount": 20,
+    "tags": [{ "color": "blue60", "value": "EW" }],
+    "infos": ["18/07식", "26,530km", "가솔린+전기", "대구"],
+    "options": [{ "color": "red", "value": "라이브" }],
+    "itrtProdYn": "N",
+    "id": 2,
+    "carGallery": [
+      {
+        "bImg": "https://www.hyundai.com/content/dam/hyundai/kr/ko/images/vehicles/avante/highlights/pip-avante-highlights-gasoline-1-point-6-premium-full-option.jpg",
+        "bAlt": "차량이미지01",
+        "sImg": "https://www.hyundai.com/content/dam/hyundai/kr/ko/images/vehicles/avante/highlights/pip-avante-highlights-gasoline-1-point-6-premium-full-option.jpg",
+        "sAlt": "차량이미지01 미니"
+      },
+      {
+        "bImg": "https://www.hyundai.com/content/dam/hyundai/kr/ko/images/vehicles/avante/highlights/pip-avante-highlights-gasoline-1-point-6-premium-full-option-front-teal-blue.jpg",
+        "bAlt": "차량이미지02",
+        "sImg": "https://www.hyundai.com/content/dam/hyundai/kr/ko/images/vehicles/avante/highlights/pip-avante-highlights-gasoline-1-point-6-premium-full-option-front-teal-blue.jpg",
+        "sAlt": "차량이미지02 미니"
+      },
+      {
+        "bImg": "https://www.hyundai.com/content/dam/hyundai/kr/ko/images/vehicles/grandeur/design/pip-grandeur-design-full-led-headlamp-and-cascading-grill-n.jpg",
+        "bAlt": "차량이미지03",
+        "sImg": "https://www.hyundai.com/content/dam/hyundai/kr/ko/images/vehicles/grandeur/design/pip-grandeur-design-full-led-headlamp-and-cascading-grill-n.jpg",
+        "sAlt": "차량이미지03 미니"
+      }
+    ]
+  },
+  {
+    "name": "현대 투싼 4",
+    "price": "1,500",
+    "carNo": "33나3333",
+    "modelYear": "18/07식",
+    "drivingDistance": "53,436",
+    "transmission": "오토",
+    "accident": "무사고",
+    "presentationNo": "21363842937",
+    "fuel": "LPG+전기",
+    "displacement": "1,500",
+    "carType": "대형차",
+    "color": "검정투톤",
+    "foreclosureMortgage": "무",
+    "image": "/images/dummy/product-img-01.png",
+    "alt": "차량 이미지",
+    "discount": 20,
+    "tags": [
+      { "color": "blue60", "value": "EW" },
+      { "color": "purple", "value": "홈서비스" },
+      { "color": "pink", "value": "헛걸음" }
+    ],
+    "infos": ["18/07식", "26,530km", "LPG+전기", "대구"],
+    "options": [{ "color": "red", "value": "라이브" }],
+    "itrtProdYn": "N",
+    "id": 3,
+    "carGallery": [
+      {
+        "bImg": "https://www.hyundai.com/content/dam/hyundai/kr/ko/images/vehicles/veloster/style/pip-veloster-style-led-headlamp.jpg",
+        "bAlt": "차량이미지11",
+        "sImg": "https://www.hyundai.com/content/dam/hyundai/kr/ko/images/vehicles/veloster/style/pip-veloster-style-led-headlamp.jpg",
+        "sAlt": "차량이미지11 미니"
+      },
+      {
+        "bImg": "https://www.hyundai.com/content/dam/hyundai/kr/ko/images/vehicles/veloster/style/pip-veloster-style-led-rear-combi-lamp.jpg",
+        "bAlt": "차량이미지12",
+        "sImg": "https://www.hyundai.com/content/dam/hyundai/kr/ko/images/vehicles/veloster/style/pip-veloster-style-led-rear-combi-lamp.jpg",
+        "sAlt": "차량이미지12 미니"
+      },
+      {
+        "bImg": "https://www.hyundai.com/content/dam/hyundai/kr/ko/images/vehicles/veloster/style/pip-veloster-style-head-up-display-combiner-type.jpg",
+        "bAlt": "차량이미지13",
+        "sImg": "https://www.hyundai.com/content/dam/hyundai/kr/ko/images/vehicles/veloster/style/pip-veloster-style-head-up-display-combiner-type.jpg",
+        "sAlt": "차량이미지13 미니"
+      },
+      {
+        "bImg": "https://www.hyundai.com/content/dam/hyundai/kr/ko/images/vehicles/veloster/style/pip-veloster-style-digital-performance-gauge.jpg",
+        "bAlt": "차량이미지14",
+        "sImg": "https://www.hyundai.com/content/dam/hyundai/kr/ko/images/vehicles/veloster/style/pip-veloster-style-digital-performance-gauge.jpg",
+        "sAlt": "차량이미지14 미니"
+      }
+    ]
+  },
+  {
+    "name": "현대 코나 5",
+    "price": "2,300",
+    "carNo": "44나4444",
+    "modelYear": "18/07식",
+    "drivingDistance": "53,436",
+    "transmission": "오토",
+    "accident": "무사고",
+    "presentationNo": "21363842937",
+    "fuel": "가솔린+LPG",
+    "displacement": "2,300",
+    "carType": "중형차",
+    "color": "쥐색",
+    "foreclosureMortgage": "무",
+    "image": "/images/dummy/product-img-01.png",
+    "alt": "차량 이미지",
+    "discount": 20,
+    "tags": [{ "color": "blue60", "value": "EW" }],
+    "infos": ["18/07식", "26,530km", "가솔린+LPG", "대구"],
+    "options": [{ "color": "red", "value": "라이브" }],
+    "itrtProdYn": "N",
+    "id": 4,
+    "carGallery": [
+      {
+        "bImg": "https://www.hyundai.com/content/dam/hyundai/kr/ko/images/vehicles/grandeur/design/pip-grandeur-design-led-turn-signal-applied-outside-mirror-and-satin-chrome-molding-n.jpg",
+        "bAlt": "차량이미지04",
+        "sImg": "https://www.hyundai.com/content/dam/hyundai/kr/ko/images/vehicles/grandeur/design/pip-grandeur-design-led-turn-signal-applied-outside-mirror-and-satin-chrome-molding-n.jpg",
+        "sAlt": "차량이미지04 미니"
+      },
+      {
+        "bImg": "https://www.hyundai.com/content/dam/hyundai/kr/ko/images/vehicles/grandeur/design/pip-grandeur-design-led-rear-combilamp-n.jpg",
+        "bAlt": "차량이미지05",
+        "sImg": "https://www.hyundai.com/content/dam/hyundai/kr/ko/images/vehicles/grandeur/design/pip-grandeur-design-led-rear-combilamp-n.jpg",
+        "sAlt": "차량이미지05 미니"
+      },
+      {
+        "bImg": "https://www.hyundai.com/content/dam/hyundai/kr/ko/images/vehicles/grandeur/design/pip-grandeur-design-3-point-3-celebrity-full-options.jpg",
+        "bAlt": "차량이미지06",
+        "sImg": "https://www.hyundai.com/content/dam/hyundai/kr/ko/images/vehicles/grandeur/design/pip-grandeur-design-3-point-3-celebrity-full-options.jpg",
+        "sAlt": "차량이미지06 미니"
+      }
+    ]
+  },
+  {
+    "name": "현대 싼타페TM 6",
+    "price": "3,300",
+    "carNo": "55나5555",
+    "modelYear": "18/07식",
+    "drivingDistance": "53,436",
+    "transmission": "오토",
+    "accident": "무사고",
+    "presentationNo": "21363842937",
+    "fuel": "가솔린+CNG",
+    "displacement": "3,300",
+    "carType": "소형차",
+    "color": "은색",
+    "foreclosureMortgage": "무",
+    "image": "/images/dummy/product-img-01.png",
+    "alt": "차량 이미지",
+    "discount": 20,
+    "tags": [{ "color": "blue60", "value": "EW" }],
+    "infos": ["18/07식", "26,530km", "가솔린+CNG", "대구"],
+    "options": [{ "color": "red", "value": "라이브" }],
+    "itrtProdYn": "N",
+    "id": 5,
+    "carGallery": [
+      {
+        "bImg": "https://www.hyundai.com/content/dam/hyundai/kr/ko/images/vehicles/avante/highlights/pip-avante-highlights-gasoline-1-point-6-premium-full-option.jpg",
+        "bAlt": "차량이미지01",
+        "sImg": "https://www.hyundai.com/content/dam/hyundai/kr/ko/images/vehicles/avante/highlights/pip-avante-highlights-gasoline-1-point-6-premium-full-option.jpg",
+        "sAlt": "차량이미지01 미니"
+      },
+      {
+        "bImg": "https://www.hyundai.com/content/dam/hyundai/kr/ko/images/vehicles/avante/highlights/pip-avante-highlights-gasoline-1-point-6-premium-full-option-front-teal-blue.jpg",
+        "bAlt": "차량이미지02",
+        "sImg": "https://www.hyundai.com/content/dam/hyundai/kr/ko/images/vehicles/avante/highlights/pip-avante-highlights-gasoline-1-point-6-premium-full-option-front-teal-blue.jpg",
+        "sAlt": "차량이미지02 미니"
+      },
+      {
+        "bImg": "https://www.hyundai.com/content/dam/hyundai/kr/ko/images/vehicles/grandeur/design/pip-grandeur-design-full-led-headlamp-and-cascading-grill-n.jpg",
+        "bAlt": "차량이미지03",
+        "sImg": "https://www.hyundai.com/content/dam/hyundai/kr/ko/images/vehicles/grandeur/design/pip-grandeur-design-full-led-headlamp-and-cascading-grill-n.jpg",
+        "sAlt": "차량이미지03 미니"
+      }
+    ]
+  },
+  {
+    "name": "현대 팰리세이드 7",
+    "price": "4,500",
+    "carNo": "66나6666",
+    "modelYear": "18/07식",
+    "drivingDistance": "53,436",
+    "transmission": "오토",
+    "accident": "무사고",
+    "presentationNo": "21363842937",
+    "fuel": "전기",
+    "displacement": "4,500",
+    "carType": "대형차",
+    "color": "은회색",
+    "foreclosureMortgage": "무",
+    "image": "/images/dummy/product-img-01.png",
+    "alt": "차량 이미지",
+    "discount": 20,
+    "tags": [{ "color": "blue60", "value": "EW" }],
+    "infos": ["18/07식", "26,530km", "전기", "대구"],
+    "options": [{ "color": "red", "value": "라이브" }],
+    "itrtProdYn": "N",
+    "id": 6,
+    "carGallery": [
+      {
+        "bImg": "https://www.hyundai.com/content/dam/hyundai/kr/ko/images/vehicles/veloster/style/pip-veloster-style-led-headlamp.jpg",
+        "bAlt": "차량이미지11",
+        "sImg": "https://www.hyundai.com/content/dam/hyundai/kr/ko/images/vehicles/veloster/style/pip-veloster-style-led-headlamp.jpg",
+        "sAlt": "차량이미지11 미니"
+      },
+      {
+        "bImg": "https://www.hyundai.com/content/dam/hyundai/kr/ko/images/vehicles/veloster/style/pip-veloster-style-led-rear-combi-lamp.jpg",
+        "bAlt": "차량이미지12",
+        "sImg": "https://www.hyundai.com/content/dam/hyundai/kr/ko/images/vehicles/veloster/style/pip-veloster-style-led-rear-combi-lamp.jpg",
+        "sAlt": "차량이미지12 미니"
+      },
+      {
+        "bImg": "https://www.hyundai.com/content/dam/hyundai/kr/ko/images/vehicles/veloster/style/pip-veloster-style-head-up-display-combiner-type.jpg",
+        "bAlt": "차량이미지13",
+        "sImg": "https://www.hyundai.com/content/dam/hyundai/kr/ko/images/vehicles/veloster/style/pip-veloster-style-head-up-display-combiner-type.jpg",
+        "sAlt": "차량이미지13 미니"
+      },
+      {
+        "bImg": "https://www.hyundai.com/content/dam/hyundai/kr/ko/images/vehicles/veloster/style/pip-veloster-style-digital-performance-gauge.jpg",
+        "bAlt": "차량이미지14",
+        "sImg": "https://www.hyundai.com/content/dam/hyundai/kr/ko/images/vehicles/veloster/style/pip-veloster-style-digital-performance-gauge.jpg",
+        "sAlt": "차량이미지14 미니"
+      }
+    ]
+  },
+  {
+    "name": "현대 소나타 8",
+    "price": "2,000",
+    "carNo": "77나7777",
+    "modelYear": "18/07식",
+    "drivingDistance": "53,436",
+    "transmission": "오토",
+    "accident": "무사고",
+    "presentationNo": "21363842937",
+    "fuel": "CNG",
+    "displacement": "2,000",
+    "carType": "중형차",
+    "color": "분홍색",
+    "foreclosureMortgage": "무",
+    "image": "/images/dummy/product-img-01.png",
+    "alt": "차량 이미지",
+    "discount": 20,
+    "tags": [{ "color": "blue60", "value": "EW" }],
+    "infos": ["18/07식", "26,530km", "CNG", "대구"],
+    "options": [
+      { "color": "red", "value": "라이브" },
+      { "color": "blue60", "value": "경매" }
+    ],
+    "itrtProdYn": "N",
+    "id": 7,
+    "carGallery": [
+      {
+        "bImg": "https://www.hyundai.com/content/dam/hyundai/kr/ko/images/vehicles/avante/highlights/pip-avante-highlights-gasoline-1-point-6-premium-full-option.jpg",
+        "bAlt": "차량이미지01",
+        "sImg": "https://www.hyundai.com/content/dam/hyundai/kr/ko/images/vehicles/avante/highlights/pip-avante-highlights-gasoline-1-point-6-premium-full-option.jpg",
+        "sAlt": "차량이미지01 미니"
+      },
+      {
+        "bImg": "https://www.hyundai.com/content/dam/hyundai/kr/ko/images/vehicles/avante/highlights/pip-avante-highlights-gasoline-1-point-6-premium-full-option-front-teal-blue.jpg",
+        "bAlt": "차량이미지02",
+        "sImg": "https://www.hyundai.com/content/dam/hyundai/kr/ko/images/vehicles/avante/highlights/pip-avante-highlights-gasoline-1-point-6-premium-full-option-front-teal-blue.jpg",
+        "sAlt": "차량이미지02 미니"
+      },
+      {
+        "bImg": "https://www.hyundai.com/content/dam/hyundai/kr/ko/images/vehicles/grandeur/design/pip-grandeur-design-full-led-headlamp-and-cascading-grill-n.jpg",
+        "bAlt": "차량이미지03",
+        "sImg": "https://www.hyundai.com/content/dam/hyundai/kr/ko/images/vehicles/grandeur/design/pip-grandeur-design-full-led-headlamp-and-cascading-grill-n.jpg",
+        "sAlt": "차량이미지03 미니"
+      }
+    ]
+  },
+  {
+    "name": "현대 그랜저 9",
+    "price": "3,000",
+    "carNo": "88나8888",
+    "modelYear": "18/07식",
+    "drivingDistance": "53,436",
+    "transmission": "오토",
+    "accident": "무사고",
+    "presentationNo": "21363842937",
+    "fuel": "기타",
+    "displacement": "3,000",
+    "carType": "소형차",
+    "color": "은색투톤",
+    "foreclosureMortgage": "무",
+    "image": "/images/dummy/product-img-01.png",
+    "alt": "차량 이미지",
+    "discount": 20,
+    "tags": [{ "color": "blue60", "value": "EW" }],
+    "infos": ["18/07식", "26,530km", "기타", "대구"],
+    "options": [{ "color": "red", "value": "라이브" }],
+    "itrtProdYn": "N",
+    "id": 8,
+    "carGallery": [
+      {
+        "bImg": "https://www.hyundai.com/content/dam/hyundai/kr/ko/images/vehicles/grandeur/design/pip-grandeur-design-led-turn-signal-applied-outside-mirror-and-satin-chrome-molding-n.jpg",
+        "bAlt": "차량이미지04",
+        "sImg": "https://www.hyundai.com/content/dam/hyundai/kr/ko/images/vehicles/grandeur/design/pip-grandeur-design-led-turn-signal-applied-outside-mirror-and-satin-chrome-molding-n.jpg",
+        "sAlt": "차량이미지04 미니"
+      },
+      {
+        "bImg": "https://www.hyundai.com/content/dam/hyundai/kr/ko/images/vehicles/grandeur/design/pip-grandeur-design-led-rear-combilamp-n.jpg",
+        "bAlt": "차량이미지05",
+        "sImg": "https://www.hyundai.com/content/dam/hyundai/kr/ko/images/vehicles/grandeur/design/pip-grandeur-design-led-rear-combilamp-n.jpg",
+        "sAlt": "차량이미지05 미니"
+      },
+      {
+        "bImg": "https://www.hyundai.com/content/dam/hyundai/kr/ko/images/vehicles/grandeur/design/pip-grandeur-design-3-point-3-celebrity-full-options.jpg",
+        "bAlt": "차량이미지06",
+        "sImg": "https://www.hyundai.com/content/dam/hyundai/kr/ko/images/vehicles/grandeur/design/pip-grandeur-design-3-point-3-celebrity-full-options.jpg",
+        "sAlt": "차량이미지06 미니"
+      }
+    ]
+  },
+  {
+    "name": "현대 투싼 10",
+    "price": "1,500",
+    "carNo": "99나9999",
+    "modelYear": "18/07식",
+    "drivingDistance": "53,436",
+    "transmission": "오토",
+    "accident": "무사고",
+    "presentationNo": "21363842937",
+    "fuel": "수소",
+    "displacement": "1,500",
+    "carType": "대형차",
+    "color": "진주투톤",
+    "foreclosureMortgage": "무",
+    "image": "/images/dummy/product-img-01.png",
+    "alt": "차량 이미지",
+    "discount": 20,
+    "tags": [{ "color": "blue60", "value": "EW" }],
+    "infos": ["18/07식", "26,530km", "수소", "대구"],
+    "options": [{ "color": "red", "value": "라이브" }],
+    "itrtProdYn": "N",
+    "id": 9,
+    "carGallery": [
+      {
+        "bImg": "https://www.hyundai.com/content/dam/hyundai/kr/ko/images/vehicles/avante/highlights/pip-avante-highlights-gasoline-1-point-6-premium-full-option.jpg",
+        "bAlt": "차량이미지01",
+        "sImg": "https://www.hyundai.com/content/dam/hyundai/kr/ko/images/vehicles/avante/highlights/pip-avante-highlights-gasoline-1-point-6-premium-full-option.jpg",
+        "sAlt": "차량이미지01 미니"
+      },
+      {
+        "bImg": "https://www.hyundai.com/content/dam/hyundai/kr/ko/images/vehicles/avante/highlights/pip-avante-highlights-gasoline-1-point-6-premium-full-option-front-teal-blue.jpg",
+        "bAlt": "차량이미지02",
+        "sImg": "https://www.hyundai.com/content/dam/hyundai/kr/ko/images/vehicles/avante/highlights/pip-avante-highlights-gasoline-1-point-6-premium-full-option-front-teal-blue.jpg",
+        "sAlt": "차량이미지02 미니"
+      },
+      {
+        "bImg": "https://www.hyundai.com/content/dam/hyundai/kr/ko/images/vehicles/grandeur/design/pip-grandeur-design-full-led-headlamp-and-cascading-grill-n.jpg",
+        "bAlt": "차량이미지03",
+        "sImg": "https://www.hyundai.com/content/dam/hyundai/kr/ko/images/vehicles/grandeur/design/pip-grandeur-design-full-led-headlamp-and-cascading-grill-n.jpg",
+        "sAlt": "차량이미지03 미니"
+      }
+    ]
+  },
+  {
+    "name": "현대 코나 11",
+    "price": "2,300",
+    "carNo": "101나1010",
+    "modelYear": "18/07식",
+    "drivingDistance": "53,436",
+    "transmission": "오토",
+    "accident": "무사고",
+    "presentationNo": "21363842937",
+    "fuel": "가솔린",
+    "displacement": "2,300",
+    "carType": "중형차",
+    "color": "은하색",
+    "foreclosureMortgage": "무",
+    "image": "/images/dummy/product-img-01.png",
+    "alt": "차량 이미지",
+    "discount": 20,
+    "tags": [
+      { "color": "blue60", "value": "EW" },
+      { "color": "purple", "value": "홈서비스" },
+      { "color": "pink", "value": "헛걸음" },
+      { "color": "sky", "value": "수입인증" }
+    ],
+    "infos": ["18/07식", "26,530km", "가솔린", "대구"],
+    "options": [{ "color": "red", "value": "라이브" }],
+    "itrtProdYn": "N",
+    "id": 10,
+    "carGallery": [
+      {
+        "bImg": "https://www.hyundai.com/content/dam/hyundai/kr/ko/images/vehicles/veloster/style/pip-veloster-style-led-headlamp.jpg",
+        "bAlt": "차량이미지11",
+        "sImg": "https://www.hyundai.com/content/dam/hyundai/kr/ko/images/vehicles/veloster/style/pip-veloster-style-led-headlamp.jpg",
+        "sAlt": "차량이미지11 미니"
+      },
+      {
+        "bImg": "https://www.hyundai.com/content/dam/hyundai/kr/ko/images/vehicles/veloster/style/pip-veloster-style-led-rear-combi-lamp.jpg",
+        "bAlt": "차량이미지12",
+        "sImg": "https://www.hyundai.com/content/dam/hyundai/kr/ko/images/vehicles/veloster/style/pip-veloster-style-led-rear-combi-lamp.jpg",
+        "sAlt": "차량이미지12 미니"
+      },
+      {
+        "bImg": "https://www.hyundai.com/content/dam/hyundai/kr/ko/images/vehicles/veloster/style/pip-veloster-style-head-up-display-combiner-type.jpg",
+        "bAlt": "차량이미지13",
+        "sImg": "https://www.hyundai.com/content/dam/hyundai/kr/ko/images/vehicles/veloster/style/pip-veloster-style-head-up-display-combiner-type.jpg",
+        "sAlt": "차량이미지13 미니"
+      },
+      {
+        "bImg": "https://www.hyundai.com/content/dam/hyundai/kr/ko/images/vehicles/veloster/style/pip-veloster-style-digital-performance-gauge.jpg",
+        "bAlt": "차량이미지14",
+        "sImg": "https://www.hyundai.com/content/dam/hyundai/kr/ko/images/vehicles/veloster/style/pip-veloster-style-digital-performance-gauge.jpg",
+        "sAlt": "차량이미지14 미니"
+      }
+    ]
+  },
+  {
+    "name": "현대 싼타페TM 12",
+    "price": "3,300",
+    "carNo": "111나1111",
+    "modelYear": "18/07식",
+    "drivingDistance": "53,436",
+    "transmission": "오토",
+    "accident": "무사고",
+    "presentationNo": "21363842937",
+    "fuel": "디젤",
+    "displacement": "3,300",
+    "carType": "소형차",
+    "color": "명은색",
+    "foreclosureMortgage": "무",
+    "image": "/images/dummy/product-img-01.png",
+    "alt": "차량 이미지",
+    "discount": 20,
+    "tags": [{ "color": "blue60", "value": "EW" }],
+    "infos": ["18/07식", "26,530km", "디젤", "대구"],
+    "options": [{ "color": "red", "value": "라이브" }],
+    "itrtProdYn": "N",
+    "id": 11,
+    "carGallery": [
+      {
+        "bImg": "https://www.hyundai.com/content/dam/hyundai/kr/ko/images/vehicles/avante/highlights/pip-avante-highlights-gasoline-1-point-6-premium-full-option.jpg",
+        "bAlt": "차량이미지01",
+        "sImg": "https://www.hyundai.com/content/dam/hyundai/kr/ko/images/vehicles/avante/highlights/pip-avante-highlights-gasoline-1-point-6-premium-full-option.jpg",
+        "sAlt": "차량이미지01 미니"
+      },
+      {
+        "bImg": "https://www.hyundai.com/content/dam/hyundai/kr/ko/images/vehicles/avante/highlights/pip-avante-highlights-gasoline-1-point-6-premium-full-option-front-teal-blue.jpg",
+        "bAlt": "차량이미지02",
+        "sImg": "https://www.hyundai.com/content/dam/hyundai/kr/ko/images/vehicles/avante/highlights/pip-avante-highlights-gasoline-1-point-6-premium-full-option-front-teal-blue.jpg",
+        "sAlt": "차량이미지02 미니"
+      },
+      {
+        "bImg": "https://www.hyundai.com/content/dam/hyundai/kr/ko/images/vehicles/grandeur/design/pip-grandeur-design-full-led-headlamp-and-cascading-grill-n.jpg",
+        "bAlt": "차량이미지03",
+        "sImg": "https://www.hyundai.com/content/dam/hyundai/kr/ko/images/vehicles/grandeur/design/pip-grandeur-design-full-led-headlamp-and-cascading-grill-n.jpg",
+        "sAlt": "차량이미지03 미니"
+      }
+    ]
+  },
+  {
+    "name": "현대 팰리세이드 13",
+    "price": "4,500",
+    "carNo": "121나1212",
+    "modelYear": "18/07식",
+    "drivingDistance": "53,436",
+    "transmission": "오토",
+    "accident": "무사고",
+    "presentationNo": "21363842937",
+    "fuel": "가솔린+전기",
+    "displacement": "4,500",
+    "carType": "대형차",
+    "color": "빨간색",
+    "foreclosureMortgage": "무",
+    "image": "/images/dummy/product-img-01.png",
+    "alt": "차량 이미지",
+    "discount": 20,
+    "tags": [{ "color": "blue60", "value": "EW" }],
+    "infos": ["18/07식", "26,530km", "가솔린+전기", "대구"],
+    "options": [{ "color": "red", "value": "라이브" }],
+    "itrtProdYn": "N",
+    "id": 12,
+    "carGallery": [
+      {
+        "bImg": "https://www.hyundai.com/content/dam/hyundai/kr/ko/images/vehicles/grandeur/design/pip-grandeur-design-3-point-0-exclusive-special-and-jbl-sound-package-front.jpg",
+        "bAlt": "차량이미지07",
+        "sImg": "https://www.hyundai.com/content/dam/hyundai/kr/ko/images/vehicles/grandeur/design/pip-grandeur-design-3-point-0-exclusive-special-and-jbl-sound-package-front.jpg",
+        "sAlt": "차량이미지07 미니"
+      },
+      {
+        "bImg": "https://www.hyundai.com/content/dam/hyundai/kr/ko/images/vehicles/grandeur/design/pip-grandeur-design-3-point-0-exclusive-special-and-jbl-sound-package-back.jpg",
+        "bAlt": "차량이미지08",
+        "sImg": "https://www.hyundai.com/content/dam/hyundai/kr/ko/images/vehicles/grandeur/design/pip-grandeur-design-3-point-0-exclusive-special-and-jbl-sound-package-back.jpg",
+        "sAlt": "차량이미지08 미니"
+      },
+      {
+        "bImg": "https://www.hyundai.com/content/dam/hyundai/kr/ko/images/vehicles/i30/highlights/pip-i30-highlights-n-line-full-option.jpg",
+        "bAlt": "차량이미지09",
+        "sImg": "https://www.hyundai.com/content/dam/hyundai/kr/ko/images/vehicles/i30/highlights/pip-i30-highlights-n-line-full-option.jpg",
+        "sAlt": "차량이미지09 미니"
+      },
+      {
+        "bImg": "https://www.hyundai.com/content/dam/hyundai/kr/ko/images/vehicles/i30/highlights/pip-i30-highlights-1-4-tubo-premium-full-option-and-n-line-full-option.jpg",
+        "bAlt": "차량이미지10",
+        "sImg": "https://www.hyundai.com/content/dam/hyundai/kr/ko/images/vehicles/i30/highlights/pip-i30-highlights-1-4-tubo-premium-full-option-and-n-line-full-option.jpg",
+        "sAlt": "차량이미지10 미니"
+      }
+    ]
+  },
+  {
+    "name": "현대 소나타 14",
+    "price": "2,000",
+    "carNo": "131나1313",
+    "modelYear": "18/07식",
+    "drivingDistance": "53,436",
+    "transmission": "오토",
+    "accident": "무사고",
+    "presentationNo": "21363842937",
+    "fuel": "LPG+전기",
+    "displacement": "2,000",
+    "carType": "중형차",
+    "color": "주황색",
+    "foreclosureMortgage": "무",
+    "image": "/images/dummy/product-img-01.png",
+    "alt": "차량 이미지",
+    "discount": 20,
+    "tags": [{ "color": "blue60", "value": "EW" }],
+    "infos": ["18/07식", "26,530km", "LPG+전기", "대구"],
+    "options": [{ "color": "red", "value": "라이브" }],
+    "itrtProdYn": "N",
+    "id": 13,
+    "carGallery": [
+      {
+        "bImg": "https://www.hyundai.com/content/dam/hyundai/kr/ko/images/vehicles/avante/highlights/pip-avante-highlights-gasoline-1-point-6-premium-full-option.jpg",
+        "bAlt": "차량이미지01",
+        "sImg": "https://www.hyundai.com/content/dam/hyundai/kr/ko/images/vehicles/avante/highlights/pip-avante-highlights-gasoline-1-point-6-premium-full-option.jpg",
+        "sAlt": "차량이미지01 미니"
+      },
+      {
+        "bImg": "https://www.hyundai.com/content/dam/hyundai/kr/ko/images/vehicles/avante/highlights/pip-avante-highlights-gasoline-1-point-6-premium-full-option-front-teal-blue.jpg",
+        "bAlt": "차량이미지02",
+        "sImg": "https://www.hyundai.com/content/dam/hyundai/kr/ko/images/vehicles/avante/highlights/pip-avante-highlights-gasoline-1-point-6-premium-full-option-front-teal-blue.jpg",
+        "sAlt": "차량이미지02 미니"
+      },
+      {
+        "bImg": "https://www.hyundai.com/content/dam/hyundai/kr/ko/images/vehicles/grandeur/design/pip-grandeur-design-full-led-headlamp-and-cascading-grill-n.jpg",
+        "bAlt": "차량이미지03",
+        "sImg": "https://www.hyundai.com/content/dam/hyundai/kr/ko/images/vehicles/grandeur/design/pip-grandeur-design-full-led-headlamp-and-cascading-grill-n.jpg",
+        "sAlt": "차량이미지03 미니"
+      }
+    ]
+  },
+  {
+    "name": "현대 그랜저 15",
+    "price": "3,000",
+    "carNo": "141나1414",
+    "modelYear": "18/07식",
+    "drivingDistance": "53,436",
+    "transmission": "오토",
+    "accident": "무사고",
+    "presentationNo": "21363842937",
+    "fuel": "가솔린+LPG",
+    "displacement": "3,000",
+    "carType": "소형차",
+    "color": "자주색",
+    "foreclosureMortgage": "무",
+    "image": "/images/dummy/product-img-01.png",
+    "alt": "차량 이미지",
+    "discount": 20,
+    "tags": [{ "color": "blue60", "value": "EW" }],
+    "infos": ["18/07식", "26,530km", "가솔린+LPG", "대구"],
+    "options": [{ "color": "red", "value": "라이브" }],
+    "itrtProdYn": "N",
+    "id": 14,
+    "carGallery": [
+      {
+        "bImg": "https://www.hyundai.com/content/dam/hyundai/kr/ko/images/vehicles/veloster/style/pip-veloster-style-led-headlamp.jpg",
+        "bAlt": "차량이미지11",
+        "sImg": "https://www.hyundai.com/content/dam/hyundai/kr/ko/images/vehicles/veloster/style/pip-veloster-style-led-headlamp.jpg",
+        "sAlt": "차량이미지11 미니"
+      },
+      {
+        "bImg": "https://www.hyundai.com/content/dam/hyundai/kr/ko/images/vehicles/veloster/style/pip-veloster-style-led-rear-combi-lamp.jpg",
+        "bAlt": "차량이미지12",
+        "sImg": "https://www.hyundai.com/content/dam/hyundai/kr/ko/images/vehicles/veloster/style/pip-veloster-style-led-rear-combi-lamp.jpg",
+        "sAlt": "차량이미지12 미니"
+      },
+      {
+        "bImg": "https://www.hyundai.com/content/dam/hyundai/kr/ko/images/vehicles/veloster/style/pip-veloster-style-head-up-display-combiner-type.jpg",
+        "bAlt": "차량이미지13",
+        "sImg": "https://www.hyundai.com/content/dam/hyundai/kr/ko/images/vehicles/veloster/style/pip-veloster-style-head-up-display-combiner-type.jpg",
+        "sAlt": "차량이미지13 미니"
+      },
+      {
+        "bImg": "https://www.hyundai.com/content/dam/hyundai/kr/ko/images/vehicles/veloster/style/pip-veloster-style-digital-performance-gauge.jpg",
+        "bAlt": "차량이미지14",
+        "sImg": "https://www.hyundai.com/content/dam/hyundai/kr/ko/images/vehicles/veloster/style/pip-veloster-style-digital-performance-gauge.jpg",
+        "sAlt": "차량이미지14 미니"
+      }
+    ]
+  },
+  {
+    "name": "현대 투싼 16",
+    "price": "1,500",
+    "carNo": "151나1515",
+    "modelYear": "18/07식",
+    "drivingDistance": "53,436",
+    "transmission": "오토",
+    "accident": "무사고",
+    "presentationNo": "21363842937",
+    "fuel": "가솔린+CNG",
+    "displacement": "1,500",
+    "carType": "대형차",
+    "color": "보라색",
+    "foreclosureMortgage": "무",
+    "image": "/images/dummy/product-img-01.png",
+    "alt": "차량 이미지",
+    "discount": 20,
+    "tags": [{ "color": "blue60", "value": "EW" }],
+    "infos": ["18/07식", "26,530km", "가솔린+CNG", "대구"],
+    "options": [{ "color": "red", "value": "라이브" }],
+    "itrtProdYn": "N",
+    "id": 15,
+    "carGallery": [
+      {
+        "bImg": "https://www.hyundai.com/content/dam/hyundai/kr/ko/images/vehicles/avante/highlights/pip-avante-highlights-gasoline-1-point-6-premium-full-option.jpg",
+        "bAlt": "차량이미지01",
+        "sImg": "https://www.hyundai.com/content/dam/hyundai/kr/ko/images/vehicles/avante/highlights/pip-avante-highlights-gasoline-1-point-6-premium-full-option.jpg",
+        "sAlt": "차량이미지01 미니"
+      },
+      {
+        "bImg": "https://www.hyundai.com/content/dam/hyundai/kr/ko/images/vehicles/avante/highlights/pip-avante-highlights-gasoline-1-point-6-premium-full-option-front-teal-blue.jpg",
+        "bAlt": "차량이미지02",
+        "sImg": "https://www.hyundai.com/content/dam/hyundai/kr/ko/images/vehicles/avante/highlights/pip-avante-highlights-gasoline-1-point-6-premium-full-option-front-teal-blue.jpg",
+        "sAlt": "차량이미지02 미니"
+      },
+      {
+        "bImg": "https://www.hyundai.com/content/dam/hyundai/kr/ko/images/vehicles/grandeur/design/pip-grandeur-design-full-led-headlamp-and-cascading-grill-n.jpg",
+        "bAlt": "차량이미지03",
+        "sImg": "https://www.hyundai.com/content/dam/hyundai/kr/ko/images/vehicles/grandeur/design/pip-grandeur-design-full-led-headlamp-and-cascading-grill-n.jpg",
+        "sAlt": "차량이미지03 미니"
+      }
+    ]
+  },
+  {
+    "name": "현대 코나 17",
+    "price": "2,300",
+    "carNo": "161나1616",
+    "modelYear": "18/07식",
+    "drivingDistance": "53,436",
+    "transmission": "오토",
+    "accident": "무사고",
+    "presentationNo": "21363842937",
+    "fuel": "전기",
+    "displacement": "2,300",
+    "carType": "중형차",
+    "color": "분홍색",
+    "foreclosureMortgage": "무",
+    "image": "/images/dummy/product-img-01.png",
+    "alt": "차량 이미지",
+    "discount": 20,
+    "tags": [{ "color": "blue60", "value": "EW" }],
+    "infos": ["18/07식", "26,530km", "전기", "대구"],
+    "options": [{ "color": "red", "value": "라이브" }],
+    "itrtProdYn": "N",
+    "id": 16,
+    "carGallery": [
+      {
+        "bImg": "https://www.hyundai.com/content/dam/hyundai/kr/ko/images/vehicles/grandeur/design/pip-grandeur-design-led-turn-signal-applied-outside-mirror-and-satin-chrome-molding-n.jpg",
+        "bAlt": "차량이미지04",
+        "sImg": "https://www.hyundai.com/content/dam/hyundai/kr/ko/images/vehicles/grandeur/design/pip-grandeur-design-led-turn-signal-applied-outside-mirror-and-satin-chrome-molding-n.jpg",
+        "sAlt": "차량이미지04 미니"
+      },
+      {
+        "bImg": "https://www.hyundai.com/content/dam/hyundai/kr/ko/images/vehicles/grandeur/design/pip-grandeur-design-led-rear-combilamp-n.jpg",
+        "bAlt": "차량이미지05",
+        "sImg": "https://www.hyundai.com/content/dam/hyundai/kr/ko/images/vehicles/grandeur/design/pip-grandeur-design-led-rear-combilamp-n.jpg",
+        "sAlt": "차량이미지05 미니"
+      },
+      {
+        "bImg": "https://www.hyundai.com/content/dam/hyundai/kr/ko/images/vehicles/grandeur/design/pip-grandeur-design-3-point-3-celebrity-full-options.jpg",
+        "bAlt": "차량이미지06",
+        "sImg": "https://www.hyundai.com/content/dam/hyundai/kr/ko/images/vehicles/grandeur/design/pip-grandeur-design-3-point-3-celebrity-full-options.jpg",
+        "sAlt": "차량이미지06 미니"
+      }
+    ]
+  },
+  {
+    "name": "현대 싼타페TM 18",
+    "price": "3,300",
+    "carNo": "171나1717",
+    "modelYear": "18/07식",
+    "drivingDistance": "53,436",
+    "transmission": "오토",
+    "accident": "무사고",
+    "presentationNo": "21363842937",
+    "fuel": "CNG",
+    "displacement": "3,300",
+    "carType": "소형차",
+    "color": "노란색",
+    "foreclosureMortgage": "무",
+    "image": "/images/dummy/product-img-01.png",
+    "alt": "차량 이미지",
+    "discount": 20,
+    "tags": [{ "color": "blue60", "value": "EW" }],
+    "infos": ["18/07식", "26,530km", "CNG", "대구"],
+    "options": [{ "color": "red", "value": "라이브" }],
+    "itrtProdYn": "N",
+    "id": 17,
+    "carGallery": [
+      {
+        "bImg": "https://www.hyundai.com/content/dam/hyundai/kr/ko/images/vehicles/avante/highlights/pip-avante-highlights-gasoline-1-point-6-premium-full-option.jpg",
+        "bAlt": "차량이미지01",
+        "sImg": "https://www.hyundai.com/content/dam/hyundai/kr/ko/images/vehicles/avante/highlights/pip-avante-highlights-gasoline-1-point-6-premium-full-option.jpg",
+        "sAlt": "차량이미지01 미니"
+      },
+      {
+        "bImg": "https://www.hyundai.com/content/dam/hyundai/kr/ko/images/vehicles/avante/highlights/pip-avante-highlights-gasoline-1-point-6-premium-full-option-front-teal-blue.jpg",
+        "bAlt": "차량이미지02",
+        "sImg": "https://www.hyundai.com/content/dam/hyundai/kr/ko/images/vehicles/avante/highlights/pip-avante-highlights-gasoline-1-point-6-premium-full-option-front-teal-blue.jpg",
+        "sAlt": "차량이미지02 미니"
+      },
+      {
+        "bImg": "https://www.hyundai.com/content/dam/hyundai/kr/ko/images/vehicles/grandeur/design/pip-grandeur-design-full-led-headlamp-and-cascading-grill-n.jpg",
+        "bAlt": "차량이미지03",
+        "sImg": "https://www.hyundai.com/content/dam/hyundai/kr/ko/images/vehicles/grandeur/design/pip-grandeur-design-full-led-headlamp-and-cascading-grill-n.jpg",
+        "sAlt": "차량이미지03 미니"
+      }
+    ]
+  },
+  {
+    "name": "현대 팰리세이드 19",
+    "price": "4,500",
+    "carNo": "181나1818",
+    "modelYear": "18/07식",
+    "drivingDistance": "53,436",
+    "transmission": "오토",
+    "accident": "무사고",
+    "presentationNo": "21363842937",
+    "fuel": "기타",
+    "displacement": "4,500",
+    "carType": "대형차",
+    "color": "갈대색",
+    "foreclosureMortgage": "무",
+    "image": "/images/dummy/product-img-01.png",
+    "alt": "차량 이미지",
+    "discount": 20,
+    "tags": [{ "color": "blue60", "value": "EW" }],
+    "infos": ["18/07식", "26,530km", "기타", "대구"],
+    "options": [{ "color": "red", "value": "라이브" }],
+    "itrtProdYn": "N",
+    "id": 18,
+    "carGallery": [
+      {
+        "bImg": "https://www.hyundai.com/content/dam/hyundai/kr/ko/images/vehicles/veloster/style/pip-veloster-style-led-headlamp.jpg",
+        "bAlt": "차량이미지11",
+        "sImg": "https://www.hyundai.com/content/dam/hyundai/kr/ko/images/vehicles/veloster/style/pip-veloster-style-led-headlamp.jpg",
+        "sAlt": "차량이미지11 미니"
+      },
+      {
+        "bImg": "https://www.hyundai.com/content/dam/hyundai/kr/ko/images/vehicles/veloster/style/pip-veloster-style-led-rear-combi-lamp.jpg",
+        "bAlt": "차량이미지12",
+        "sImg": "https://www.hyundai.com/content/dam/hyundai/kr/ko/images/vehicles/veloster/style/pip-veloster-style-led-rear-combi-lamp.jpg",
+        "sAlt": "차량이미지12 미니"
+      },
+      {
+        "bImg": "https://www.hyundai.com/content/dam/hyundai/kr/ko/images/vehicles/veloster/style/pip-veloster-style-head-up-display-combiner-type.jpg",
+        "bAlt": "차량이미지13",
+        "sImg": "https://www.hyundai.com/content/dam/hyundai/kr/ko/images/vehicles/veloster/style/pip-veloster-style-head-up-display-combiner-type.jpg",
+        "sAlt": "차량이미지13 미니"
+      },
+      {
+        "bImg": "https://www.hyundai.com/content/dam/hyundai/kr/ko/images/vehicles/veloster/style/pip-veloster-style-digital-performance-gauge.jpg",
+        "bAlt": "차량이미지14",
+        "sImg": "https://www.hyundai.com/content/dam/hyundai/kr/ko/images/vehicles/veloster/style/pip-veloster-style-digital-performance-gauge.jpg",
+        "sAlt": "차량이미지14 미니"
+      }
+    ]
+  },
+  {
+    "name": "현대 소나타 20",
+    "price": "2,000",
+    "carNo": "191나1919",
+    "modelYear": "18/07식",
+    "drivingDistance": "53,436",
+    "transmission": "오토",
+    "accident": "무사고",
+    "presentationNo": "21363842937",
+    "fuel": "수소",
+    "displacement": "2,000",
+    "carType": "중형차",
+    "color": "연금색",
+    "foreclosureMortgage": "무",
+    "image": "/images/dummy/product-img-01.png",
+    "alt": "차량 이미지",
+    "discount": 20,
+    "tags": [{ "color": "blue60", "value": "EW" }],
+    "infos": ["18/07식", "26,530km", "수소", "대구"],
+    "options": [{ "color": "red", "value": "라이브" }],
+    "itrtProdYn": "N",
+    "id": 19,
+    "carGallery": [
+      {
+        "bImg": "https://www.hyundai.com/content/dam/hyundai/kr/ko/images/vehicles/grandeur/design/pip-grandeur-design-3-point-0-exclusive-special-and-jbl-sound-package-front.jpg",
+        "bAlt": "차량이미지07",
+        "sImg": "https://www.hyundai.com/content/dam/hyundai/kr/ko/images/vehicles/grandeur/design/pip-grandeur-design-3-point-0-exclusive-special-and-jbl-sound-package-front.jpg",
+        "sAlt": "차량이미지07 미니"
+      },
+      {
+        "bImg": "https://www.hyundai.com/content/dam/hyundai/kr/ko/images/vehicles/grandeur/design/pip-grandeur-design-3-point-0-exclusive-special-and-jbl-sound-package-back.jpg",
+        "bAlt": "차량이미지08",
+        "sImg": "https://www.hyundai.com/content/dam/hyundai/kr/ko/images/vehicles/grandeur/design/pip-grandeur-design-3-point-0-exclusive-special-and-jbl-sound-package-back.jpg",
+        "sAlt": "차량이미지08 미니"
+      },
+      {
+        "bImg": "https://www.hyundai.com/content/dam/hyundai/kr/ko/images/vehicles/i30/highlights/pip-i30-highlights-n-line-full-option.jpg",
+        "bAlt": "차량이미지09",
+        "sImg": "https://www.hyundai.com/content/dam/hyundai/kr/ko/images/vehicles/i30/highlights/pip-i30-highlights-n-line-full-option.jpg",
+        "sAlt": "차량이미지09 미니"
+      },
+      {
+        "bImg": "https://www.hyundai.com/content/dam/hyundai/kr/ko/images/vehicles/i30/highlights/pip-i30-highlights-1-4-tubo-premium-full-option-and-n-line-full-option.jpg",
+        "bAlt": "차량이미지10",
+        "sImg": "https://www.hyundai.com/content/dam/hyundai/kr/ko/images/vehicles/i30/highlights/pip-i30-highlights-1-4-tubo-premium-full-option-and-n-line-full-option.jpg",
+        "sAlt": "차량이미지10 미니"
+      }
+    ]
+  },
+  {
+    "name": "현대 그랜저 21",
+    "price": "3,000",
+    "carNo": "202나2020",
+    "modelYear": "18/07식",
+    "drivingDistance": "53,436",
+    "transmission": "오토",
+    "accident": "무사고",
+    "presentationNo": "21363842937",
+    "fuel": "가솔린",
+    "displacement": "3,000",
+    "carType": "소형차",
+    "color": "갈색",
+    "foreclosureMortgage": "무",
+    "image": "/images/dummy/product-img-01.png",
+    "alt": "차량 이미지",
+    "discount": 20,
+    "tags": [{ "color": "blue60", "value": "EW" }],
+    "infos": ["18/07식", "26,530km", "가솔린", "대구"],
+    "options": [{ "color": "red", "value": "라이브" }],
+    "itrtProdYn": "N",
+    "id": 20,
+    "carGallery": [
+      {
+        "bImg": "https://www.hyundai.com/content/dam/hyundai/kr/ko/images/vehicles/avante/highlights/pip-avante-highlights-gasoline-1-point-6-premium-full-option.jpg",
+        "bAlt": "차량이미지01",
+        "sImg": "https://www.hyundai.com/content/dam/hyundai/kr/ko/images/vehicles/avante/highlights/pip-avante-highlights-gasoline-1-point-6-premium-full-option.jpg",
+        "sAlt": "차량이미지01 미니"
+      },
+      {
+        "bImg": "https://www.hyundai.com/content/dam/hyundai/kr/ko/images/vehicles/avante/highlights/pip-avante-highlights-gasoline-1-point-6-premium-full-option-front-teal-blue.jpg",
+        "bAlt": "차량이미지02",
+        "sImg": "https://www.hyundai.com/content/dam/hyundai/kr/ko/images/vehicles/avante/highlights/pip-avante-highlights-gasoline-1-point-6-premium-full-option-front-teal-blue.jpg",
+        "sAlt": "차량이미지02 미니"
+      },
+      {
+        "bImg": "https://www.hyundai.com/content/dam/hyundai/kr/ko/images/vehicles/grandeur/design/pip-grandeur-design-full-led-headlamp-and-cascading-grill-n.jpg",
+        "bAlt": "차량이미지03",
+        "sImg": "https://www.hyundai.com/content/dam/hyundai/kr/ko/images/vehicles/grandeur/design/pip-grandeur-design-full-led-headlamp-and-cascading-grill-n.jpg",
+        "sAlt": "차량이미지03 미니"
+      }
+    ]
+  },
+  {
+    "name": "현대 투싼 22",
+    "price": "1,500",
+    "carNo": "212나2121",
+    "modelYear": "18/07식",
+    "drivingDistance": "53,436",
+    "transmission": "오토",
+    "accident": "무사고",
+    "presentationNo": "21363842937",
+    "fuel": "디젤",
+    "displacement": "1,500",
+    "carType": "대형차",
+    "color": "갈색투톤",
+    "foreclosureMortgage": "무",
+    "image": "/images/dummy/product-img-01.png",
+    "alt": "차량 이미지",
+    "discount": 20,
+    "tags": [{ "color": "blue60", "value": "EW" }],
+    "infos": ["18/07식", "26,530km", "디젤", "대구"],
+    "options": [{ "color": "red", "value": "라이브" }],
+    "itrtProdYn": "N",
+    "id": 21,
+    "carGallery": [
+      {
+        "bImg": "https://www.hyundai.com/content/dam/hyundai/kr/ko/images/vehicles/veloster/style/pip-veloster-style-led-headlamp.jpg",
+        "bAlt": "차량이미지11",
+        "sImg": "https://www.hyundai.com/content/dam/hyundai/kr/ko/images/vehicles/veloster/style/pip-veloster-style-led-headlamp.jpg",
+        "sAlt": "차량이미지11 미니"
+      },
+      {
+        "bImg": "https://www.hyundai.com/content/dam/hyundai/kr/ko/images/vehicles/veloster/style/pip-veloster-style-led-rear-combi-lamp.jpg",
+        "bAlt": "차량이미지12",
+        "sImg": "https://www.hyundai.com/content/dam/hyundai/kr/ko/images/vehicles/veloster/style/pip-veloster-style-led-rear-combi-lamp.jpg",
+        "sAlt": "차량이미지12 미니"
+      },
+      {
+        "bImg": "https://www.hyundai.com/content/dam/hyundai/kr/ko/images/vehicles/veloster/style/pip-veloster-style-head-up-display-combiner-type.jpg",
+        "bAlt": "차량이미지13",
+        "sImg": "https://www.hyundai.com/content/dam/hyundai/kr/ko/images/vehicles/veloster/style/pip-veloster-style-head-up-display-combiner-type.jpg",
+        "sAlt": "차량이미지13 미니"
+      },
+      {
+        "bImg": "https://www.hyundai.com/content/dam/hyundai/kr/ko/images/vehicles/veloster/style/pip-veloster-style-digital-performance-gauge.jpg",
+        "bAlt": "차량이미지14",
+        "sImg": "https://www.hyundai.com/content/dam/hyundai/kr/ko/images/vehicles/veloster/style/pip-veloster-style-digital-performance-gauge.jpg",
+        "sAlt": "차량이미지14 미니"
+      }
+    ]
+  },
+  {
+    "name": "현대 코나 23",
+    "price": "2,300",
+    "carNo": "222나2222",
+    "modelYear": "18/07식",
+    "drivingDistance": "53,436",
+    "transmission": "오토",
+    "accident": "무사고",
+    "presentationNo": "21363842937",
+    "fuel": "가솔린+전기",
+    "displacement": "2,300",
+    "carType": "중형차",
+    "color": "금색",
+    "foreclosureMortgage": "무",
+    "image": "/images/dummy/product-img-01.png",
+    "alt": "차량 이미지",
+    "discount": 20,
+    "tags": [{ "color": "blue60", "value": "EW" }],
+    "infos": ["18/07식", "26,530km", "가솔린+전기", "대구"],
+    "options": [{ "color": "red", "value": "라이브" }],
+    "itrtProdYn": "N",
+    "id": 22,
+    "carGallery": [
+      {
+        "bImg": "https://www.hyundai.com/content/dam/hyundai/kr/ko/images/vehicles/grandeur/design/pip-grandeur-design-3-point-0-exclusive-special-and-jbl-sound-package-front.jpg",
+        "bAlt": "차량이미지07",
+        "sImg": "https://www.hyundai.com/content/dam/hyundai/kr/ko/images/vehicles/grandeur/design/pip-grandeur-design-3-point-0-exclusive-special-and-jbl-sound-package-front.jpg",
+        "sAlt": "차량이미지07 미니"
+      },
+      {
+        "bImg": "https://www.hyundai.com/content/dam/hyundai/kr/ko/images/vehicles/grandeur/design/pip-grandeur-design-3-point-0-exclusive-special-and-jbl-sound-package-back.jpg",
+        "bAlt": "차량이미지08",
+        "sImg": "https://www.hyundai.com/content/dam/hyundai/kr/ko/images/vehicles/grandeur/design/pip-grandeur-design-3-point-0-exclusive-special-and-jbl-sound-package-back.jpg",
+        "sAlt": "차량이미지08 미니"
+      },
+      {
+        "bImg": "https://www.hyundai.com/content/dam/hyundai/kr/ko/images/vehicles/i30/highlights/pip-i30-highlights-n-line-full-option.jpg",
+        "bAlt": "차량이미지09",
+        "sImg": "https://www.hyundai.com/content/dam/hyundai/kr/ko/images/vehicles/i30/highlights/pip-i30-highlights-n-line-full-option.jpg",
+        "sAlt": "차량이미지09 미니"
+      },
+      {
+        "bImg": "https://www.hyundai.com/content/dam/hyundai/kr/ko/images/vehicles/i30/highlights/pip-i30-highlights-1-4-tubo-premium-full-option-and-n-line-full-option.jpg",
+        "bAlt": "차량이미지10",
+        "sImg": "https://www.hyundai.com/content/dam/hyundai/kr/ko/images/vehicles/i30/highlights/pip-i30-highlights-1-4-tubo-premium-full-option-and-n-line-full-option.jpg",
+        "sAlt": "차량이미지10 미니"
+      }
+    ]
+  },
+  {
+    "name": "현대 싼타페TM 24",
+    "price": "3,300",
+    "carNo": "232나2323",
+    "modelYear": "18/07식",
+    "drivingDistance": "53,436",
+    "transmission": "오토",
+    "accident": "무사고",
+    "presentationNo": "21363842937",
+    "fuel": "LPG+전기",
+    "displacement": "3,300",
+    "carType": "소형차",
+    "color": "금색투톤",
+    "foreclosureMortgage": "무",
+    "image": "/images/dummy/product-img-01.png",
+    "alt": "차량 이미지",
+    "discount": 20,
+    "tags": [{ "color": "blue60", "value": "EW" }],
+    "infos": ["18/07식", "26,530km", "LPG+전기", "대구"],
+    "options": [{ "color": "red", "value": "라이브" }],
+    "itrtProdYn": "N",
+    "id": 23,
+    "carGallery": [
+      {
+        "bImg": "https://www.hyundai.com/content/dam/hyundai/kr/ko/images/vehicles/avante/highlights/pip-avante-highlights-gasoline-1-point-6-premium-full-option.jpg",
+        "bAlt": "차량이미지01",
+        "sImg": "https://www.hyundai.com/content/dam/hyundai/kr/ko/images/vehicles/avante/highlights/pip-avante-highlights-gasoline-1-point-6-premium-full-option.jpg",
+        "sAlt": "차량이미지01 미니"
+      },
+      {
+        "bImg": "https://www.hyundai.com/content/dam/hyundai/kr/ko/images/vehicles/avante/highlights/pip-avante-highlights-gasoline-1-point-6-premium-full-option-front-teal-blue.jpg",
+        "bAlt": "차량이미지02",
+        "sImg": "https://www.hyundai.com/content/dam/hyundai/kr/ko/images/vehicles/avante/highlights/pip-avante-highlights-gasoline-1-point-6-premium-full-option-front-teal-blue.jpg",
+        "sAlt": "차량이미지02 미니"
+      },
+      {
+        "bImg": "https://www.hyundai.com/content/dam/hyundai/kr/ko/images/vehicles/grandeur/design/pip-grandeur-design-full-led-headlamp-and-cascading-grill-n.jpg",
+        "bAlt": "차량이미지03",
+        "sImg": "https://www.hyundai.com/content/dam/hyundai/kr/ko/images/vehicles/grandeur/design/pip-grandeur-design-full-led-headlamp-and-cascading-grill-n.jpg",
+        "sAlt": "차량이미지03 미니"
+      }
+    ]
+  },
+  {
+    "name": "현대 팰리세이드 25",
+    "price": "4,500",
+    "carNo": "242나2424",
+    "modelYear": "18/07식",
+    "drivingDistance": "53,436",
+    "transmission": "오토",
+    "accident": "무사고",
+    "presentationNo": "21363842937",
+    "fuel": "가솔린+LPG",
+    "displacement": "4,500",
+    "carType": "대형차",
+    "color": "청색",
+    "foreclosureMortgage": "무",
+    "image": "/images/dummy/product-img-01.png",
+    "alt": "차량 이미지",
+    "discount": 20,
+    "tags": [{ "color": "blue60", "value": "EW" }],
+    "infos": ["18/07식", "26,530km", "가솔린+LPG", "대구"],
+    "options": [{ "color": "red", "value": "라이브" }],
+    "itrtProdYn": "N",
+    "id": 24,
+    "carGallery": [
+      {
+        "bImg": "https://www.hyundai.com/content/dam/hyundai/kr/ko/images/vehicles/grandeur/design/pip-grandeur-design-3-point-0-exclusive-special-and-jbl-sound-package-front.jpg",
+        "bAlt": "차량이미지07",
+        "sImg": "https://www.hyundai.com/content/dam/hyundai/kr/ko/images/vehicles/grandeur/design/pip-grandeur-design-3-point-0-exclusive-special-and-jbl-sound-package-front.jpg",
+        "sAlt": "차량이미지07 미니"
+      },
+      {
+        "bImg": "https://www.hyundai.com/content/dam/hyundai/kr/ko/images/vehicles/grandeur/design/pip-grandeur-design-3-point-0-exclusive-special-and-jbl-sound-package-back.jpg",
+        "bAlt": "차량이미지08",
+        "sImg": "https://www.hyundai.com/content/dam/hyundai/kr/ko/images/vehicles/grandeur/design/pip-grandeur-design-3-point-0-exclusive-special-and-jbl-sound-package-back.jpg",
+        "sAlt": "차량이미지08 미니"
+      },
+      {
+        "bImg": "https://www.hyundai.com/content/dam/hyundai/kr/ko/images/vehicles/i30/highlights/pip-i30-highlights-n-line-full-option.jpg",
+        "bAlt": "차량이미지09",
+        "sImg": "https://www.hyundai.com/content/dam/hyundai/kr/ko/images/vehicles/i30/highlights/pip-i30-highlights-n-line-full-option.jpg",
+        "sAlt": "차량이미지09 미니"
+      },
+      {
+        "bImg": "https://www.hyundai.com/content/dam/hyundai/kr/ko/images/vehicles/i30/highlights/pip-i30-highlights-1-4-tubo-premium-full-option-and-n-line-full-option.jpg",
+        "bAlt": "차량이미지10",
+        "sImg": "https://www.hyundai.com/content/dam/hyundai/kr/ko/images/vehicles/i30/highlights/pip-i30-highlights-1-4-tubo-premium-full-option-and-n-line-full-option.jpg",
+        "sAlt": "차량이미지10 미니"
+      }
+    ]
+  },
+  {
+    "name": "현대 소나타 26",
+    "price": "2,000",
+    "carNo": "252나2525",
+    "modelYear": "18/07식",
+    "drivingDistance": "53,436",
+    "transmission": "오토",
+    "accident": "무사고",
+    "presentationNo": "21363842937",
+    "fuel": "가솔린+CNG",
+    "displacement": "2,000",
+    "carType": "중형차",
+    "color": "하늘색",
+    "foreclosureMortgage": "무",
+    "image": "/images/dummy/product-img-01.png",
+    "alt": "차량 이미지",
+    "discount": 20,
+    "tags": [{ "color": "blue60", "value": "EW" }],
+    "infos": ["18/07식", "26,530km", "가솔린+CNG", "대구"],
+    "options": [{ "color": "red", "value": "라이브" }],
+    "itrtProdYn": "N",
+    "id": 25,
+    "carGallery": [
+      {
+        "bImg": "https://www.hyundai.com/content/dam/hyundai/kr/ko/images/vehicles/grandeur/design/pip-grandeur-design-led-turn-signal-applied-outside-mirror-and-satin-chrome-molding-n.jpg",
+        "bAlt": "차량이미지04",
+        "sImg": "https://www.hyundai.com/content/dam/hyundai/kr/ko/images/vehicles/grandeur/design/pip-grandeur-design-led-turn-signal-applied-outside-mirror-and-satin-chrome-molding-n.jpg",
+        "sAlt": "차량이미지04 미니"
+      },
+      {
+        "bImg": "https://www.hyundai.com/content/dam/hyundai/kr/ko/images/vehicles/grandeur/design/pip-grandeur-design-led-rear-combilamp-n.jpg",
+        "bAlt": "차량이미지05",
+        "sImg": "https://www.hyundai.com/content/dam/hyundai/kr/ko/images/vehicles/grandeur/design/pip-grandeur-design-led-rear-combilamp-n.jpg",
+        "sAlt": "차량이미지05 미니"
+      },
+      {
+        "bImg": "https://www.hyundai.com/content/dam/hyundai/kr/ko/images/vehicles/grandeur/design/pip-grandeur-design-3-point-3-celebrity-full-options.jpg",
+        "bAlt": "차량이미지06",
+        "sImg": "https://www.hyundai.com/content/dam/hyundai/kr/ko/images/vehicles/grandeur/design/pip-grandeur-design-3-point-3-celebrity-full-options.jpg",
+        "sAlt": "차량이미지06 미니"
+      }
+    ]
+  },
+  {
+    "name": "현대 그랜저 27",
+    "price": "3,000",
+    "carNo": "262나2626",
+    "modelYear": "18/07식",
+    "drivingDistance": "53,436",
+    "transmission": "오토",
+    "accident": "무사고",
+    "presentationNo": "21363842937",
+    "fuel": "전기",
+    "displacement": "3,000",
+    "carType": "소형차",
+    "color": "담녹색",
+    "foreclosureMortgage": "무",
+    "image": "/images/dummy/product-img-01.png",
+    "alt": "차량 이미지",
+    "discount": 20,
+    "tags": [{ "color": "blue60", "value": "EW" }],
+    "infos": ["18/07식", "26,530km", "전기", "대구"],
+    "options": [{ "color": "red", "value": "라이브" }],
+    "itrtProdYn": "N",
+    "id": 26,
+    "carGallery": [
+      {
+        "bImg": "https://www.hyundai.com/content/dam/hyundai/kr/ko/images/vehicles/veloster/style/pip-veloster-style-led-headlamp.jpg",
+        "bAlt": "차량이미지11",
+        "sImg": "https://www.hyundai.com/content/dam/hyundai/kr/ko/images/vehicles/veloster/style/pip-veloster-style-led-headlamp.jpg",
+        "sAlt": "차량이미지11 미니"
+      },
+      {
+        "bImg": "https://www.hyundai.com/content/dam/hyundai/kr/ko/images/vehicles/veloster/style/pip-veloster-style-led-rear-combi-lamp.jpg",
+        "bAlt": "차량이미지12",
+        "sImg": "https://www.hyundai.com/content/dam/hyundai/kr/ko/images/vehicles/veloster/style/pip-veloster-style-led-rear-combi-lamp.jpg",
+        "sAlt": "차량이미지12 미니"
+      },
+      {
+        "bImg": "https://www.hyundai.com/content/dam/hyundai/kr/ko/images/vehicles/veloster/style/pip-veloster-style-head-up-display-combiner-type.jpg",
+        "bAlt": "차량이미지13",
+        "sImg": "https://www.hyundai.com/content/dam/hyundai/kr/ko/images/vehicles/veloster/style/pip-veloster-style-head-up-display-combiner-type.jpg",
+        "sAlt": "차량이미지13 미니"
+      },
+      {
+        "bImg": "https://www.hyundai.com/content/dam/hyundai/kr/ko/images/vehicles/veloster/style/pip-veloster-style-digital-performance-gauge.jpg",
+        "bAlt": "차량이미지14",
+        "sImg": "https://www.hyundai.com/content/dam/hyundai/kr/ko/images/vehicles/veloster/style/pip-veloster-style-digital-performance-gauge.jpg",
+        "sAlt": "차량이미지14 미니"
+      }
+    ]
+  },
+  {
+    "name": "현대 투싼 28",
+    "price": "1,500",
+    "carNo": "272나2727",
+    "modelYear": "18/07식",
+    "drivingDistance": "53,436",
+    "transmission": "오토",
+    "accident": "무사고",
+    "presentationNo": "21363842937",
+    "fuel": "CNG",
+    "displacement": "1,500",
+    "carType": "대형차",
+    "color": "녹색",
+    "foreclosureMortgage": "무",
+    "image": "/images/dummy/product-img-01.png",
+    "alt": "차량 이미지",
+    "discount": 20,
+    "tags": [{ "color": "blue60", "value": "EW" }],
+    "infos": ["18/07식", "26,530km", "CNG", "대구"],
+    "options": [{ "color": "red", "value": "라이브" }],
+    "itrtProdYn": "N",
+    "id": 27,
+    "carGallery": [
+      {
+        "bImg": "https://www.hyundai.com/content/dam/hyundai/kr/ko/images/vehicles/avante/highlights/pip-avante-highlights-gasoline-1-point-6-premium-full-option.jpg",
+        "bAlt": "차량이미지01",
+        "sImg": "https://www.hyundai.com/content/dam/hyundai/kr/ko/images/vehicles/avante/highlights/pip-avante-highlights-gasoline-1-point-6-premium-full-option.jpg",
+        "sAlt": "차량이미지01 미니"
+      },
+      {
+        "bImg": "https://www.hyundai.com/content/dam/hyundai/kr/ko/images/vehicles/avante/highlights/pip-avante-highlights-gasoline-1-point-6-premium-full-option-front-teal-blue.jpg",
+        "bAlt": "차량이미지02",
+        "sImg": "https://www.hyundai.com/content/dam/hyundai/kr/ko/images/vehicles/avante/highlights/pip-avante-highlights-gasoline-1-point-6-premium-full-option-front-teal-blue.jpg",
+        "sAlt": "차량이미지02 미니"
+      },
+      {
+        "bImg": "https://www.hyundai.com/content/dam/hyundai/kr/ko/images/vehicles/grandeur/design/pip-grandeur-design-full-led-headlamp-and-cascading-grill-n.jpg",
+        "bAlt": "차량이미지03",
+        "sImg": "https://www.hyundai.com/content/dam/hyundai/kr/ko/images/vehicles/grandeur/design/pip-grandeur-design-full-led-headlamp-and-cascading-grill-n.jpg",
+        "sAlt": "차량이미지03 미니"
+      }
+    ]
+  },
+  {
+    "name": "현대 코나 29",
+    "price": "2,300",
+    "carNo": "282나2828",
+    "modelYear": "18/07식",
+    "drivingDistance": "53,436",
+    "transmission": "오토",
+    "accident": "무사고",
+    "presentationNo": "21363842937",
+    "fuel": "기타",
+    "displacement": "2,300",
+    "carType": "중형차",
+    "color": "연두색",
+    "foreclosureMortgage": "무",
+    "image": "/images/dummy/product-img-01.png",
+    "alt": "차량 이미지",
+    "discount": 20,
+    "tags": [{ "color": "blue60", "value": "EW" }],
+    "infos": ["18/07식", "26,530km", "기타", "대구"],
+    "options": [{ "color": "red", "value": "라이브" }],
+    "itrtProdYn": "N",
+    "id": 28,
+    "carGallery": [
+      {
+        "bImg": "https://www.hyundai.com/content/dam/hyundai/kr/ko/images/vehicles/grandeur/design/pip-grandeur-design-3-point-0-exclusive-special-and-jbl-sound-package-front.jpg",
+        "bAlt": "차량이미지07",
+        "sImg": "https://www.hyundai.com/content/dam/hyundai/kr/ko/images/vehicles/grandeur/design/pip-grandeur-design-3-point-0-exclusive-special-and-jbl-sound-package-front.jpg",
+        "sAlt": "차량이미지07 미니"
+      },
+      {
+        "bImg": "https://www.hyundai.com/content/dam/hyundai/kr/ko/images/vehicles/grandeur/design/pip-grandeur-design-3-point-0-exclusive-special-and-jbl-sound-package-back.jpg",
+        "bAlt": "차량이미지08",
+        "sImg": "https://www.hyundai.com/content/dam/hyundai/kr/ko/images/vehicles/grandeur/design/pip-grandeur-design-3-point-0-exclusive-special-and-jbl-sound-package-back.jpg",
+        "sAlt": "차량이미지08 미니"
+      },
+      {
+        "bImg": "https://www.hyundai.com/content/dam/hyundai/kr/ko/images/vehicles/i30/highlights/pip-i30-highlights-n-line-full-option.jpg",
+        "bAlt": "차량이미지09",
+        "sImg": "https://www.hyundai.com/content/dam/hyundai/kr/ko/images/vehicles/i30/highlights/pip-i30-highlights-n-line-full-option.jpg",
+        "sAlt": "차량이미지09 미니"
+      },
+      {
+        "bImg": "https://www.hyundai.com/content/dam/hyundai/kr/ko/images/vehicles/i30/highlights/pip-i30-highlights-1-4-tubo-premium-full-option-and-n-line-full-option.jpg",
+        "bAlt": "차량이미지10",
+        "sImg": "https://www.hyundai.com/content/dam/hyundai/kr/ko/images/vehicles/i30/highlights/pip-i30-highlights-1-4-tubo-premium-full-option-and-n-line-full-option.jpg",
+        "sAlt": "차량이미지10 미니"
+      }
+    ]
+  },
+  {
+    "name": "현대 싼타페TM 30",
+    "price": "3,300",
+    "carNo": "292나2929",
+    "modelYear": "18/07식",
+    "drivingDistance": "53,436",
+    "transmission": "오토",
+    "accident": "무사고",
+    "presentationNo": "21363842937",
+    "fuel": "수소",
+    "displacement": "3,300",
+    "carType": "소형차",
+    "color": "청옥색",
+    "foreclosureMortgage": "무",
+    "image": "/images/dummy/product-img-01.png",
+    "alt": "차량 이미지",
+    "discount": 20,
+    "tags": [{ "color": "blue60", "value": "EW" }],
+    "infos": ["18/07식", "26,530km", "수소", "대구"],
+    "options": [{ "color": "red", "value": "라이브" }],
+    "itrtProdYn": "N",
+    "id": 29,
+    "carGallery": [
+      {
+        "bImg": "https://www.hyundai.com/content/dam/hyundai/kr/ko/images/vehicles/grandeur/design/pip-grandeur-design-led-turn-signal-applied-outside-mirror-and-satin-chrome-molding-n.jpg",
+        "bAlt": "차량이미지04",
+        "sImg": "https://www.hyundai.com/content/dam/hyundai/kr/ko/images/vehicles/grandeur/design/pip-grandeur-design-led-turn-signal-applied-outside-mirror-and-satin-chrome-molding-n.jpg",
+        "sAlt": "차량이미지04 미니"
+      },
+      {
+        "bImg": "https://www.hyundai.com/content/dam/hyundai/kr/ko/images/vehicles/grandeur/design/pip-grandeur-design-led-rear-combilamp-n.jpg",
+        "bAlt": "차량이미지05",
+        "sImg": "https://www.hyundai.com/content/dam/hyundai/kr/ko/images/vehicles/grandeur/design/pip-grandeur-design-led-rear-combilamp-n.jpg",
+        "sAlt": "차량이미지05 미니"
+      },
+      {
+        "bImg": "https://www.hyundai.com/content/dam/hyundai/kr/ko/images/vehicles/grandeur/design/pip-grandeur-design-3-point-3-celebrity-full-options.jpg",
+        "bAlt": "차량이미지06",
+        "sImg": "https://www.hyundai.com/content/dam/hyundai/kr/ko/images/vehicles/grandeur/design/pip-grandeur-design-3-point-3-celebrity-full-options.jpg",
+        "sAlt": "차량이미지06 미니"
+      }
+    ]
+  }
+]

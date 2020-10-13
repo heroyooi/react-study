@@ -1,0 +1,527 @@
+.pricing-top-banner {
+  background: #c22d40;
+}
+.pricing-top-banner .top-banner-bg {
+  background: url(/images/contents/obj-pricing.png) no-repeat 0 0;
+  width: 508px;
+  height: 218px;
+  top: 45px;
+  right: 0px;
+}
+.pricing-wrap {
+  padding: 60px 0 140px;
+  color: #222;
+}
+.pricing-nav {
+  float: left;
+  width: 242px;
+  margin-right: 64px;
+}
+.pricing-sec {
+  float: left;
+  width: calc(100% - 306px);
+}
+
+.pricing-sec .tabmenu .ui-panel:after {
+  content: '';
+  display: block;
+  clear: both;
+}
+
+/* pricing-nav */
+.pricing-aside {
+  border: 1px solid #d7d7d7;
+  border-bottom: 0;
+}
+.pricing-aside .mem-profile {
+  padding: 40px 0 28px 0;
+  text-align: center;
+}
+.pricing-aside .mem-profile .name {
+  font-size: 24px;
+  font-weight: 500;
+  letter-spacing: -1.92px;
+  margin-bottom: 20px;
+}
+.pricing-aside .mem-profile .img-wrap {
+  margin: 0 auto;
+  width: 160px;
+  height: 160px;
+  overflow: hidden;
+  border: 100%;
+  margin-bottom: 20px;
+}
+.pricing-aside .mem-profile img {
+  width: 100%;
+}
+.pricing-aside .mem-used {
+  width: 100%;
+  background: #f6f7f8;
+  padding: 28px 28px 21px;
+}
+.pricing-aside .mem-used li {
+  font-size: 16px;
+  font-weight: 500;
+  letter-spacing: -0.64px;
+  border-bottom: 1px solid #e7e7e7;
+  margin-bottom: 19px;
+}
+.pricing-aside .mem-used li:last-child {
+  border: 0;
+  margin: 0;
+}
+.pricing-aside .mem-used li > span.tx-blue80 {
+  display: block;
+  font-weight: normal;
+  padding: 19px 0;
+}
+.pricing-aside .mem-used li > span > span {
+  display: block;
+  font-size: 14px;
+  color: #5e5e5e;
+  margin-top: 5px;
+}
+.bn-item {
+  width: 100%;
+  height: 324px;
+  padding: 40px 28px;
+  background: url(/images/contents/member-banner-03.png) #e6e9f0 no-repeat bottom;
+  margin-top: 24px;
+}
+.bn-item p {
+  font-size: 26px;
+  font-weight: 600;
+  color: #151923;
+  letter-spacing: -2.08px;
+  margin-bottom: 20px;
+}
+.bn-item > span {
+  font-size: 16px;
+  line-height: 1.38;
+  letter-spacing: -1.28px;
+  color: #3f4a65;
+}
+.bn-item > span > a {
+  display: block;
+  font-weight: 600;
+  letter-spacing: -1.28px;
+  color: #3f64c3;
+  margin-top: 23px;
+}
+
+/* car-search */
+.pricing-wrap .tx-exp-tp5 {
+  color: #222;
+  margin-top: 20px;
+}
+.pricing-wrap .search-cover {
+  position: relative;
+  width: 100%;
+  height: 233px;
+  border: 1px solid #3f64c3;
+  background: #f6f7f8;
+  padding: 69px 0;
+}
+.pricing-wrap .search-cover p {
+  text-align: center;
+  font-size: 24px;
+  font-weight: 500;
+  letter-spacing: -0.96px;
+  color: #222;
+}
+.pricing-wrap .search-cover p > span {
+  display: block;
+  font-size: 20px;
+  font-weight: normal;
+  line-height: 1.4;
+  letter-spacing: -0.8px;
+  color: #5e5e5e;
+  margin-top: 20px;
+}
+.pricing-wrap .search-cover .popup-close {
+  position: absolute;
+  right: 20px;
+  top: 20px;
+  width: 16px;
+  height: 16px;
+  background: url(/images/ico/ico-close-mid.png) 0 0 no-repeat;
+  background-size: 100%;
+}
+
+/*
+.best-register-car h4{font-size:30px;font-weight:500;letter-spacing:-1.5px;color:#222;margin-bottom:49px;}
+.best-register-car h4 .ico-pencil{position:relative;top:-3px;display:inline-block;width:40px;height:40px;border:1px solid #d7d7d7;border-radius:100%;background-color:#fff;background-size:43%;margin-left:15px;cursor:pointer;}
+*/
+.best-car-img {
+  width: 100%;
+}
+.best-car-img:after {
+  content: '';
+  display: block;
+  clear: both;
+}
+.best-car-img li {
+  float: left;
+  width: 48.53%;
+  background: #fff;
+  margin: 0 2.94% 2.94% 0;
+}
+.best-car-img li:nth-child(2n) {
+  margin-right: 0;
+}
+.best-car-img li:nth-child(3n) {
+  margin-bottom: 0;
+}
+.best-car-img li:nth-child(4n) {
+  margin-bottom: 0;
+}
+.best-car-img li img {
+  width: 100%;
+  object-fit: cover;
+}
+.best-car-img li.market-price {
+  border: 1px solid #e7e7e7;
+}
+.best-car-img li.market-price span.tit {
+  display: block;
+  width: 100%;
+  font-size: 20px;
+  font-weight: 500;
+  letter-spacing: -0.8px;
+  color: #222;
+  border-bottom: 1px solid #e7e7e7;
+  padding: 7.6%;
+}
+.best-car-img li.market-price span {
+  display: block;
+  padding: 12.7% 0;
+}
+.best-register-car .register-form fieldset > table {
+  margin: 0;
+}
+
+.best-register-graph {
+  border: 0;
+  background: none;
+  padding: 0;
+  margin-bottom: 60px;
+}
+.best-register-graph .tit-wrap {
+  line-height: 32px;
+}
+.best-register-graph h4 {
+  float: left;
+  font-size: 26px;
+  text-align: left;
+}
+.best-register-graph h4 + .btn-base {
+  float: right;
+}
+
+.pricing-sec .market-price-graph {
+  margin-bottom: 38px;
+}
+.pricing-sec .market-price-graph li .con {
+  height: 368px;
+}
+.pricing-sec .market-price-graph li.forecast .con {
+  padding-top: 45px;
+  padding-left: 10px;
+}
+.pricing-sec .market-price-graph li > .search-pricing {
+  padding: 23px 24px;
+}
+.pricing-sec .market-price-graph li > .search-pricing .cur-price {
+  width: 100%;
+}
+.pricing-sec .market-price-graph li > .search-pricing .cur-price .proper-price {
+  margin-top: 8px;
+}
+.pricing-sec .market-price-graph li > .search-pricing .cur-price .proper-price .proper-price-tit {
+  height: 17px;
+}
+.pricing-sec .market-price-graph li > .search-pricing .cur-price .proper-price .search-filter-tit {
+  font-size: 19px;
+  font-weight: 500;
+  color: #3f64c3;
+}
+.pricing-sec .market-price-graph li > .search-pricing .cur-price .proper-price .search-filter-tit:after {
+  content: '';
+  display: block;
+  clear: both;
+}
+.pricing-sec .market-price-graph li > .search-pricing .cur-price .proper-price .price-range .input-range {
+  margin-top: -18px;
+}
+.pricing-sec .market-price-graph li > .search-pricing > div:first-child {
+  width: 100%;
+  border-bottom: 1px solid #e7e7e7;
+  padding-bottom: 24px;
+  margin-bottom: 24px;
+}
+.pricing-sec .market-price-graph li > .search-pricing > div p.tit {
+  text-align: left;
+  font-size: 15px;
+  font-weight: 500;
+  color: #222;
+  background: #fff;
+  padding: 0;
+  border: 0;
+}
+.pricing-sec .market-price-graph li > .search-pricing > div p.price {
+  font-size: 24px;
+  font-weight: 500;
+  color: #486fca;
+  margin-top: 12px;
+}
+.pricing-sec .market-price-graph li > .search-pricing > div p.price .won {
+  display: inline-block;
+  font-size: 15px;
+  font-weight: normal;
+  color: #a2a2a2;
+  margin-left: 3px;
+}
+.pricing-sec .market-price-graph li > .search-pricing > div .price-range {
+  padding-top: 18px;
+}
+/* 시세범위 없는 경우 : tit-none */
+.pricing-sec .market-price-graph li > .search-pricing.tit-none {
+  padding-top: 35px;
+}
+.pricing-sec .market-price-graph li > .search-pricing.tit-none > div:first-child {
+  margin-bottom: 35px;
+}
+.pricing-sec .market-price-graph li > .search-pricing.tit-none .price-grade-tp1 {
+  margin-top: 20px;
+}
+
+/* best-register-car */
+.best-register-car {
+  width: 100%;
+  text-align: center;
+  border-top: 1px solid #aaa;
+  margin: 60px 0 40px;
+  padding: 62px 40px 4.2%;
+}
+.best-register-car .grade {
+  width: 100%;
+  background: #fff;
+  margin-top: 50px;
+}
+.best-register-car .grade p {
+  width: 100%;
+  font-size: 19px;
+  text-align: left;
+  letter-spacing: -0.76px;
+  color: #222;
+  border-bottom: 1px solid #e7e7e7;
+  padding: 32px 40px 32px 20px;
+}
+.best-register-car .grade .radio-group {
+  position: relative;
+  width: 100%;
+  padding: 25px 23px 6px;
+  text-align: left;
+}
+.best-register-car .grade .radio-group ul {
+  width: 100%;
+}
+.best-register-car .grade .radio-group ul:after {
+  content: '';
+  display: block;
+  clear: both;
+}
+.best-register-car .grade .radio-group li {
+  position: relative;
+  float: left;
+  width: 50%;
+  height: 50px;
+  margin: 0;
+  padding-left: 20px;
+}
+.best-register-car .grade .radio-group li:nth-child(even) {
+  border: 0;
+}
+.best-register-car .grade .radio-group li .radio-basic {
+  position: unset;
+  width: 60%;
+  margin-top: 6px;
+}
+.best-register-car .grade .radio-group li .btn-base {
+  position: absolute;
+  top: 0;
+  right: 30px;
+}
+.best-register-car .items-sbox.multi.fullsize .item-sbox__menu {
+  z-index: 2;
+  position: relative;
+}
+.best-register-car .items-sbox.multi.fullsize {
+  z-index: 2;
+}
+.best-register-car.grade {
+  background: #f6f7f8;
+}
+
+.pricing-wrap .pricing-sec .best-register-car .tit {
+  width: 536px;
+}
+
+/* list */
+.pricing-wrap .pricing-sec table {
+  line-height: 1.5;
+}
+.pricing-wrap .pricing-sec .float-wrap {
+  border-top: 1px solid #aaa;
+  padding: 60px 0 23px 0;
+}
+.pricing-wrap .pricing-sec .float-wrap.bn {
+  border-top: 0;
+}
+.pricing-wrap .pricing-sec table td.name:hover {
+  color: #222;
+  text-decoration: underline;
+  cursor: pointer;
+}
+.pricing-wrap .pricing-sec .cate-list-btn2 {
+  margin-top: 20px;
+}
+
+/* popup-pricing */
+.popup-pricing {
+  /*width:588px;height:780px;*/
+  overflow: hidden;
+}
+.popup-pricing > .img-wrap img {
+  width: 100%; /*height:100%;*/
+}
+.popup-pricing .today-close {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  background: #0058bb;
+  padding: 20px;
+}
+.popup-pricing .today-close .chk-box label {
+  color: #fff;
+}
+
+/* popup-car-info */
+.popup-car-info {
+  width: 100%;
+  height: 468px;
+  background: #f6f7f8;
+  padding: 60px 39px 40px 39px;
+}
+.popup-car-info:after {
+  content: '';
+  display: block;
+  clear: both;
+}
+.car-img-wrap {
+  width: 100%;
+  height: 304px;
+}
+.car-img-wrap img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+.car-img-wrap .car-slide {
+  float: left;
+  width: 49.8%;
+  position: relative;
+}
+.car-img-wrap .car-slide .img-cover {
+  height: 304px;
+}
+.car-img-wrap .car-slide .btn-prev,
+.car-img-wrap .car-slide .btn-next {
+  position: absolute;
+  top: 50%;
+  margin-top: -16px;
+  width: 16px;
+  height: 32px;
+  background-repeat: no-repeat;
+  opacity: 0.4;
+  transition: 0.5s;
+  z-index: 1;
+}
+.car-img-wrap .car-slide .btn-prev {
+  left: 20px;
+  background-image: url(/images/ico/ico-arrow-prev-white.png);
+}
+.car-img-wrap .car-slide .btn-next {
+  right: 20px;
+  background-image: url(/images/ico/ico-arrow-next-white.png);
+}
+.car-img-wrap .car-slide .btn-prev:hover,
+.car-img-wrap .car-slide .btn-next:hover {
+  opacity: 1;
+}
+.car-img-wrap ul.thumb {
+  float: right;
+  width: 48.8%;
+  height: 100%;
+}
+.car-img-wrap ul.thumb li {
+  float: left;
+  width: 31.4%;
+  height: 30.9%;
+  overflow: hidden;
+  margin: 0 2.9% 2.7% 0;
+  cursor: pointer;
+}
+.car-img-wrap ul.thumb li:nth-child(3n) {
+  margin-right: 0;
+}
+.car-img-wrap ul.thumb li:nth-last-child(-n + 3) {
+  margin-bottom: 0;
+}
+.car-img-wrap ul.thumb li.on {
+  border: 4px solid #2d5fde;
+}
+.car-img-wrap ul.thumb li div {
+  height: 100%;
+}
+.car-img-wrap ul.thumb li .img-cover {
+  width: 100%;
+  height: 100%;
+}
+.popup-table-wrap {
+  padding: 40px 40px 60px;
+}
+.pricing-wrap .searchCarMsg {
+  text-align: center;
+  line-height: 2;
+  font-size: 16px;
+  color: #777;
+}
+
+.popup-grade.pricing .float-wrap {
+  border: 0;
+  padding: 8px 0 25px 0;
+  margin: 0;
+}
+.popup-grade.pricing .float-wrap .tit {
+  width: auto;
+  font-size: 21px;
+  font-weight: 500;
+  color: #222;
+}
+.popup-grade.pricing .float-wrap .price {
+  font-size: 23px;
+  font-weight: 500;
+}
+.popup-grade.pricing .grade {
+  margin-top: 0;
+  background: #f6f7f8;
+}
+.popup-grade.pricing ul > li {
+  font-size: 17px;
+  color: #777;
+}
+.table-tp1.bid-list td {
+  font-size: 12px;
+  padding: 8px 6px;
+}

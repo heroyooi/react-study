@@ -1,0 +1,105 @@
+/* sellHome */
+.sell-main-area{margin-top:-57px;}
+.sell-main-area .sell-top-banner{padding:57px 0 168px;}
+.sell-main-area .sell-top-banner .top-banner-bg{width:200px;height:146px;background:url(/images/mobile/contents/sell-main-picto.svg) bottom right no-repeat;}
+.sell-main-area .content-sec{padding:32px 20px;}
+.sell-main-area .sell-ask-list li{margin-top:12px;}
+.sell-main-area .sell-ask-list li:first-child{margin-top:0;}
+.sell-main-area .sell-ask-list li .btn-base{position:relative;height:auto;font-weight:500;text-align:left;line-height:unset;border-radius:3ox;padding:18px;}
+.sell-main-area .sell-ask-list li .btn-base i{position:absolute;top:50%;right:13px;transform:translateY(-50%);}
+.sell-main-area .sell-ask-list li .btn-base em{display:block;font-size:12px;font-weight:normal;color:#777;margin-top:10px;}
+
+/* selfHome */
+.sell-service-wrap .content-wrap{padding:20px 20px 24px;}
+.sell-service-wrap .content-wrap > p{font-size:12px;line-height:1.42;letter-spacing:normal;color:#777;margin-top:8px;}
+.sell-service-wrap h3{font-size:16px;font-weight:bold;}
+.sell-service-wrap .app-down{margin-top:16px;}
+/* slide-steps */
+.sell-service-wrap .steps-frame{margin-top:16px;}
+.slide-steps-wrap{padding:32px 20px;}
+.slide-steps-wrap .steps-img-wrap{position:relative;}
+.slide-steps-wrap .steps-exp{text-align:center;margin-top:46px;}
+.slide-steps-wrap .steps-exp .tit{font-size:14px;font-weight:500;color:#222;}
+.slide-steps-wrap .steps-exp .exp{font-size:14px;letter-spacing:normal;line-height:1.42;color:#777;word-break:keep-all;margin-top:5px;}
+.slide-steps-wrap .btn-prev-xs, .slide-steps-wrap .btn-next-xs{position:absolute;top:50%;display:block;width:8px;height:12px;opacity:0.4;z-index:2;}
+.slide-steps-wrap .btn-prev-xs{background-image:url(/images/mobile/ico/ico-prev-black.svg);transform:rotate(180deg);left:17px;}
+.slide-steps-wrap .btn-next-xs{background-image:url(/images/mobile/ico/ico-next-black.svg);right:17px;}
+.slide-steps-wrap .btn-prev-xs:hover, .slide-steps-wrap .btn-next-xs:hover{opacity:1;}
+
+.slide-steps-wrap .slick-dots{position:absolute;top:16px;bottom:0;height:10px;font-size:0;}
+.slide-steps-wrap .slick-dots .dots li{width:10px;height:10px;margin:0 4px;}
+.slide-steps-wrap .slick-dots .dots li button{width:10px;height:10px;line-height:10px;border-radius:100%;padding:0;background:#e7e7e7;}
+.slide-steps-wrap .slick-dots .dots li button:before{display:none;}
+.slide-steps-wrap .slick-dots .dots li button:hover{background:#3f64c3;}
+.slide-steps-wrap .slick-dots .dots li.slick-active button{background:#3f64c3;opacity:1;}
+
+.sell-login-wrap{padding:20px;}
+.sell-login-wrap .vert-step li .con .tit{line-height:1.4;padding:0;text-align:center;margin-bottom:32px;}
+
+/* selfStep03 */
+/* sell-register-wrap */
+.content-wrap.sell-register-wrap{padding:20px;}
+.sell-register-wrap .info-wrap{width:100%;text-align:center;border-radius:4px;background-color:#f6f7f8;padding:22px 0 24px;margin-bottom:32px;}
+.sell-register-wrap .info-wrap .tit{font-size:16px;font-weight:500;color:#222;}
+.sell-register-wrap .info-wrap .exp{font-size:12px;line-height:1.5;color:#777;margin-top:16px;}
+.sell-register-wrap .img-upload-wrap{padding:0 20px 20px;}
+
+/* selfStep03_01 */
+.photo-list-wrap .float-wrap{padding:5px 20px;}
+.photo-list-wrap .float-wrap li:first-child{height:30px;font-size:12px;font-weight:500;line-height:30px;color:#222;}
+.photo-list-wrap .content-wrap{padding:20px 20px 24px;}
+.photo-list-wrap .content-wrap p{font-size:16px;color:#222;margin-top:24px;}
+.photo-list-wrap .content-wrap p:first-child{margin-top:0;}
+.photo-list-wrap .content-wrap .img-wrap{width:100%;height:188px;border-radius:4px;background-color:#d8d8d8;margin-top:16px;}
+
+/* selfStep03_02 */
+.photo-info-wrap .content-wrap{padding:20px;}
+.photo-info-wrap .content-wrap h4{font-size:16px;font-weight:500;color:#222;margin-top:40px;}
+.photo-info-wrap .content-wrap h4:first-child{margin-top:0;}
+.photo-info-wrap .content-wrap p{font-size:14px;line-height:1.5;letter-spacing:normal;color:#222;text-indent:-8px;padding-left:8px;margin-top:8px;}
+.photo-info-wrap .content-wrap p:before{content:'';display:inline-block;width:3px;height:3px;border-radius:100%;background-color:#aaa;margin:0 5px 3px 0;}
+.photo-info-wrap .content-wrap p + .img-wrap{margin-top:20px;}
+.photo-info-wrap .content-wrap p + .img-tx-wrap li:nth-child(-n+2){margin-top:10px;}
+.photo-info-wrap .content-wrap > .img-wrap{width:100%;height:101px;border-radius:4px;background-color:#aaa;margin:16px 0;}
+.photo-info-wrap .app-down{margin-top:16px;}
+.photo-info-wrap .img-tx-wrap:after{content:'';display:block;clear:both;}
+.photo-info-wrap .img-tx-wrap li{position:relative;float:left;width:48%;margin:14px 4% 0 0;}
+.photo-info-wrap .img-tx-wrap li:nth-child(2n){margin-right:0;}
+.photo-info-wrap .img-tx-wrap li > i{position:absolute;top:-8px;right:-8px;}
+.photo-info-wrap .img-tx-wrap li .img-wrap{width:100%;border-radius:4px;background-color:#aaa;}
+.photo-info-wrap .img-tx-wrap li [class*="tx-"]{display:block;font-size:14px;font-weight:500;line-height:1.4;word-break:keep-all;}
+.photo-info-wrap .img-tx-wrap li [class*="tx-"]:before{content:'';display:block;width:100%;height:3px;margin:8px 0 2px;}
+.photo-info-wrap .img-tx-wrap li .tx-bad:before{background-color:#cc0000;}
+.photo-info-wrap .img-tx-wrap li .tx-good:before{background-color:#00a300;}
+.photo-info-wrap .img-tx-wrap li .tx-bad{color:#cc0000;}
+.photo-info-wrap .img-tx-wrap li .tx-good{color:#00a300;}
+
+
+
+/* 공통 */
+/* img-upload-wrap */
+.img-upload-wrap{padding:0 20px 20px;}/* 있던 css가 사라져서 다시 추가 - 차량사진 등록 팝업에 필요 */
+.img-upload-wrap h4{display:inline-block;font-size:16px;font-weight:500;color:#222;}
+.img-upload-wrap h4 + p{display:inline-block;font-size:12px;color:#777;margin-left:4px;}
+.img-upload-wrap ul:after{content:'';display:block;clear:both;}
+.img-upload-wrap ul li{position:relative;float:left;width:31%;text-align:center;margin-right:3.5%;margin-top:16px;}
+.img-upload-wrap ul li:nth-child(3n){margin-right:0;}
+.img-upload-wrap ul li span{display:block;font-size:14px;color:#222;margin-top:8px;}
+.img-upload-wrap .img-item{height:77px;border:1px solid #e7e7e7;border-radius:4px;background:url(/images/mobile/ico/ico-app-plus.png) no-repeat center;}
+.img-upload-wrap .img-hover{position:absolute;top:0;left:0;width:100%;height:77px;opacity:0;}
+.img-upload-wrap .img-hover a{display:block;width:100%;height:100%;}
+.img-upload-wrap .img-dim{position:absolute;top:0;right:0;width:100%;height:77px;}
+.img-upload-wrap .img-dim i{position:absolute;top:4px;right:4px;}
+.img-upload-wrap .img-upload .img-hover input[type="file"],
+.img-upload-wrap .img-upload .img-dim input[type="file"]{position:absolute;left:0;top:0;width:100%;height:100%;background:gold;opacity:0;cursor:pointer;}
+.img-upload-wrap .img-upload.detail{margin-top:48px;}
+
+.img-upload-wrap .img-upload.basic ul li:nth-child(-n + 3){margin-top:0;}
+
+/* goods-wrap */
+.goods-wrap{padding-top:32px;}
+.goods-wrap h4{font-size:16px;font-weight:500;color:#222;margin-bottom:17px;}
+
+@media screen and (max-width: 320px) {
+  .img-upload-wrap ul li span{font-size:12px;}
+}

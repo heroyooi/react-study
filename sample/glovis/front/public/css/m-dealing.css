@@ -1,0 +1,381 @@
+/* serviceInfo */
+.service-guide.ew {
+  padding: 20px;
+}
+.service-guide.ew .ew-service p {
+  text-align: left;
+}
+.service-guide.ew ul.service-point li i {
+  width: 80px;
+  height: 80px;
+}
+.service-guide.ew ul.service-point li p {
+  font-size: 16px;
+  font-weight: 500;
+  color: #3f64c3;
+}
+.service-guide.ew ul.service-point li span {
+  line-height: 1.4;
+}
+.service-guide.ew ul.service-point li span em {
+  display: block;
+  font-size: 10px;
+  color: #aaa;
+}
+.service-guide.ew + .content-sec .service-use {
+  margin-top: 12px;
+}
+
+/* dealing-guide */
+.dealing-guide p.sub-tit {
+  font-size: 14px;
+  color: #222;
+  margin: 24px 0 8px 0;
+}
+.dealing-guide p.sub-tit a {
+  display: block;
+  width: fit-content;
+  height: 100%;
+  padding-right: 16px;
+  background: url(/images/mobile/ico/ico-next-gray.svg) no-repeat right center;
+  background-size: 8px;
+}
+.dealing-guide .img-wrap .img-cover {
+  float: left;
+  width: 49.8%;
+  height: 141px;
+  margin-left: 0.4%;
+}
+.dealing-guide .img-wrap .img-cover:first-child {
+  margin-left: 0;
+}
+.dealing-guide .img-wrap.row .img-cover {
+  float: none;
+  width: 100%;
+  height: 99px;
+  margin-top: 16px;
+}
+.dealing-guide .img-wrap.row .img-cover:last-child {
+  margin-top: 16px;
+}
+.dealing-guide .img-cover {
+  width: 100%;
+}
+.dealing-guide .img-cover img {
+  /* object-fit: none; */
+}
+.dealing-guide .img-cover.s-finder {
+  padding: 0 20px;
+}
+.dealing-guide .img-cover.finance {
+  padding: 0 60px;
+}
+.dealing-guide .img-cover.homeservice {
+  padding: 0 30px;
+}
+.dealing-guide .img-cover.marketprice,
+.dealing-guide .img-cover.pricing,
+.dealing-guide .img-cover.report {
+  padding: 0 50px;
+}
+.dealing-guide > span {
+  display: block;
+  line-height: 1.4;
+  font-size: 14px;
+  color: #777;
+  margin-top: 8px;
+}
+.dealing-guide > ul.num {
+  margin-top: 8px;
+}
+.dealing-guide > ul.num li {
+  line-height: 1.4;
+  font-size: 14px;
+  color: #777;
+  padding-left: 13px;
+  text-indent: -13px;
+}
+
+/* coupon-area */
+.coupon-area {
+  padding-top: 20px;
+}
+.coupon-area .coupon-wrap {
+  padding-top: 8px;
+}
+.coupon-area .coupon-wrap li {
+  width: 100%;
+  border-bottom: 1px solid #e7e7e7;
+  background: url(/images/mobile/ico/ico-next-gray.svg) no-repeat right top 44px;
+  background-size: 10px;
+}
+.coupon-area .coupon-wrap li:after {
+  content: '';
+  display: block;
+  clear: both;
+}
+.coupon-area .coupon-wrap li:last-child {
+  border: 0;
+}
+.coupon-area .coupon-wrap li a {
+  display: block;
+  width: 100%;
+  height: 100%;
+  padding: 16px 0;
+}
+.coupon-area .coupon-wrap .coupon-img {
+  position: relative;
+  float: left;
+  width: 120px;
+  height: 60px;
+  border-radius: 0 0 20px 0;
+  box-shadow: 0 2px 4px 0 rgba(102, 102, 102, 0.5);
+  margin-bottom: 16px;
+}
+.coupon-area .coupon-wrap .coupon-img.type-b1 {
+  background-color: #0495b3;
+  border: 1px solid #038099;
+}
+.coupon-area .coupon-wrap .coupon-img.type-b2 {
+  background-color: #1aa8db;
+  border: 1px solid #1794c2;
+}
+.coupon-area .coupon-wrap .coupon-img.type-p1 {
+  background-color: #d62b2b;
+  border: 1px solid #bd2626;
+}
+.coupon-area .coupon-wrap .coupon-img.type-p2 {
+  background-color: #ed735a;
+  border: 1px solid #d46650;
+}
+.coupon-area .coupon-wrap .coupon-img.type-p3 {
+  background-color: #f0b631;
+  border: 1px solid #d6a32b;
+}
+.coupon-area .coupon-wrap .coupon-img.type-e1 {
+  background-color: #7a45e5;
+  border: 1px solid #6d3dcc;
+}
+.coupon-area .coupon-wrap .coupon-img.type-e2 {
+  background-color: #cc2996;
+  border: 1px solid #b32483;
+}
+.coupon-area .coupon-wrap .coupon-img.type-e3 {
+  background-color: #f549a8;
+  border: 1px solid #db4296;
+}
+.coupon-area .coupon-wrap .coupon-img > span {
+  position: absolute;
+  left: 10px;
+}
+.coupon-area .coupon-wrap .coupon-img > span.label {
+  top: 10px;
+  font-size: 14px;
+  color: #fff;
+}
+.coupon-area .coupon-wrap .coupon-img > span.ico {
+  font-size: 10px;
+  font-style: italic;
+  color: #fff;
+  bottom: 10px;
+  padding-left: 17px;
+}
+.coupon-area .coupon-wrap .coupon-img > span.ico:before {
+  content: '';
+  display: block;
+  width: 14px;
+  height: 9px;
+  background: url(/images/mobile/ico/ico-autobell-mark.png) 0 0 no-repeat;
+  background-size: auto 9px;
+  position: absolute;
+  left: 0;
+  top: 0;
+}
+.coupon-area .coupon-wrap .con-wrap {
+  float: left;
+  width: calc(100% - 128px);
+  height: 60px;
+  padding: 0 0 0 16px;
+  margin-bottom: 16px;
+}
+.coupon-area .coupon-wrap .con-wrap p {
+  font-size: 16px;
+  color: #222;
+  margin-bottom: 8px;
+}
+.coupon-area .coupon-wrap .con-wrap span {
+  display: block;
+  line-height: 1.4;
+  font-size: 14px;
+  color: #777;
+}
+.coupon-area .coupon-wrap .exp {
+  line-height: 1.5;
+  font-size: 12px;
+  color: #777;
+}
+
+.rmc-tabs-top,
+.rmc-tabs-bottom {
+  -ms-flex-direction: column;
+  flex-direction: column;
+}
+.rmc-tabs {
+  box-sizing: border-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex: 1;
+  flex: 1;
+  position: relative;
+  overflow: hidden;
+  height: 100%;
+  width: 100%;
+}
+.rmc-tabs-tab-bar-wrap {
+  -ms-flex-negative: 0;
+  flex-shrink: 0;
+}
+.rmc-tabs * {
+  box-sizing: border-box;
+}
+.rmc-tabs-tab-bar-top .rmc-tabs-tab-bar-prevpage,
+.rmc-tabs-tab-bar-bottom .rmc-tabs-tab-bar-prevpage {
+  pointer-events: none;
+  position: absolute;
+  top: 0;
+  display: block;
+  width: 59px;
+  height: 100%;
+  content: ' ';
+  z-index: 1;
+  left: 0;
+  background: linear-gradient(to right, #ffffff, rgba(255, 255, 255, 0));
+}
+.rmc-tabs-tab-bar-animated .rmc-tabs-tab-bar-content {
+  transition: transform 0.3s cubic-bezier(0.35, 0, 0.25, 1);
+  will-change: transform;
+}
+.rmc-tabs-tab-bar-top .rmc-tabs-tab-bar-content,
+.rmc-tabs-tab-bar-bottom .rmc-tabs-tab-bar-content {
+  display: -ms-flexbox;
+  display: flex;
+  width: 100%;
+  -ms-flex-direction: row;
+  flex-direction: row;
+}
+.rmc-tabs-tab-bar-tab {
+  position: relative;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-negative: 0;
+  flex-shrink: 0;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -ms-flex-align: center;
+  align-items: center;
+  font-size: 14px;
+  height: 56px;
+  color: #777;
+  font-weight: 400;
+}
+.rmc-tabs-tab-bar-top .rmc-tabs-tab-bar-tab,
+.rmc-tabs-tab-bar-bottom .rmc-tabs-tab-bar-tab {
+  padding: 8px 0;
+}
+.rmc-tabs-tab-bar-top .rmc-tabs-tab-bar-nextpage,
+.rmc-tabs-tab-bar-bottom .rmc-tabs-tab-bar-nextpage {
+  pointer-events: none;
+  position: absolute;
+  top: 0;
+  display: block;
+  width: 59px;
+  height: 100%;
+  content: ' ';
+  z-index: 1;
+  right: 0;
+  background: linear-gradient(to right, rgba(255, 255, 255, 0), #ffffff);
+}
+.rmc-tabs-content-wrap {
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex: 1;
+  flex: 1;
+  width: 100%;
+  height: 100%;
+}
+.rmc-tabs-content-wrap-animated {
+  transition: transform 0.3s cubic-bezier(0.35, 0, 0.25, 1), left 0.3s cubic-bezier(0.35, 0, 0.25, 1), top 0.3s cubic-bezier(0.35, 0, 0.25, 1);
+  will-change: transform, left, top;
+}
+.rmc-tabs-horizontal .rmc-tabs-pane-wrap-inactive {
+  height: 0;
+  overflow: visible;
+}
+.rmc-tabs-pane-wrap {
+  width: 100%;
+  -ms-flex-negative: 0;
+  flex-shrink: 0;
+  overflow-y: auto;
+}
+.rmc-tabs-horizontal .rmc-tabs-pane-wrap-active {
+  height: auto;
+}
+.rmc-tabs-tab-bar {
+  position: relative;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-negative: 0;
+  flex-shrink: 0;
+  -ms-flex-direction: row;
+  flex-direction: row;
+  width: 100%;
+  height: 100%;
+  overflow: visible;
+  z-index: 1;
+}
+.rmc-tabs-tab-bar-tab-active {
+  font-weight: 500;
+  color: #3f64c3;
+  outline: none;
+}
+.dealing-guide .dealing-guide-list li {
+  padding: 24px 0;
+}
+.dealing-guide .dealing-guide-list p.tit {
+  font-size: 14px;
+  color: #222;
+  padding: 10px 20px;
+  margin-bottom: 30px;
+  display: inline-block;
+  border-radius: 4px;
+  border: solid 1px #6d6d6d;
+  background-color: #ffed89;
+}
+.dealing-guide-list .exp {
+  margin-top: 8px;
+  font-size: 14px;
+  line-height: normal;
+  color: #828282;
+}
+.dealing-guide-list .exp span {
+  color: #486fca;
+}
+.dealing-guide .autobell-app {
+  padding: 40px 0 0;
+}
+.dealing-guide .autobell-app dd {
+  margin-top: 16px;
+  font-size: 14px;
+  color: #bdbdbd;
+  text-align: center;
+}
+.dealing-guide .app-btns {
+  margin: 20px auto 0;
+  width: 185px;
+}
+.dealing-guide .app-btns li {
+  margin-top: 8px; 
+}
+.dealing-guide .app-btns li:first-child {
+  margin-top: 0;
+}

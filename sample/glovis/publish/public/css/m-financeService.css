@@ -1,0 +1,38 @@
+/* service-point */
+.finance-service{margin-top:28px;}
+.finance-service .service-point{margin-top:16px;}
+.finance-service .service-point li{margin-bottom:32px;}
+.finance-service .service-point li i{width:54px;height:54px;}
+.finance-service .service-point li p{height:36px;line-height:1.3;font-weight:500;}
+
+/* repayment */
+.finance-service-wrap .repayment h4.tit2{margin-top:48px;}
+.finance-service-wrap .repayment .graph{width:100%;height:148px;background:#f6f7f8;margin-top:27px;}
+.finance-service-wrap .repayment .tx-wrap > p{font-size:16px;font-weight:500;margin-top:24px;}
+.finance-service-wrap .repayment .tx-wrap > span{display:block;font-size:12px;color:#777;margin-top:8px;}
+.finance-service-wrap .repayment .tx-wrap > table{margin-top:8px;}
+
+/* benefit-wrap */
+.finance-service-wrap .benefit-wrap{padding-top:24px;margin-top:20px;}
+.finance-service-wrap .benefit-wrap h4{font-size:16px;font-weight:500;color:#222;}
+.finance-service-wrap .benefit-wrap li{width:100%;padding:20px 0;border-top:1px solid #e7e7e7;}
+.finance-service-wrap .benefit-wrap li:first-child{padding-top:16px;border:0;}
+.finance-service-wrap .benefit-wrap li:after{content:'';display:block;clear:both;}
+.finance-service-wrap .benefit-wrap li p{float:left;width:calc(100% - 54px);font-size:14px;font-weight:500;color:#222;padding-right:25px;}
+.finance-service-wrap .benefit-wrap li:last-child p{width:100%;}
+.finance-service-wrap .benefit-wrap li p span{display:block;line-height:1.4;font-size:12px;font-weight:normal;color:#777;margin-top:8px;}
+.finance-service-wrap .benefit-wrap li i.ico{float:right;display:block;width:54px;height:54px;border-radius:100%;background:#f6f7f8;}
+
+/* cs-wrap */
+.finance-service-wrap .cs-wrap{padding:24px 20px 20px;}
+.finance-service-wrap .cs-wrap p{font-size:14px;font-weight:500;color:#222;}
+.finance-service-wrap .cs-wrap p > span{display:block;font-size:16px;margin-top:8px;}
+.finance-service-wrap .cs-wrap p.time{font-size:12px;color:#777;margin-top:6px}
+.finance-service-wrap .cs-wrap p.use-car{padding-top:20px;margin-top:20px;border-top:1px solid #e7e7e7;}
+
+/* exp-wrap */
+.finance-service-wrap .exp-wrap{padding:20px;}
+.finance-service-wrap .exp-wrap p{line-height:1.4;font-size:12px;color:#777;}
+
+/* faq */
+.finance-service-wrap .faq-wrap{padding-bottom:30px;}

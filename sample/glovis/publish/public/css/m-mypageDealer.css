@@ -1,0 +1,34 @@
+
+/*dealerMember01*/
+.tx-left-group dd{display:inline-block;padding:0 8px;position:relative;}
+.tx-left-group dd:before{content:'';width:1px;height:9px;background:#f2f2f2;position:absolute;left:0;top:50%;margin-top:-4.5px;}
+.tx-left-group dd:first-child{padding-left:0;}
+.tx-left-group dd:first-child:before{content:none;}
+.m-chk-wrap{padding:10px 0;}
+
+/*dealer-star*/
+.star-wrap li{padding:8px 0;}
+.star-wrap li > span{display:inline-block;vertical-align:middle;}
+.star-wrap li > span.score-tit{width:76px;color:#777;line-height:normal;}
+.star-wrap li > span.score-txt{font-size:20px;color:#222;line-height:1;margin-left:7px;}
+
+.inner.correct h3{margin-bottom:12px;}
+
+.withdrawal-ex p{line-height:1.14;font-size:14px;color:#777;line-height:normal;}
+.withdrawal-ex p em{font-weight:500;margin-bottom:8px;color:#222;display:block;}
+.withdrawal-ex p small{font-size:12px;display:block;font-size:12px;color:#3f64c3;line-height:normal;margin-top:8px;}
+.withdrawal-reason ul:after{content:'';display:block;clear:both;}
+.withdrawal-reason ul li{width:50%;float:left;}
+.withdrawal-reason ul li .chk-box{display:block;width:100%;height:40px;}
+.withdrawal-reason ul li .chk-box input + label{width:100%;height:100%;padding:0;line-height:40px;text-align:center;background:#f6f7f8;border:1px solid #e7e7e7;border-top:0;border-left:0;color:#aaa;font-weight:400;} 
+.withdrawal-reason ul li:nth-child(-n+2) .chk-box input + label{border-top:1px solid #e7e7e7;}
+.withdrawal-reason ul li:nth-child(odd) .chk-box input + label{border-left:1px solid #e7e7e7;}
+.withdrawal-reason ul li .chk-box input + label:before{content:none;}
+.withdrawal-reason ul li .chk-box.on input + label{background:#3f64c3;color:#fff;border-color:#3f64c3;}
+.withdrawal-reason > p > span{font-size:12px;line-height:1.17;color:#aaa;float:right;}
+
+.mypage-admin-title.v-2 p{text-align:center;}
+.mypage-admin-title.v-2 p.b-tit{font-size:16px;font-weight:500;line-height:normal;color:#222;}
+.mypage-admin-title.v-2 p.s-tit{font-size:12px;line-height:normal;color:#222;}
+
+

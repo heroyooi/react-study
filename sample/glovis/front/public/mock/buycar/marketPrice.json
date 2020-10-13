@@ -1,0 +1,14 @@
+{
+  "data": {
+    "rangeMin": 2800,
+    "rangeMax": 3200,
+    "minPrice": 2650,
+    "maxPrice": 3400,
+    "appropriatePrice": 3080,
+    "drvDist": "1만5000",
+    "frmYyyy": "2019년 03월",
+    "mssDvcd": "오토",
+    "crClrCd": "블랙",
+    "gradeValue": "C"
+  }
+}

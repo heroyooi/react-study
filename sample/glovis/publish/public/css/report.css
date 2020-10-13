@@ -1,0 +1,65 @@
+.report-wrap{width:1698px;height:auto;padding-right:140px;margin:0 auto;}
+.report-tit{position:relative;width:100%;height:83px;}
+.report-tit:after{content:'';display:block;clear:both;}
+.report-tit .img-wrap{float:left;width:71px;height:83px;margin-right:31px;}
+.report-tit .img-wrap img{width:100%;}
+.report-tit .tit-wrap{float:left;width:calc(100% - 114px);height:83px;border-bottom:1px solid #000;padding-bottom:20px;}
+.report-tit .tit-wrap span{font-size:18px;font-weight:500;}
+.report-tit .tit-wrap span.num{margin-right:50px;}
+.report-tit .tit-wrap h5{font-size:30px;font-weight:bold;margin-top:17px;color:#000;}
+.report-tit .tit-wrap h5 em{font-size:22px;font-weight:bold;margin-left:16px;}
+.report-tit .qr-wrap{position:absolute;bottom:10px;right:-18px;}
+.report-tit .qr-wrap span{float:left;padding-top:53px;margin-right:16px;}
+.report-tit .qr-wrap img{width:79px;height:79px;}
+
+.report-info{padding-top:64px;}
+.report-info:after{content:'';display:block;clear:both;}
+.report-info .img-wrap{float:left;width:448px;height:222px;text-align:center;margin-right:49px;}
+.report-info .img-wrap img{object-fit:cover;height:100%;}
+.report-info .car-info{float:left;width:600px;height:222px;margin-right:49px;}
+.report-info .car-info .car-name{font-size:28px;font-weight:500;color:#222;padding-left:30px;margin-bottom:30px;}
+.report-info .table-report{width:100%;text-align:left;}
+.report-info .table-report tr{height:38px;}
+.report-info .table-report tr:nth-child(even){background-color:#f4f4f4;}
+.report-info .table-report tr th{font-size:16px;font-weight:500;color:#222;padding-left:30px;}
+.report-info .table-report tr td{font-size:16px;font-weight:normal;color:#222;padding-left:30px;}
+.report-info .car-option{float:left;width:394px;height:222px;padding-top:5px;}
+.report-info .car-option li{float:left;width:33.33%;font-size:16px;text-align:center;color:#222;margin-top:40px;}
+.report-info .car-option li i{width:40px;height:40px;}
+.report-info .car-option li span{display:block;margin-top:8px;}
+
+.report-price{width:100%;margin-top:105px;}
+.report-price:after{content:'';display:block;clear:both;}
+.report-price li{float:left;width:50%;}
+.report-price li .tit{font-size:24px;font-weight:500;color:#222;}
+.report-price li .tit span{display:block;font-size:18px;font-weight:normal;color:#777;margin-top:10px;}
+.report-price li .con{display:block;width:100%;height:400px;text-align:center;padding:0 50px;}
+.report-price li .con img{object-fit:cover;height:100%}
+
+.report-msg{width:100%;height:30px;line-height:30px;}
+.report-msg:after{content:'';display:block;clear:both;}
+.report-msg p{float:left;font-size:18px;color:#222;}
+.report-msg .logo-wrap{float:right;}
+.report-msg .logo-wrap li{float:left;}
+.report-msg .logo-wrap li:last-child{margin-left:48px;}
+
+.copyright-wrap{width:100%;font-size:16px;text-align:right;color:#222;border-top:1px solid #000;padding-top:14px;}
+
+.hyundai-pricing-print-show {
+  display: none;
+  right: 0px;
+  left: auto !important;
+}
+
+@media print {
+  .report-info .table-report tr:nth-child(even){background-color:#f4f4f4;-webkit-print-color-adjust: exact; }
+  .report-info li.on .ico-sunroof{content:url(/images/ico/ico-sunroof-on.png);}
+  .report-info li.on .ico-navigation{content:url(/images/ico/ico-navigation-on.png);}
+  .report-info li.on .ico-smartcruze{content:url(/images/ico/ico-smartcruze-on.png);}
+  .report-info li.on .ico-hud{content:url(/images/ico/ico-hud-on.png);}
+  .report-info li.on .ico-around-view{content:url(/images/ico/ico-around-view-on.png);}
+  .report-info li.on .ico-smart-key{content:url(/images/ico/ico-smart-key-on.png);}
+  .hyundai-pricing-print-show {
+    display: block !important;
+  }
+}

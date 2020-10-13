@@ -1,0 +1,67 @@
+[
+  {
+    "id": 1,
+    "name": "현대 투싼 ix 디젤 2WD LX20 럭셔리",
+    "image": "/images/dummy/product-img-06.png",
+    "alt": "차량 이미지",
+    "infos": ["00가0000", "09-12식(10년형)", "84,761km", "오토", "디젤"],
+    "selectPrice": "4,420",
+    "highPrice": "4,420",
+    "myEstimate": "4,420",
+    "state": "1",
+    "interesting": 21,
+    "bidding": 45
+  },
+  {
+    "id": 2,
+    "name": "현대 투싼 ix 디젤 2WD LX20 럭셔리",
+    "image": "/images/dummy/product-img-06.png",
+    "alt": "차량 이미지",
+    "infos": ["00가0000", "09-12식(10년형)", "84,761km", "오토", "디젤"],
+    "selectPrice": "4,520",
+    "highPrice": "4,520",
+    "myEstimate": "4,520",
+    "state": "2",
+    "interesting": 20,
+    "bidding": 50
+  },
+  {
+    "id": 3,
+    "name": "현대 투싼 ix 디젤 2WD LX20 럭셔리",
+    "image": "/images/dummy/product-img-06.png",
+    "alt": "차량 이미지",
+    "infos": ["00가0000", "09-12식(10년형)", "84,761km", "오토", "디젤"],
+    "selectPrice": "3,420",
+    "highPrice": "3,420",
+    "myEstimate": "3,420",
+    "state": "3",
+    "interesting": 31,
+    "bidding": 55
+  },
+  {
+    "id": 4,
+    "name": "현대 투싼 ix 디젤 2WD LX20 럭셔리",
+    "image": "/images/dummy/product-img-06.png",
+    "alt": "차량 이미지",
+    "infos": ["00가0000", "09-12식(10년형)", "84,761km", "오토", "디젤"],
+    "selectPrice": "4,250",
+    "highPrice": "4,250",
+    "myEstimate": "4,250",
+    "state": "3",
+    "interesting": 30,
+    "bidding": 50
+  },
+  {
+    "id": 5,
+    "name": "현대 투싼 ix 디젤 2WD LX20 럭셔리",
+    "image": "/images/dummy/product-img-06.png",
+    "alt": "차량 이미지",
+    "infos": ["00가0000", "09-12식(10년형)", "84,761km", "오토", "디젤"],
+    "selectPrice": "4,250",
+    "highPrice": "4,250",
+    "myEstimate": "4,250",
+    "state": "1",
+    "interesting": 19,
+    "bidding": 30
+  }
+]

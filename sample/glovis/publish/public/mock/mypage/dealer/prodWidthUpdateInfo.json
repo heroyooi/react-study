@@ -1,0 +1,26 @@
+{
+  "data": {
+    "dlrPrdId": "DP20022000001",
+    "crId": "CR20022000001",
+    "viewcnt": 0,
+    "allday": 13,
+    "dayaverageview": 0,
+    "itrtcnt": 2,
+    "samecnt": 9,
+    "slAmt": 3555,
+    "crNm": "현대 그랜저IG 하이브리드 2.4 HEV 익스클루시브 스페셜",
+    "crNo": "11가1111",
+    "frmYyyy": "2019",
+    "frstRegDt": "2020-03-02",
+    "drvDist": 0,
+    "fuelNm": "디젤",
+    "mssNm": "오토",
+    "adverPrdNm": "자유 이용권",
+    "prdRegDt": "2020-02-20",
+    "prdUpdDt": "2020-02-20"
+  },
+  "statusinfo": {
+    "returncd": "000",
+    "returnmsg": "정상"
+  }
+}

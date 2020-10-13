@@ -1,0 +1,493 @@
+/* market-top-banner */
+/* .market-top-banner .top-banner-bg{left:750px;width:514px;background-image:url(/images/contents/market-price-picto.png);} */
+.market-top-banner .top-banner-bg {
+  right: 0;
+  width: 514px;
+  background-image: url(/images/contents/market-price-picto.png);
+  background-position: right top 50px;
+}
+
+/* market-wrap */
+.market-wrap {
+  padding: 60px 0 89px 0;
+}
+.market-wrap .searchCarMsg {
+  text-align: center;
+  line-height: 2;
+  font-size: 16px;
+  color: #777;
+}
+/* .market-wrap .tit-wrap .img-wrap img{object-fit:scale-down } */
+.market-wrap .tit-wrap .img-wrap img {
+  object-fit: fill;
+}
+/* market-car-info */
+.market-car-info {
+  margin-top: 30px;
+}
+.market-car-info:after {
+  content: '';
+  display: block;
+  clear: both;
+}
+.market-car-info .img-wrap {
+  float: left;
+  width: 304px;
+  height: 169px;
+  margin: 0 72px 0 30px;
+}
+.market-car-info .img-wrap img {
+  height: 100%;
+  vertical-align: bottom;
+}
+.market-car-info .table-tp1 {
+  float: left;
+  width: 794px;
+}
+
+.market-car-info + .option-cate {
+  padding-top: 0;
+}
+.market-car-info + .option-cate .car-option-tp2 {
+  border: none;
+}
+.market-car-info + .option-cate .car-option-tp2 .cate-ico {
+  padding: 71px 0 60px 0;
+}
+
+/* market-add-info */
+.market-add-info {
+  position: relative;
+  border: 1px solid #dadada;
+  padding: 40px 0 12px 0;
+}
+.market-add-info .distance-input {
+  position: relative;
+  top: -9px;
+}
+.market-add-info:after {
+  content: '';
+  display: block;
+  clear: both;
+}
+.market-add-info ul {
+  float: left;
+}
+.market-add-info ul li {
+  float: left;
+}
+
+.market-add-info ul li {
+  margin-right: 32px;
+  margin-bottom: 10px;
+}
+.market-add-info ul li:first-child,
+.market-add-info ul li.newPrice {
+  margin-top: 3px;
+  margin-right: 24px;
+}
+.market-add-info ul li:last-child {
+  margin-right: 0;
+}
+.market-add-info .distance {
+  width: 45%;
+  padding-left: 44px;
+}
+.market-add-info .distance li:last-child {
+  width: 242px;
+  padding-top: 3px;
+}
+.market-add-info .color {
+  width: 55%;
+}
+.market-add-info .btn-base {
+  position: absolute;
+  right: 25px;
+  top: 70px;
+  font-size: 12px;
+}
+.market-add-info .btn-base i {
+  margin: 0 0 2px 4px;
+}
+
+/* market-banner */
+.market-banner {
+  padding: 64px 0 87px 0;
+}
+.market-banner:after {
+  content: '';
+  display: block;
+  clear: both;
+}
+.market-banner .pic {
+  float: left;
+  width: 224px;
+  height: 249px;
+  margin: 0 96px 0 103px;
+  background: url(/images/contents/market-banner-bg.png) 50% 50% no-repeat;
+}
+.market-banner .con {
+  float: left;
+}
+.market-banner .con p {
+  font-size: 20px;
+  line-height: 1.5;
+  color: #3f3f3f;
+}
+.market-banner .con p span {
+  display: block;
+  font-size: 28px;
+  line-height: 1.29;
+  margin-bottom: 10px;
+}
+
+/* popup-grade-wrap */
+.popup-grade {
+  padding: 32px 40px;
+}
+.popup-grade .grade {
+  height: 344px;
+  border: 1px solid #e7e7e7;
+  padding: 25px 7px 32px 24px;
+}
+.popup-grade .grade .radio-group li {
+  height: 32px;
+  line-height: 32px;
+  margin-bottom: 4px;
+}
+.popup-grade .grade .radio-group li .btn-base {
+  position: absolute;
+  left: 198px;
+}
+.popup-grade .grade .con {
+  line-height: 1.5;
+  color: #262626;
+}
+.popup-grade .float-wrap {
+  font-size: 16px;
+  color: #262626;
+  padding-right: 20px;
+  margin-bottom: 8px;
+}
+.popup-grade .float-wrap .price {
+  color: #486fca;
+}
+
+/* popup-report */
+.popup-report {
+  padding: 45px 0 40px;
+}
+.popup-report .w-line {
+  padding-top: 0;
+  border-top: 1px solid #d7d7d7;
+}
+.popup-report .report-wrap {
+  width: auto;
+  padding: 0 55px;
+}
+.popup-report .report-tit {
+  height: 64px;
+  padding-left: 0px;
+}
+.popup-report .report-tit .img-wrap {
+  width: 50px;
+  height: 64px;
+  margin-right: 10px;
+}
+.popup-report .report-tit .tit-wrap {
+  width: calc(100% - 66px);
+  height: 64px;
+  padding-bottom: 10px;
+}
+.popup-report .report-tit .tit-wrap span {
+  font-size: 12px;
+  font-weight: 500;
+}
+.popup-report .report-tit .tit-wrap span.num {
+  margin-right: 32px;
+}
+.popup-report .report-tit .tit-wrap h5 {
+  font-size: 21px;
+  margin-top: 17px;
+}
+.popup-report .report-tit .qr-wrap {
+  bottom: inherit;
+  right: 6px;
+  bottom: 5px;
+}
+.popup-report .report-tit .qr-wrap span {
+  float: left;
+  padding-top: 38px;
+}
+.popup-report .report-tit .qr-wrap img {
+  width: 55px;
+  height: 55px;
+}
+
+.popup-report .report-info {
+  padding-top: 44px;
+  min-height:218px;
+}
+.popup-report .report-info .img-wrap {
+  width: 230px;
+  height: 138px;
+  margin-right: 47px;
+}
+.popup-report .report-info .car-info {
+  width: 436px;
+  height: 138px;
+  margin-right: 47px;
+}
+.popup-report .report-info .car-info .car-name {
+  font-size: 19px;
+  padding-left: 10px;
+  margin-bottom: 10px;
+}
+.popup-report .report-info .table-report tr {
+  height: 26px;
+}
+.popup-report .report-info .table-report tr th {
+  font-size: 11px;
+  padding-left: 11px;
+}
+.popup-report .report-info .table-report tr td {
+  font-size: 11px;
+  padding-left: 11px;
+}
+.popup-report .report-info .car-option {
+  width: 319px;
+  height: auto;
+  margin-top:-25px;
+}
+.popup-report .report-txt{padding:30px 0 0;text-align:right}
+.popup-report .report-info .car-option:after{content:'';display:block;clear:both}
+.popup-report .report-info .car-option li {
+  width: 33.33%;
+  font-size: 11px;
+  margin-top: 20px;
+}
+.popup-report .report-info .car-option li i {
+  width: 28px;
+  height: 28px;
+  background-image: none;
+}
+.popup-report .report-info .car-option li i img {
+  width: 28px;
+  height: 28px;
+}
+.popup-report .report-info .car-option li span {
+  display: block;
+  margin-top: 6px;
+}
+
+.popup-report .report-price {
+  margin-top: 10px;
+}
+.popup-report .report-price li .tit {
+  font-size: 16px;
+}
+.popup-report .report-price li .tit span {
+  display: inline-block;
+  font-size: 10px;
+  margin-left: 15px;
+}
+.popup-report .report-price li .con {
+  height: 299px;
+}
+.popup-report .report-msg {
+  height: 60px;
+  line-height: 60px;
+}
+.popup-report .report-msg p {
+  float: right;
+  font-size: 16px;
+  color: #222;
+}
+
+/* //0325 수정 */
+.popup-report .tit-wrap .tit .btn-base {
+  float: right;
+  width: 90px;
+  margin-top: -3px;
+}
+.popup-report .tit-wrap .tit:after {
+  content: '';
+  display: block;
+  clear: both;
+}
+.frame-container .market-wrap .popup-normal-large {
+  margin-top: 80px;
+}
+.con-wrap .agrscr .privcon .pt {
+  font-size: 20px;
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+.con-wrap .agrscr .privcon .pss {
+  font-size: 14px;
+  line-height: 1.5;
+  margin-bottom: 10px;
+}
+.con-wrap .agrscr .privcon table {
+  margin-bottom: 20px;
+  width: 100%;
+}
+.con-wrap .agrscr .privcon table td {
+  border-color: #777;
+  height: 25px;
+  padding: 7px 5px 8px;
+  line-height: 1.3;
+}
+
+/* .m-v-show{display:none}
+
+@media all and (max-width:767px){
+  .market-top-banner{padding:10px 0 237px 0;height:auto}
+  .market-top-banner .content-wrap{padding:0 20px}
+  .market-top-banner h3 {
+    font-size: 28px;
+    font-weight: 500;
+    color: #fff;
+    padding-top: 24px;
+  }
+  .market-top-banner p {
+    line-height: 1.4;
+    font-size: 14px;
+    color: #fff;
+    margin-top: 24px;
+  }
+
+  .market-top-banner .top-banner-bg{
+    width:289px;height:191px;background:url(/images/mobile/contents/market-price-picto.png) no-repeat;
+    position: absolute;
+    top:141px;
+    right: 0;
+    display: block;
+    height: 281;
+    background-repeat: no-repeat;
+  }
+  .content-sec{padding:48px 0;}
+  .content-sec i{margin-right:13px;}
+  .content-sec .ico-car-search{width:31px;height:27px;background:url(/images/mobile/ico/ico-car-search.svg) no-repeat;}
+  .content-sec .ico-input-search{width:36px;height:20px;background:url(/images/mobile/ico/ico-input-search.svg) no-repeat;}
+  .m-v-hidden{display:none}
+  .m-v-show{display:block}
+
+  .search-car-terms li, .search-car-terms li .items-sbox{width:100%}
+  .search-car-terms .items-sbox__control{width:100% !important}
+}
+
+@media all and (min-width:768px) and (max-width:1024px){
+  .market-top-banner .content-wrap{padding:0 20px}
+  .market-top-banner p{width:320px;font-size:18px}
+  .search-car-terms li{width:48%;margin-right:0}
+  .search-car-terms li .items-sbox{width:100%}
+  .search-car-terms .items-sbox__control{width:100% !important}
+}
+@media all and (min-width:1025px) and (max-width:1200px){
+  .market-top-banner .content-wrap{padding:0 20px}
+}
+@media all and (min-width:1345px){
+  .market-top-banner .top-banner-bg{right:-64px;}
+} */
+
+/* 현재시세 그래프 추가 */
+.market-graph-box {
+  width: 360px;
+  margin: 0 auto;
+  padding-top: 30px;
+}
+.market-graph-box .market-graph-view {
+  position: relative;
+}
+.market-graph-box .market-graph-view img.graph-bg {
+  object-fit: unset;
+  width: 100%;
+  height: auto;
+}
+.market-graph-box .market-graph-view .price-box {
+  position: absolute;
+  color: #3f64c3;
+  line-height: 1.2;
+}
+.market-graph-box .market-graph-view .price-box dt {
+  font-size: 16px;
+}
+.market-graph-box .market-graph-view .price-box dd {
+  font-size: 20px;
+  font-weight: bold;
+}
+.market-graph-box .market-graph-view .price-box.price-current {
+  top: -53px;
+  left: 50%;
+  transform: translateX(-59%);
+}
+.market-graph-box .market-graph-view .price-box.price-current dd {
+  font-size: 28px;
+}
+.market-graph-box .market-graph-view .price-box.price-min {
+  left: -40px;
+  top: 4%;
+  text-align: right;
+}
+.market-graph-box .market-graph-view .price-box.price-max {
+  right: -40px;
+  top: 4%;
+  text-align: left;
+}
+.market-graph-box .market-graph-view .price-tit {
+  font-size: 18px;
+  font-weight: bold;
+  color: #fff;
+  position: absolute;
+  left: 50%;
+  top: 33%;
+  transform: translate(-50%, -50%);
+}
+
+@media print {
+  .popup-report {
+    min-height: auto !important;
+  }
+  .popup-report .tit-wrap .tit .btn-base {
+    display: none;
+  }
+  .frame-container .market-wrap .popup-normal-large {
+    margin-top: 30px;
+  }
+  .popup-report .report-info .car-info {
+    margin-right: 20px;
+  }
+  .popup-report .report-info .img-wrap{margin-right:47px}
+  .popup-report .report-info .car-info {
+    width: 436px;
+  }
+  .popup-report .report-info .car-option {
+    float:right;
+    width: 235px;
+  }
+  .popup-report .report-price {
+    margin-top: 10px;
+  }
+  .popup-report .report-price li .con {
+    height: 274px;
+  }
+  .popup-report .report-price li .con canvas {
+    width: 378px;
+    height: 274px;
+  }
+  .popup-report .step-btn {
+    display: none;
+  }
+  .popup-report .report-msg {
+    height: 30px;
+    line-height: 30px;
+    margin-top: -20px;
+  }
+  .hyundai-pricing-print-button {
+    display: none;
+  }
+  .w-line {
+    display: none;
+  }
+}

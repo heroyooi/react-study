@@ -1,0 +1,34 @@
+{
+  "data": [
+    {
+      "counselId": 1,
+      "crId": 1,
+      "crNo": "12가1234",
+      "phtUrl": "/images/dummy/product-img-06.png",
+      "crNm": "현대 투싼 ix 디젤 2WD LX20 럭셔리",
+      "dlrId": "D191379",
+      "dlrNm": "박현대",
+      "dlrHpNo": "010-3333-7777",
+      "replyState": "답변완료",
+      "regDt": "2020-02-02 11:11",
+      "rgstId": "memberId",
+      "updDt": "2020-02-02 14:00",
+      "updtId": "memberId"
+    },
+    {
+      "counselId": 2,
+      "crId": 2,
+      "crNo": "23더8282",
+      "phtUrl": "/images/dummy/product-img-05.png",
+      "crNm": "현대 투싼 ix 디젤 2WD LX20 럭셔리",
+      "dlrId": "D191379",
+      "dlrNm": "박현대",
+      "dlrHpNo": "010-3333-7777",
+      "replyState": "답변대기",
+      "regDt": "2020-02-02 16:00",
+      "rgstId": "memberId",
+      "updDt": "2020-02-02 16:00",
+      "updtId": "memberId"
+    }
+  ]
+}

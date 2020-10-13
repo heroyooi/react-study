@@ -4,24 +4,26 @@ React.js 스터디 저장소
 ## TUTORIAL
 React.js 학습 목적<br />
 
-- WEBGAME: React.js로 만드는 웹게임 中
-- BOOKS: CRA 기반 useContext 연습 下
+- WEBGAME: React.js로 만드는 웹게임
+- BOOKS: CRA 기반 useContext 연습
 - BOOKLIST: CRA 기반 useContext + useReducer 연습 下
 
-- QUERY: 리액트 쿼리를 활용한 데이터 패칭 및 페이지네이션 구현 中
-- REACT-REDUX: 간단한 react-redux 예제 下
-- FRAMER-MOTION: 인터렉티브한 리액트 앱을 제작하기 위한 framer-motion 사용법 中
-- TRELLO: CRA 기반 + trello clone 中
+- QUERY: 리액트 쿼리를 활용한 데이터 패칭 및 페이지네이션 구현
+- REACT-REDUX: 간단한 react-redux 예제
+- FRAMER-MOTION: 인터렉티브한 리액트 앱을 제작하기 위한 framer-motion 사용법
+- TRELLO: CRA 기반 + trello clone
 
-- TODOLIST: CRA 기반 투두앱 만들기 中
-- REDUX-MIDDLEWARE: CRA 기반으로 만드는 리덕스 미들웨어 上
+- TODOLIST: CRA 기반 투두앱 만들기
+- REDUX-MIDDLEWARE: CRA 기반으로 만드는 리덕스 미들웨어
 
 ## SAMPLE
 React.js로 완성한 간단한 애플리케이션 예제<br />
 
-- CHAT: CRA 기반 + express + socket.io로 채팅앱을 만들어 배포 下
-- WORD-CLOUD: CRA 기반 + fireabase로 워드클라우드앱 만들어 배포 下
--  NODEBIRD: React.js + Next.js로 SNS앱 만들어 아마존 웹서버로 배포 上
+- CHAT: CRA 기반 + express + socket.io로 채팅앱을 만들어 배포
+- WORD-CLOUD: CRA 기반 + fireabase로 워드클라우드앱 만들어 배포
+- NODEBIRD: React.js + Next.js로 SNS앱 만들어 아마존 웹서버로 배포
+- GLOVIS/PUBLISH: 현대 글로비스 오토벨 퍼블 버전
+- GLOVIS/FRONT: 현대 글로비스 오토벨 프론트개발 버전
 
 ## DEVELOP
 개발·공부중인 폴더...<br />

@@ -1,0 +1,57 @@
+{
+  "data": {
+    "car": {
+      "crId": null,
+      "crNo": "99가9999",
+      "crTypeCd": "1",
+      "crMnfcCd": "5",
+      "crMnfcCdNm": "현대",
+      "crMdlCd": "93",
+      "crMdlCdNm": "i30",
+      "crDtlMdlCd": "3",
+      "crDtlMdlCdNm": "i30",
+      "crClsCd": "2129",
+      "crClsCdNm": "LPG 3000cc",
+      "crDtlClsCd": "2129",
+      "crDtlClsCdNm": "3.0 LPi",
+      "crClrCd": "524",
+      "crClrCdNm": "흰색",
+      "crCmnt": "차랑설명X",
+      "crUseDvcd": "1",
+      "crUseDvcdNm": "일반",
+      "crRlsPrc": 20000000,
+      "dspl": 1000,
+      "frmYyyy": "2019",
+      "frstRegDt": "2018-11-11",
+      "fuelDvcd": "8342",
+      "drvDist": 1000,
+      "mssDvcd": "02",
+      "spExchYn": "N",
+      "spExchCntn": null,
+      "addOptCntn": "직접입력된 옵션",
+      "atbInspNo": 0,
+      "optionList": [
+        {
+          "addOptYn": "N",
+          "optCd": "063200",
+          "crId": null,
+          "cat1Seq": 6,
+          "cat1Nm": null,
+          "cat2Seq": 32,
+          "cat2Nm": null,
+          "cat3Seq": 0,
+          "cat3Nm": null,
+          "optNm": null
+        },
+        {
+          "optCd": "052061"
+        }
+      ],
+      "photoList": []
+    }
+  },
+  "statusinfo": {
+    "returncd": "000",
+    "returnmsg": "정상"
+  }
+}

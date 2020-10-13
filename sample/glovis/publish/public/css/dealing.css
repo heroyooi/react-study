@@ -1,0 +1,59 @@
+/* service-info */
+.service-guide.ew{padding-top:80px;}
+.service-guide .ew-service{text-align:center;background:#f6f7f8;padding:56px 0;}
+.service-guide .ew-service .service-tit{font-size:32px;font-weight:500;}
+.service-guide .ew-service .service-tit em{color:#3f64c3;}
+.service-guide .ew-service .service-exp{font-size:16px;color:#222;margin-top:30px;}
+.service-guide > h4{font-size:32px;color:#222;margin-top:60px;}
+.service-guide > h4 > em{font-weight:500;}
+
+.guarantee-wrap{padding-top:60px;}
+.guarantee-wrap h4{font-size:32px;font-weight:500;text-align:center;color:#222;}
+.guarantee-wrap .tabmenu{margin-top:60px;}
+.guarantee-wrap .tabmenu .ui-panel{padding-top:60px;}
+.guarantee-wrap .tabmenu .ui-panel table > tbody > tr > td:last-child{border-right:1px solid #e7e7e7;}
+
+/* dealing-guide */
+.dealing-guide{width:720px;margin:0 auto;padding-top:80px;}
+.dealing-guide h4{line-height:1.3;letter-spacing:-1.9px;font-size:32px;font-weight:500;color:#222;}
+.dealing-guide h4 em{font-weight:500;color:#3f64c3;}
+.dealing-guide > ul > li > h5{font-size:24px;font-weight:500;color:#3f64c3;margin-top:61px;}
+.dealing-guide > ul > li > h5 em{display:inline-block;width:28px;height:28px;line-height:28px;font-size:24px;font-weight:500;text-align:center;color:#fff;border-radius:100%;margin-right:8px;background:#3f64c3;}
+.dealing-guide > ul > li > p.sub-tit{font-size:20px;font-weight:500;color:#222;margin-top:24px;}
+.dealing-guide > ul > li > p.sub-tit .btn-base{position:relative;top:-2px;display:inline-block;margin-top:0;}
+.dealing-guide > ul > li > p.sub-tit span{display:block;line-height:1.5;font-size:16px;font-weight:normal;color:#777;margin-top:8px;}
+.dealing-guide > ul > li .img-cover{width:100%;height:400px;background:#f6f7f8;margin-top:16px;}
+.dealing-guide > ul > li .img-wrap{width:100%;}
+.dealing-guide > ul > li .img-wrap:after{content:'';display:block;clear:both;}
+.dealing-guide > ul > li .img-wrap .img-cover{float:left;width:49%;height:400px;margin-left:2%;background:#f6f7f8;}
+.dealing-guide > ul > li .img-wrap .img-cover:first-child{margin-left:0;}
+
+.service-guide.ew .coupon-area{width:100%;}
+.service-guide.ew .coupon-area h5{font-size:26px;font-weight:500;text-align:left;margin-top:80px;}
+.service-guide.ew .coupon-area h5 .btn-base{position:relative;top:-2px;}
+.service-guide.ew .coupon-area h5:first-child{margin-top:72px;}
+.service-guide.ew ul.coupon-wrap{width:100%;margin-top:27px;margin-bottom:16px;}
+.service-guide.ew ul.coupon-wrap:after{content:'';display:block;clear:both;}
+.service-guide.ew ul.coupon-wrap li{float:left;width:527px;height:240px;}
+.service-guide.ew ul.coupon-wrap li:nth-child(even){float:right;}
+.service-guide.ew ul.coupon-wrap li .coupon-img{float:left;width:107px;height:179px;margin-bottom:16px;}
+.service-guide.ew ul.coupon-wrap li .con-wrap{float:left;width:420px;height:178px;border:1px solid #e7e7e7;border-radius:8px;padding:32px;}
+.service-guide.ew ul.coupon-wrap li .con-wrap p{width:100%;font-size:18px;font-weight:500;text-align:left;color:#3f64c3;}
+.service-guide.ew ul.coupon-wrap li .con-wrap p span{display:block;font-size:14px;color:#222;margin-top:8px;}
+.service-guide.ew ul.coupon-wrap li .con-wrap .price-wrap{margin-top:4px;}
+.service-guide.ew ul.coupon-wrap li .con-wrap .price-wrap span{display:block;font-size:15px;color:#777;text-align:right;margin-top:13px;}
+.service-guide.ew ul.coupon-wrap li .con-wrap .price-wrap .price{font-size:44px;font-weight:500;text-align:right;}
+.service-guide.ew ul.coupon-wrap li .con-wrap .price-wrap .price .won{font-size:34px;font-weight:normal;}
+.service-guide.ew .exp{clear:both;line-height:1.4;font-size:17px;color:#777;text-align:left;margin-top:16px;}
+
+.dealing-guide.ex{position:relative;width:100%;height:5005px;margin:70px auto 0;}
+.dealing-guide.ex [class^='content']:nth-child(1){height:650px;}
+.dealing-guide.ex [class^='content']:nth-child(2){height:1150px;}
+.dealing-guide.ex [class^='content']:nth-child(3){height:1165px;}
+.dealing-guide.ex [class^='content']:nth-child(4){height:1090px;}
+.dealing-guide.ex [class^='content']:nth-child(5){height:950px;}
+.dealing-guide.ex .img-wrap{position:absolute;top:0;left:50%;width:1205px;height:5005px;transform:translateX(-50%);}
+.dealing-guide.ex .img-wrap img{object-fit:none;}
+
+
+

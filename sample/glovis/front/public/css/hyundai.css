@@ -1,0 +1,380 @@
+/* 한글 HyundaiSansHead */
+@font-face {
+  font-family: 'HeadBold';
+  src: url('fonts/HyundaiSansHeadKRBold.eot');
+  src: url('fonts/HyundaiSansHeadKRBold.eot?#iefix') format('embedded-opentype'), url('fonts/HyundaiSansHeadKRBold.woff2') format('woff2'), url('fonts/HyundaiSansHeadKRBold.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'HeadLight';
+  src: url('fonts/HyundaiSansHeadKRLight.eot');
+  src: url('fonts/HyundaiSansHeadKRLight.eot?#iefix') format('embedded-opentype'), url('fonts/HyundaiSansHeadKRLight.woff2') format('woff2'), url('fonts/HyundaiSansHeadKRLight.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'HeadRegular';
+  src: url('fonts/HyundaiSansHeadKRRegular.eot');
+  src: url('fonts/HyundaiSansHeadKRRegular.eot?#iefix') format('embedded-opentype'), url('fonts/HyundaiSansHeadKRRegular.woff2') format('woff2'),
+    url('fonts/HyundaiSansHeadKRRegular.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'HeadMedium';
+  src: url('fonts/HyundaiSansHeadKRMedium.eot');
+  src: url('fonts/HyundaiSansHeadKRMedium.eot?#iefix') format('embedded-opentype'), url('fonts/HyundaiSansHeadKRMedium.woff2') format('woff2'), url('fonts/HyundaiSansHeadKRMedium.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+/* 한글 HyundaiSansText */
+@font-face {
+  font-family: 'TextBold';
+  src: url('fonts/HyundaiSansTextKRBold.eot');
+  src: url('fonts/HyundaiSansTextKRBold.eot?#iefix') format('embedded-opentype'), url('fonts/HyundaiSansTextKRBold.woff2') format('woff2'), url('fonts/HyundaiSansTextKRBold.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'TextMedium';
+  src: url('fonts/HyundaiSansTextKRMedium.eot');
+  src: url('fonts/HyundaiSansTextKRMedium.eot?#iefix') format('embedded-opentype'), url('fonts/HyundaiSansTextKRMedium.woff2') format('woff2'), url('fonts/HyundaiSansTextKRMedium.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'TextRegular';
+  src: url('fonts/HyundaiSansTextKRRegular.eot');
+  src: url('fonts/HyundaiSansTextKRRegular.eot?#iefix') format('embedded-opentype'), url('fonts/HyundaiSansTextKRRegular.woff2') format('woff2'),
+    url('fonts/HyundaiSansTextKRRegular.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+/* marketIframe */
+.frame-container .content-wrap {
+  max-width: 1120px;
+  width: 1120px;
+}
+.market-wrap * {
+  font-family: 'TextRegular';
+  font-size: 16px;
+}
+.market-car-info .table-tp1 {
+  width: 714px;
+}
+.tabmenu.tp1.border > .ui-tab > li {
+  background-color: #f6f7f8;
+}
+.tabmenu.tp1.border > .ui-tab li.on {
+  border-top: 2px solid #002c5f;
+}
+.btn-base.bg-blue80 {
+  background-color: #002c5f;
+}
+.btn-base a {
+  font-family: 'TextMedium';
+  font-size: 14px;
+  font-weight: 500;
+}
+.search-car-num .tx-exp-tp3 {
+  font-family: 'TextMedium';
+  font-size: 16px;
+  color: #626262;
+  font-weight: 500;
+}
+.market-wrap .tit-wrap li h4 {
+  font-family: 'HeadMedium';
+  font-size: 30px;
+  font-weight: 500;
+}
+.search-area .input-base input {
+  width: 343px !important;
+}
+
+[class^='table-tp'] > tbody > tr > th,
+[class^='table-tp'].input > tbody > tr > td {
+  font-size: 16px;
+}
+[class^='table-tp'] > tbody > tr > th {
+  background-color: #f6f7f8;
+  color: #2b2b2b;
+}
+[class^='table-tp'].input > tbody > tr > td {
+  color: #3f3f3f;
+}
+.car-option-tp2.chk .cate-ico .ico-exp {
+  font-size: 16px;
+}
+.market-add-info ul li {
+  margin-right: 22px;
+  color: #2b2b2b;
+}
+.market-add-info .chk-box input + label {
+  font-size: 16px;
+  color: #777;
+}
+.search-car-terms .items-sbox .items-sbox__control {
+  width: 247.5px;
+}
+.market-wrap .search-car-num {
+  width: 920px;
+}
+
+/* visitApplyHyundai */
+.visit-apply-wrap {
+  font-family: 'TextRegular';
+  font-size: 16px;
+}
+.visit-apply-sec {
+  width: 525px;
+}
+.visit-apply-sec .apply-tit {
+  display: none;
+}
+.visit-apply-sec .apply-form ul li .tx-exp-tp4 {
+  margin-top: 7px;
+}
+.visit-img-sec {
+  width: 524px;
+  margin-right: 70px;
+}
+.visit-img-sec .ico-sell-01 {
+  width: 400px;
+  height: 400px;
+  margin: 0 0 0 40px;
+  background: #f6f7f8 url(/images/contents/sell-visit.png) no-repeat center 0;
+}
+.visit-img-sec ul {
+  margin-top: 48px;
+}
+.visit-img-sec ul li {
+  display: inline-block;
+  height: 40px;
+  padding: 11px 28px;
+  margin-right: 3px;
+  border: 1px solid #e7e7e7;
+  border-radius: 20px;
+  font-family: 'TextMedium';
+  font-size: 14px;
+  color: #002c5f;
+  font-weight: 500;
+}
+.visit-img-sec p,
+.visit-img-sec h3 {
+  color: #222;
+}
+.visit-img-sec h3 {
+  font-family: 'HeadMedium';
+  font-size: 32px;
+  font-weight: 500;
+}
+.css-hcbnxf-control {
+  width: 150px;
+}
+
+.items-sbox .items-sbox__control {
+  width: 253px;
+}
+.visit-apply-sec .apply-form ul li.birthLi span.bridge {
+  width: 163px;
+}
+.birthLi .items-sbox .items-sbox__control {
+  width: 163px;
+}
+.visit-img-sec h3.visit-tit {
+  margin-bottom: 20px;
+}
+.visit-apply-sec .apply-form h4 {
+  font-weight: bold;
+}
+.visit-img-sec .visit-copy {
+  font-size: 20px;
+  line-height: 1.5;
+  margin-bottom: 60px;
+}
+.clear:after {
+  content: '';
+  clear: both;
+  display: block;
+}
+.input-base input {
+  /* width: 253px !important; */
+}
+.search-car-terms .full .input-base.per input {
+  width: 100% !important;
+}
+.search-car-terms .input-base.date-picker input {
+  width: 252px !important;
+}
+.search-car-terms .input-base input {
+  width: 247px !important;
+}
+.search-car-terms .full .items-sbox .items-sbox__control {
+  width: 100%;
+}
+.visit-apply-sec .apply-form ul li:after {
+  content: '';
+  display: block;
+  clear: both;
+}
+.visit-apply-sec .apply-form ul li label {
+  clear: both;
+}
+.visit-apply-sec .apply-form ul li span.bridge {
+  float: left;
+  display: block;
+  width: 253px;
+}
+.visit-apply-sec .register-tp1 .input-base.type-1 {
+  float: left;
+  display: block;
+  width: 253px;
+}
+.visit-apply-sec .register-tp1 .input-base.per.type-1 {
+  float: none;
+  width: 100%;
+}
+.visit-apply-sec .register-tp1 .input-base.per.type-1 input {
+  width: 100% !important;
+}
+.rc-calendar-picker {
+  width: 253px !important;
+}
+
+/* popup */
+.rodal-mask {
+  background-color: transparent;
+}
+.popup-wrapper [class*='popup-normal'] {
+  border: 0;
+  -moz-box-shadow: 0 0 6px rgba(0, 0, 0, 0.3);
+  -webkit-box-shadow: 0 0 6px rgba(0, 0, 0, 0.3);
+  box-shadow: 0 0 6px rgba(0, 0, 0, 0.3);
+}
+.popup-visit {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: #fff;
+}
+.popup-visit > div {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  -moz-box-shadow: 0 0 6px rgba(0, 0, 0, 0.3);
+  -webkit-box-shadow: 0 0 6px rgba(0, 0, 0, 0.3);
+  box-shadow: 0 0 6px rgba(0, 0, 0, 0.3);
+}
+.popup-visit > div > div {
+  font-size: 16px;
+  color: #222;
+  padding: 30px 20px;
+  text-align: center;
+}
+.popup-visit > .btn-base.big {
+  width: 100%;
+}
+/* 0325 수정 */
+.search-car-terms li.drvDist .input-base input {
+  width: 216px !important;
+}
+.search-car-terms li.rlsPrc {
+  margin-right: 0px;
+}
+.search-car-terms li.rlsPrc .input-base input {
+  width: 227px !important;
+}
+
+.visual-area {
+  width: 100%;
+  background: url(/images/contents/bitmap.jpg) no-repeat center 0;
+  height: 480px;
+  min-width: 1120px;
+}
+.visual-area .cont {
+  width: 1120px;
+  margin: 0 auto;
+  position: relative;
+  top: 106px;
+  left: 0px;
+}
+.visual-area .cont .c1 {
+  position: absolute;
+  top: 3px;
+  left: 0px;
+}
+.visual-area .cont .c2 {
+  position: absolute;
+  top: 9px;
+  left: 280px;
+}
+.visual-area .cont .c3 {
+  position: absolute;
+  top: 3px;
+  left: 328px;
+}
+.visual-area .cont p {
+  position: absolute;
+  top: 70px;
+  left: 0px;
+  font-size: 40px;
+  color: #4c4c4c;
+  font-family: HeadBold;
+  line-height: 1.5;
+}
+.visual-area .cont p strong {
+  color: #012e6b;
+}
+/* //0325 수정 */
+.popup-report .tit-wrap .tit .btn-base {
+  float: right;
+  width: 90px;
+  margin-top: -3px;
+}
+.popup-report .tit-wrap .tit:after {
+  content: '';
+  display: block;
+  clear: both;
+}
+.frame-container .market-wrap .popup-normal-large {
+  margin-top: 80px;
+}
+.con-wrap .agrscr .privcon .pt {
+  font-size: 20px;
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+.con-wrap .agrscr .privcon .pss {
+  font-size: 14px;
+  line-height: 1.5;
+  margin-bottom: 10px;
+}
+.con-wrap .agrscr .privcon table {
+  margin-bottom: 20px;
+  width: 100%;
+}
+.con-wrap .agrscr .privcon table td {
+  border-color: #777;
+  height: 25px;
+  padding: 7px 5px 8px;
+  line-height: 1.3;
+}
+@media print {
+  .popup-report .report-msg {
+    height: 30px;
+    line-height: 30px;
+    margin-top: -20px;
+  }
+  .hyundai-pricing-print-button {
+    display: none;
+  }
+  @page {
+    size: landscape;
+  }
+}

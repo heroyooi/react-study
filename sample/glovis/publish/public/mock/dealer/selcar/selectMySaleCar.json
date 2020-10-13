@@ -1,0 +1,90 @@
+{
+    "data": {
+        "list" : [
+            {
+                "dlrPrdId": "01",
+                "crId": "CR20011000328",
+                "slAmt": 20000000,
+                "sttDvcd": "01",
+                "prdDelDt": null,
+                "prdDelCntn": null,
+                "lvstdCrYn": "Y",
+                "auctSbidCrYn": "Y",
+                "frnchsCrYn": "Y",
+                "hsvcCrYn": "Y",
+                "sbidCrYn": "Y",
+                "prdTpcd": "01",
+                "dlrMbId": "01",
+                "regDt": "2020-02-12",
+                "rgstId": "02",
+                "updDt": "2020-02-12",
+                "updtId": "02",
+                "crMvUrl": "https://naver.com",
+                "szrMorCnt": 2,
+                "cmnt": {
+                  "dlrPrdId": "01",
+                  "kpntCntn": "가",
+                  "scrcCntn": "나",
+                  "hstCntn": "다",
+                  "opnCntn": "라",
+                  "etcCntn": "마",
+                  "kpntYn": "Y",
+                  "scrcYn": "Y",
+                  "hstYn": "Y",
+                  "opnYn": "Y",
+                  "etcYn": "Y",
+                  "regDt": "2020-02-11",
+                  "rgstId": "02",
+                  "updDt": "2020-02-12",
+                  "updtId": "02"
+                },
+                "car" : {
+                    "crId": "tg903ub09gfuhv94",
+                    "crNo": "99가9999",
+                    "crTypeCd": "1",
+                    "crMnfcCd": "5",
+                    "crMnfcCdNm": "현대",
+                    "crMdlCd": "93",
+                    "crMdlCdNm": "i30",
+                    "crDtlMdlCd": "3",
+                    "crDtlMdlCdNm": "i30",
+                    "crClsCd": "2129",
+                    "crClsCdNm": "LPG 3000cc",
+                    "crDtlClsCd": "2129",
+                    "crDtlClsCdNm": "3.0 LPi",
+                    "crClrCd": "524",
+                    "crClrCdNm": "흰색",
+                    "crCmnt": "차랑설명X",
+                    "crUseDvcd": "1",
+                    "crUseDvcdNm": "일반",
+                    "crRlsPrc": 20000000,
+                    "dspl": 1000,
+                    "frmYyyy": "2019",
+                    "frstRegDt": "2018-11-11",
+                    "fuelDvcd": "8342",
+                    "drvDist": 1000,
+                    "mssDvcd": "02",
+                    "spExchYn": "N",
+                    "spExchCntn": null,
+                    "addOptCntn": "직접입력된 옵션",
+                    "atbInspNo": 0,
+                    "optionList": [
+                        {
+                        "optCd": "063200"
+                        },
+                        {
+                        "optCd": "052061"
+                        }
+                    ],
+                    "photoList": []
+                }
+            }
+        ],
+        "order": "REG_DT",
+        "by": "DESC"
+    },
+    "statusinfo": {
+        "returncd": "000",
+        "returnmsg": "정상"
+    }
+}

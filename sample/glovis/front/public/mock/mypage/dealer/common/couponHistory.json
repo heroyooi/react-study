@@ -1,0 +1,68 @@
+{
+    "data": [
+        {
+            "coupHstId": 0,
+            "coupId": "001",
+            "coupNo": "Z1230-ER3429",
+            "coupNm": "쿠폰001",
+            "mbId": "test01",
+            "coupVldYmd": "2020-10-31",
+            "coupDvcd": "무료 이용권",
+            "coupUseYn": "N",
+            "coupUseYmd": "",
+            "regDt": "2020-01-01",
+            "rgstId": "test01",
+            "updDt": "2020-01-01",
+            "updId": "test01"
+        },
+        {
+            "coupHstId": 1,
+            "coupId": "001",
+            "coupNo": "F0182-XF2137",
+            "coupNm": "쿠폰001",
+            "mbId": "test01",
+            "coupVldYmd": "2020-01-15",
+            "coupDvcd": "무료 이용권",
+            "coupUseYn": "N",
+            "coupUseYmd": "",
+            "regDt": "2020-01-01",
+            "rgstId": "test01",
+            "updDt": "2020-01-01",
+            "updId": "test01"
+        },
+        {
+            "coupHstId": 2,
+            "coupId": "001",
+            "coupNo": "Z1230-ER3429",
+            "coupNm": "쿠폰001",
+            "mbId": "test01",
+            "coupVldYmd": "2020-10-31",
+            "coupDvcd": "무료 이용권",
+            "coupUseYn": "Y",
+            "coupUseYmd": "2020-01-10",
+            "regDt": "2020-01-01",
+            "rgstId": "test01",
+            "updDt": "2020-01-01",
+            "updId": "test01"
+        },
+        {
+            "coupHstId": 3,
+            "coupId": "001",
+            "coupNo": "A7123-RE5729",
+            "coupNm": "쿠폰001",
+            "mbId": "test01",
+            "coupVldYmd": "2020-01-17",
+            "coupDvcd": "무료 이용권",
+            "coupUseYn": "N",
+            "coupUseYmd": "",
+            "regDt": "2020-01-01",
+            "rgstId": "test01",
+            "updDt": "2020-01-01",
+            "updId": "test01"
+        }
+    ],
+    "statusinfo": {
+        "returncd": "000",
+        "returnmsg": "정상"
+    }
+}

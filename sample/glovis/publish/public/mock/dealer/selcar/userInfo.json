@@ -1,0 +1,23 @@
+{
+
+    "userType": "1",
+    "corpType" : "1",
+    "confirmType" : "1",
+    "contract" : [
+        {
+            "name": "홍길동",
+            "phone": "010-4454-23423"
+        },
+        {
+            "name": "이경선",
+            "phone": "010-8457-5687"
+        }
+    ],
+
+    "carPrcing" : {
+        "minPrice" : 2400,
+        "maxPrice": 3800,
+        "minRage": 2750,
+        "maxRage": 3400
+    }
+}

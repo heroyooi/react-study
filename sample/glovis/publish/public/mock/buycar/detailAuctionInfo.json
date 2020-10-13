@@ -1,0 +1,82 @@
+{
+  "data": {
+    "auctInfo": {
+      "auctNm": "오토벨 분당센터",
+      "auctCorp": "N2235",
+      "auctDt": "20190808",
+      "auctNo": "12345678"
+    },
+    "auctPht": [
+      {
+        "bImg": "https://www.hyundai.com/content/dam/hyundai/kr/ko/images/vehicles/avante/highlights/pip-avante-highlights-gasoline-1-point-6-premium-full-option.jpg",
+        "bAlt": "차량이미지01",
+        "sImg": "https://www.hyundai.com/content/dam/hyundai/kr/ko/images/vehicles/avante/highlights/pip-avante-highlights-gasoline-1-point-6-premium-full-option.jpg",
+        "sAlt": "차량이미지01 미니"
+      },
+      {
+        "bImg": "https://www.hyundai.com/content/dam/hyundai/kr/ko/images/vehicles/avante/highlights/pip-avante-highlights-gasoline-1-point-6-premium-full-option-front-teal-blue.jpg",
+        "bAlt": "차량이미지02",
+        "sImg": "https://www.hyundai.com/content/dam/hyundai/kr/ko/images/vehicles/avante/highlights/pip-avante-highlights-gasoline-1-point-6-premium-full-option-front-teal-blue.jpg",
+        "sAlt": "차량이미지02 미니"
+      },
+      {
+        "bImg": "https://www.hyundai.com/content/dam/hyundai/kr/ko/images/vehicles/grandeur/design/pip-grandeur-design-full-led-headlamp-and-cascading-grill-n.jpg",
+        "bAlt": "차량이미지03",
+        "sImg": "https://www.hyundai.com/content/dam/hyundai/kr/ko/images/vehicles/grandeur/design/pip-grandeur-design-full-led-headlamp-and-cascading-grill-n.jpg",
+        "sAlt": "차량이미지03 미니"
+      },
+      {
+        "bImg": "https://www.hyundai.com/content/dam/hyundai/kr/ko/images/vehicles/grandeur/design/pip-grandeur-design-led-turn-signal-applied-outside-mirror-and-satin-chrome-molding-n.jpg",
+        "bAlt": "차량이미지04",
+        "sImg": "https://www.hyundai.com/content/dam/hyundai/kr/ko/images/vehicles/grandeur/design/pip-grandeur-design-led-turn-signal-applied-outside-mirror-and-satin-chrome-molding-n.jpg",
+        "sAlt": "차량이미지04 미니"
+      },
+      {
+        "bImg": "https://www.hyundai.com/content/dam/hyundai/kr/ko/images/vehicles/grandeur/design/pip-grandeur-design-led-rear-combilamp-n.jpg",
+        "bAlt": "차량이미지05",
+        "sImg": "https://www.hyundai.com/content/dam/hyundai/kr/ko/images/vehicles/grandeur/design/pip-grandeur-design-led-rear-combilamp-n.jpg",
+        "sAlt": "차량이미지05 미니"
+      },
+      {
+        "bImg": "https://www.hyundai.com/content/dam/hyundai/kr/ko/images/vehicles/grandeur/design/pip-grandeur-design-3-point-3-celebrity-full-options.jpg",
+        "bAlt": "차량이미지06",
+        "sImg": "https://www.hyundai.com/content/dam/hyundai/kr/ko/images/vehicles/grandeur/design/pip-grandeur-design-3-point-3-celebrity-full-options.jpg",
+        "sAlt": "차량이미지06 미니"
+      },
+      {
+        "bImg": "https://www.hyundai.com/content/dam/hyundai/kr/ko/images/vehicles/grandeur/design/pip-grandeur-design-3-point-0-exclusive-special-and-jbl-sound-package-front.jpg",
+        "bAlt": "차량이미지07",
+        "sImg": "https://www.hyundai.com/content/dam/hyundai/kr/ko/images/vehicles/grandeur/design/pip-grandeur-design-3-point-0-exclusive-special-and-jbl-sound-package-front.jpg",
+        "sAlt": "차량이미지07 미니"
+      },
+      {
+        "bImg": "https://www.hyundai.com/content/dam/hyundai/kr/ko/images/vehicles/grandeur/design/pip-grandeur-design-3-point-0-exclusive-special-and-jbl-sound-package-back.jpg",
+        "bAlt": "차량이미지08",
+        "sImg": "https://www.hyundai.com/content/dam/hyundai/kr/ko/images/vehicles/grandeur/design/pip-grandeur-design-3-point-0-exclusive-special-and-jbl-sound-package-back.jpg",
+        "sAlt": "차량이미지08 미니"
+      },
+      {
+        "bImg": "https://www.hyundai.com/content/dam/hyundai/kr/ko/images/vehicles/i30/highlights/pip-i30-highlights-n-line-full-option.jpg",
+        "bAlt": "차량이미지09",
+        "sImg": "https://www.hyundai.com/content/dam/hyundai/kr/ko/images/vehicles/i30/highlights/pip-i30-highlights-n-line-full-option.jpg",
+        "sAlt": "차량이미지09 미니"
+      },
+      {
+        "bImg": "https://www.hyundai.com/content/dam/hyundai/kr/ko/images/vehicles/i30/highlights/pip-i30-highlights-1-4-tubo-premium-full-option-and-n-line-full-option.jpg",
+        "bAlt": "차량이미지10",
+        "sImg": "https://www.hyundai.com/content/dam/hyundai/kr/ko/images/vehicles/i30/highlights/pip-i30-highlights-1-4-tubo-premium-full-option-and-n-line-full-option.jpg",
+        "sAlt": "차량이미지10 미니"
+      },
+      {
+        "bImg": "https://www.hyundai.com/content/dam/hyundai/kr/ko/images/vehicles/veloster/style/pip-veloster-style-led-headlamp.jpg",
+        "bAlt": "차량이미지11",
+        "sImg": "https://www.hyundai.com/content/dam/hyundai/kr/ko/images/vehicles/veloster/style/pip-veloster-style-led-headlamp.jpg",
+        "sAlt": "차량이미지11 미니"
+      }
+    ]
+  },
+  "statusinfo": {
+    "returncd": "000",
+    "returnmsg": "정상"
+  }
+}

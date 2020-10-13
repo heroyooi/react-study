@@ -1,0 +1,70 @@
+{
+  "data": [
+    {
+      "mbId": "D191379",
+      "accountNo": "010101-02-334455667",
+      "accountNm": "김현대",
+      "bankCd": "0040",
+      "bankNm": "국민은행",
+      "regDt": "2020-01-21",
+      "rgstId": "D191379",
+      "updDt": "2020-01-21",
+      "updtId": "D191379"
+    },
+    {
+      "mbId": "D191379",
+      "accountNo": "121212-11-334455667",
+      "accountNm": "홍길동",
+      "bankCd": "0020",
+      "bankNm": "산업은행",
+      "regDt": "2020-01-22",
+      "rgstId": "D191379",
+      "updDt": "2020-01-22",
+      "updtId": "D191379"
+    },
+    {
+      "mbId": "D191379",
+      "accountNo": "493720-02-334455667",
+      "accountNm": "김우리",
+      "bankCd": "0100",
+      "bankNm": "우리은행",
+      "regDt": "2020-01-23",
+      "rgstId": "D191379",
+      "updDt": "2020-01-23",
+      "updtId": "D191379"
+    },
+    {
+      "mbId": "D191379",
+      "accountNo": "010101-02-723587623",
+      "accountNm": "이하나",
+      "bankCd": "0330",
+      "bankNm": "하나은행",
+      "regDt": "2020-01-24",
+      "rgstId": "D191379",
+      "updDt": "2020-01-24",
+      "updtId": "D191379"
+    },
+    {
+      "mbId": "D191379",
+      "accountNo": "826192-02-111223515",
+      "accountNm": "박기업",
+      "bankCd": "0030",
+      "bankNm": "기업은행",
+      "regDt": "2020-01-25",
+      "rgstId": "D191379",
+      "updDt": "2020-01-25",
+      "updtId": "D191379"
+    },
+    {
+      "mbId": "D191379",
+      "accountNo": "110-22-334457",
+      "accountNm": "박신한",
+      "bankCd": "0340",
+      "bankNm": "신한은행",
+      "regDt": "2020-01-26",
+      "rgstId": "D191379",
+      "updDt": "2020-01-26",
+      "updtId": "D191379"
+    }
+  ]
+}

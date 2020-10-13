@@ -1,0 +1,74 @@
+{
+    "data":{
+        "profUrl":"image01",
+        "name":"dealerNm",
+        "addr":"서울 강서구",
+        "tel":"010-xxxx-xxxx",
+        "tags":"#수입전문 #BMW #5시리즈 #최고가",
+        "intro":"안녕하세요, 오토벨 인증 딜러 장현대 입니다. <br/>항상 신념과 믿음으로 진실된 장현대 딜러가 되겠습니다.",
+        "totalBiddsCnt":"200",
+        "totalSuccBiddsCnt":"30",
+        "succRate":"15%",
+        "rate":"4.2",
+        "pricePoint":"3.58",
+        "servicePoint":"4.8",
+        "recommPoint":"4.5",
+        "customerReviews":[
+            {
+                "crNm":"기아 그랜드카니발 GX11인승",
+                "point":5,
+                "desc":"최고의 가격과 최고의 서비스를 받았습니다.",
+                "customerNm":"김*광",
+                "regDt":"2019-10-10"
+            },
+            {
+                "crNm":"기아 그랜드카니발 GX11인승",
+                "point":4,
+                "desc":"강력추천 합니다.",
+                "customerNm":"김*길",
+                "regDt":"2019-10-05"
+            },
+            {
+                "crNm":"기아 그랜드카니발 GX11인승",
+                "point":5,
+                "desc":"최고의 가격과 최고의 서비스를 받았습니다.",
+                "customerNm":"이*중",
+                "regDt":"2019-10-08"
+            }
+        ],
+        "dealerReviews":[
+            {
+                "reviewId":1,
+                "phtUrl":"mainPhoto.jpg",
+                "title":"강원도 춘천에서 그랜저 매입한 후기",
+                "crNm":"현대 그랜저 프리미엄",
+                "regDt":"2019-01-03",
+                "desc":"친절하고 쿨하고 전반적으로 만족",
+                "phtList":[
+                    {
+                        "phtUrl":"subImg1.jpg"
+                    },
+                    {
+                        "phtUrl":"subImg2.jpg"
+                    }
+                ]
+            },
+            {
+                "reviewId":2,
+                "phtUrl":"mainPhoto2.jpg",
+                "title":"강원도 춘천에서 그랜저 매입한 후기2",
+                "crNm":"현대 그랜저 프리미엄2",
+                "regDt":"2019-01-03",
+                "desc":"친절하고 쿨하고 전반적으로 만족2",
+                "phtList":[
+                    {
+                        "phtUrl":"subImg12.jpg"
+                    },
+                    {
+                        "phtUrl":"subImg22.jpg"
+                    }
+                ]
+            }
+        ]
+    }
+}

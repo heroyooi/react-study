@@ -1,0 +1,825 @@
+.mypage-nav-sec{float:left;width:242px;padding:64px 0 204px 0;margin-right:64px;}
+.mypage-state-sec{float:left;width:894px;padding:64px 0 140px 0;}
+.mypage-state-sec h3{font-size:32px;font-weight:500;padding-bottom:22px;}
+.mypage-state-sec .tabmenu .ui-tab.col-2 li{font-size:21px;background-color:#fff;}
+.mypage-state-sec .tabmenu .ui-tab.col-2 li:hover{background-color:#3f64c3;}
+.mypage-state-sec .tabmenu .ui-tab.col-2 li.on{background-color:#3f64c3;}
+.mypage-state-sec .dealer-register-step{background:#3f64c3;padding:49px 0 49px 37px;}
+
+.state-green{color:#87ab03;}
+.state-red{color:#e87768;}
+.state-yellow{color:#f2bf3d;}
+.state-blue{color:#5e84e5;}
+.state-green > span{background-color:#9ac504;opacity:0.4;}
+.state-red > span{background-color:#e98e81;opacity:0.4;}
+.state-yellow > span{background-color:#f2cd6e;opacity:0.4;}
+.state-blue > span{background-color:#a4b7e6;opacity:0.4;}
+.state-green.on > span{opacity:1;}
+.state-red.on > span{opacity:1;}
+.state-yellow.on > span{opacity:1;}
+.state-blue.on > span{opacity:1;}
+
+/* mypage-popup cover */
+.stop-cover{position:relative;width:100%;height:187px;border:1px solid #3f64c3;background:#f6f7f8;padding:40px 0;top:-1px;}
+.stop-cover p{text-align:center;font-size:20px;color:#222;}
+.stop-cover p > span{display:block;font-size:17px;color:#5e5e5e;margin: 16px 0 0 0;}
+.stop-cover p > span.ex{font-size:14px;color:#222;margin-top:32px}
+.stop-cover .chk-box{position:absolute;right:20px;bottom:17px;margin:0;}
+.stop-cover .popup-close{position:absolute;right:20px;top:20px;width:16px;height:16px;background:url(/images/ico/ico-close-mid.png) 0 0 no-repeat;background-size:100%;}
+
+.no-group-id-cover{position:relative;width:100%;height:187px;border:1px solid #3f64c3;background:#f6f7f8;padding:40px 0;}
+.no-group-id-cover p{text-align:center;font-size:20px;color:#222;}
+.no-group-id-cover p > span{display:block;font-size:17px;color:#5e5e5e;margin: 16px 0 0 0;}
+.no-group-id-cover p > span.ex{font-size:14px;color:#222;margin-top:32px}
+.no-group-id-cover .chk-box{position:absolute;right:20px;bottom:17px;margin:0;}
+.no-group-id-cover .popup-close{position:absolute;right:20px;top:20px;width:16px;height:16px;background:url(/images/ico/ico-close-mid.png) 0 0 no-repeat;background-size:100%;}
+.no-group-id-cover .btn-base{background:#fff;}
+.no-group-id-cover .chk-box.nolook{right:129px;}
+
+/* register-admin-tab : 등록차량 관리 */
+.register-admin-tab{width:100%;border-bottom:1px solid #d7d7d7;background-color:#f6f7f8;padding:36px 147px;}
+.register-admin-tab:after{content:'';display:block;clear:both;}
+.register-admin-tab li{float:left;width:84px;margin-right:88px;text-align:center;}
+.register-admin-tab li:last-child{margin-right:0;}
+.register-admin-tab li > span{display:block;width:84px;height:84px;font-size:36px;line-height:84px;text-align:center;color:#fff;border-radius:100%;margin-bottom:16px;transition:opacity .3s;cursor:pointer;}
+/* register-admin-sec */
+.register-admin-sec{padding-top:64px;}
+
+.register-state-modify{margin-top:32px;padding:0 20px 0 10px;}
+.register-state-modify:after{content:'';display:block;clear:both;}
+.register-state-modify .chk-box{float:left;top:6px;}
+.register-state-modify .btn-wrap{float:right;}
+
+.register-admin-sec .list-none{font-size:14px;color:#777;padding:135px 0;}
+
+
+/* .register-state-modify{width:100%;margin-top:16px;}
+.register-state-modify:after{content:'';display:block;clear:both;}
+.register-state-modify li{float:left;height:32px;line-height:32px;margin-right:9px;}
+.register-state-modify li:last-child{margin-right:0;}
+.register-state-modify li .chk-box{display:block;}
+.register-state-modify li .chk-box input + label{display:block;padding-left:20px;} */
+
+/* mypage-admin-title */
+[class^="member-info"] .mypage-admin-title{margin-bottom:96px;}
+
+/* tx-list */
+[class*="tx-list"]{position:relative;}
+[class*="tx-list"] .table-tp1{margin-top:16px;}
+/* img-list */
+[class$="img-list"] > li{margin-top:16px;}
+/* align-wrap */
+.align-wrap{position:relative;clear:both;width:100%;border:1px solid #e7e7e7;}
+.align-wrap > *:first-child{position:absolute;top:50%;transform:translateY(-50%);line-height:21px;font-size:14px;color:#5e5e5e;}
+.align-wrap > *:last-child{position:absolute;top:50%;transform:translateY(-50%);}
+/* tx-btn-wrap */
+.tx-btn-wrap{position:relative;}
+.tx-btn-wrap > .btn-base{position:absolute;top:-3px;margin-left:10px;}
+/* inquire-num */
+.inquire-num{display:block;font-size:15px;color:#222;margin-top:48px;}
+
+/* 업데이트 시간변경 */
+.popup-wrapper .popup-con-sec .con-wrap.time-update{padding:52px 40px 68px}
+.popup-wrapper .popup-con-sec .con-wrap .save-box-txt{font-size:19px;color:#262626;margin-bottom:16px}
+.popup-wrapper .popup-con-sec .con-wrap .input-limit{width:100%;font-size:17px;color:#5e5e5e;text-align:right;margin-top:8px}
+.popup-wrapper .popup-con-sec .con-wrap.tac{text-align:center}
+.popup-wrapper .popup-con-sec .con-wrap.save-box-pop{padding:48px 40px}
+.popup-wrapper .popup-con-sec .con-wrap .save-box{border:1px solid #e7e7e7;padding:32px 10px 32px 24px;margin-top:24px}
+.popup-wrapper .popup-con-sec .con-wrap.save-box-pop .btn-base{border-radius:24px;}
+.popup-wrapper .popup-con-sec .con-wrap .save-box li{padding-top:24px}
+.popup-wrapper .popup-con-sec .con-wrap .save-box li:first-child{padding-top:0px}
+.popup-wrapper .popup-con-sec .con-wrap .save-box li .box-item{margin:16px 0 0 28px;overflow:hidden}
+.popup-wrapper .popup-con-sec .con-wrap .save-box li .time-info{margin-right:14px;font-size:16px;color:#777;line-height:1.5;display:block;float:left}
+.popup-wrapper .popup-con-sec .con-wrap .save-box .radio-basic.simple{width:auto}
+.popup-wrapper .popup-con-sec .con-wrap .save-box .radio-basic.simple input + label{width:auto;padding-left:28px;font-size:16px;color:#222}
+
+/* popup-mypage-payment */
+.popup-mypage-payment{padding:40px 20px 40px 40px}
+.popup-mypage-payment .admin-list{border:0;padding:0;}
+.popup-mypage-payment .price-wrap{width:100%;height:96px;line-height:96px;border:1px solid #e7e7e7;background:#f6f7f8;padding:0 64px;margin-top:32px;}
+.popup-mypage-payment .price-wrap .price-name{float:left;font-size:18px;font-weight:5000;color:#222;}
+.popup-mypage-payment .price-wrap .price-tp7{float:right;}
+.popup-mypage-payment .payment-sec.method .sub-tit{padding:0;margin-bottom:24px;}
+.popup-mypage-payment .payment-sec.method .point-area{padding-top:40px;}
+
+/* register */
+.register-wrap h4{font-size:26px;font-weight:500;letter-spacing:-0.96px;color:#222;}
+.register-wrap h4 > span{display:inline-block;font-size:17px;font-weight:normal;color:#777;margin-left:8px;}
+.register-wrap h4.sml{float:left;width:141px;font-size:17px;font-weight:normal;}
+.register-wrap h4.sml:after{content:'';display:block;clear:both;}
+/* register-form */
+.register-form fieldset:first-child{padding-top:0;}
+.register-form .table-tp1 span.line-black{padding:0;}
+.register-form .car-option-tp2{width:100%;}
+.register-form .car-option-tp2 .cate-ico li{margin:0;}
+.register-form .bridge2.gas > span:first-child{display:inline-block;width:100px;}
+.register-form .register-agree{width:100%;}
+.register-form .all-state thead > tr > th{height:56px;}
+.register-form .signature .terms-wrap{min-height:150px}
+
+/* popup-delete-reason */
+.popup-wrapper .popup-normal-medium .popup-con-sec .popup-delete-reason{padding:80px 102px;}
+.popup-delete-reason .delete-tit{font-size:20px;color:#222;margin-bottom:24px;}
+.popup-delete-reason .delete-wrap{width:100%;padding:41px 56px;border:1px solid #e7e7e7;margin-bottom:32px;}
+.popup-delete-reason .delete-wrap .chk-box{display:block;margin-bottom:17px;}
+.popup-delete-reason p.careful{width:100%;text-align:center;text-decoration:underline;font-size:17px;color:#222;}
+
+/* popup-info-modify */
+.popup-info-modify .register-form table{margin-top:0;}
+.popup-info-modify .register-form fieldset{padding-top:64px;}
+.popup-info-modify .register-form fieldset:first-child{padding-top:0;}
+.popup-info-modify .register-form fieldset.accident-record{padding-top:0;}
+
+/* dealerSell01 */
+.standby-car-sec .tabmenu{margin-top:78px;}
+.standby-car-sec table{margin:16px 0 40px 0;}
+.standby-car-sec .float-wrap .inquire-num{line-height:40px;}
+.mypage-state-sec .content-bottom > .btn-wrap {float:right;display:inline-block;position: relative;top:50%;transform: translateY(-50%);}
+.mypage-state-sec .content-bottom > .btn-wrap > .btn-base {float:none;display:block;top:0;transform:translateY(0);}  
+
+/* popup-bid-send */
+.popup-bid-send table caption{font-size:18px;font-weight:normal;letter-spacing:-0.64px;color:#222;margin-bottom:17px;}
+.con-wrap ul.dot-wrap{margin:30px 0 0 5px;}
+.con-wrap ul.dot-wrap li{font-size:15px;color:#222;margin-bottom:16px;}
+.con-wrap ul.dot-wrap li i{margin-right:10px;}
+.con-wrap ul.dot-wrap li span{display:inline-block;width:100px;}
+.con-wrap ul.dot-wrap li strong{font-size:16px;font-weight:500;margin-left:10px;color:#3f64c3;}
+.con-wrap ul.dot-wrap li strong > span{font-size:15px;font-weight:normal;}
+.popup-bid-send form{margin-top:48px;}
+.popup-bid-send form legend{font-size:18px;letter-spacing:-0.64px;color:#222;margin-bottom:21px;}
+/* popup-no-group-id */
+.popup-no-group-id ul{margin-bottom:25px;}
+.popup-no-group-id ul li{font-size:17px;line-height:1.06;letter-spacing:-0.6px;color:#222;margin-top:24px;}
+.popup-no-group-id ul li:first-child{margin:0;}
+.popup-no-group-id ul li span{display:block;line-height:1.7;color:#777;margin-top:16px;}
+.popup-no-group-id ul li:last-child span{padding-left:15px;text-indent:-15px;margin:0;}
+.popup-no-group-id ul li:last-child span:first-child{margin-top:16px;}
+.popup-no-group-id .radio-group{width:100%;padding:30px 70px;border:1px solid #e7e7e7;}
+.popup-no-group-id .radio-group .radio-basic{display:inline-block;width:50%;/*margin-right:25px;*/}
+.popup-no-group-id .radio-group .radio-basic:last-child{margin-right:0;}
+
+
+/* send-person */
+.send-person ul.dot-wrap{width:fit-content;margin:0 auto;}
+
+/* popup-perform-record */
+.popup-perform-record .performance-chk{margin-top:0;}
+.popup-perform-record h4{font-size:26px;font-weight:500;letter-spacing:-0.96px;color:#222;}
+
+
+/* dealerSell02_01 */
+/* car-inquire-sec */
+.car-inquire-sec{width:100%;padding:158px 204px 0 204px;}
+.car-inquire-sec > p{font-size:16px;color:#222;margin-bottom:16px;}
+.car-inquire-wrap{width:100%;background-color:#f6f7f8;padding:48px 32px;}
+.car-inquire-wrap > label{font-size:21px;margin-right:21px;}
+.car-inquire-wrap > p{font-size:16px;color:#ff0000;margin:14px 0 0 96px;}
+
+/* dealerSell02_02 */
+/* ask-tx */
+.mypage-state-sec .ask-tx{font-size:18px;line-height:2.11;text-align:center;color:#222;padding:80px 0;}
+
+/* dealerSell02_03 */
+.mypage-state-sec .option-add{margin-top:80px;}
+
+/* dealerSell02_04 */
+.price-introduce h4{float:left;width:141px;font-size:17px;font-weight:normal;}
+.price-introduce h4:after{content:'';display:block;clear:both;}
+
+.price-introduce .dealer-register-step{margin-bottom:54px;}
+
+.register-number{width:100%;margin-bottom:48px;padding-top:28px;border-top:1px solid #d7d7d7;}
+.register-number h4{float:left;width:141px;height:40px;font-size:17px;font-weight:normal;line-height:40px;}
+
+.price-introduce .register-form caption{font-size:17px;font-weight:normal;margin-bottom:17px;}
+.price-introduce fieldset{padding-top:64px;}
+.price-introduce fieldset:nth-child(-n+3){padding-top:0;}
+.price-introduce fieldset.accident-record{padding-top:0;}
+
+.register-form.tp2 .register-exposure {overflow:hidden;height:auto;}
+
+/* dealerSell02_05 */
+.history-form fieldset{margin-top:64px;}
+.history-form fieldset.car-expert{margin-top:0;}
+.history-form fieldset table .items-sbox{vertical-align:middle;}
+
+
+/* dealerSell02_07 */
+.payment-sec h3.sub-tit{font-size:20px;font-weight:normal;margin:40px 0 16px 0;padding:0;}
+.payment-sec .admin-list{margin-bottom:62px;}
+
+.payment-sec .pick-list{width:100%;border-bottom:1px solid #222;padding-bottom:16px;margin-bottom:16px;}
+.payment-sec .pick-list:after{content:'';display:block;clear:both;}
+.payment-sec .pick-list ul{width:40%;font-size:15px;margin-left:60%;}
+.payment-sec .pick-list ul li{float:left;width:33.33%;height:30px;line-height:30px;text-align:right;color:#3f3f3f;}
+.payment-sec .pick-list ul li:first-child{font-weight:500;text-align:left;color:#222;}
+
+.payment-sec .sum{width:100%;text-align:right;}
+.payment-sec .sum p{display:inline-block;font-size:16px;color:#222;}
+.payment-sec .sum p.price{font-size:22px;margin-left:24px;}
+.payment-sec .sum p.price span{font-size:15px;color:#727272;}
+
+/* dealerSell02_08 */
+.payment-sec.method h3.sub-tit{padding:0 102px;}
+.payment-sec.method .point-area{width:690px;margin:0 auto;padding:24px;border:1px solid #d7d7d7;}
+.payment-sec.method .point-area .pay-detail{border-bottom:1px solid #d7d7d7;overflow:hidden;margin-bottom:41px;}
+.payment-sec.method .point-area h4{width:100%;font-size:14px;font-weight:500;color:#373737;background:#f6f7f8;padding:10px 16px;}
+.payment-sec.method .point-area .pick-list{position:relative;padding:16px 240px 24px 16px;border:0;margin:0;}
+.payment-sec.method .point-area .pick-list ul{width:100%;margin-left:0;}
+.payment-sec.method .point-area .sum{position:absolute;width:fit-content;right:16px;top:50%;transform:translateY(-50%);}
+.payment-sec.method .point-area .sum p{display:block;margin:0 0 8px 0;}
+.payment-sec.method .point-area .sum p.price{margin:0;}
+.payment-sec.method [class$="-wrap"]{padding:0 16px;}
+.payment-sec.method [class$="-wrap"] > div{width:100%;height:20px;}
+.payment-sec.method [class$="-wrap"] > div .chk-box{float:left;}
+.payment-sec.method [class$="-wrap"] > div .chk-box input + label{font-weight:500;color:#3f3f3f;}
+.payment-sec.method [class$="-wrap"] > div p{float:left;height:20px;line-height:20px;font-size:14px;color:#8d8d8d;margin-left:16px;}
+.payment-sec.method [class$="-wrap"] > div p span{font-size:17px;color:#222;padding:0 2px;}
+.payment-sec.method .terms-wrap{padding:9px 25px 9px 10px;min-height:150px}
+.payment-sec.method .point-wrap{margin-bottom:50px;}
+.payment-sec.method .point-wrap .point{margin-bottom:13px;}
+.payment-sec.method .point-wrap .input-base{margin-right:17px;}
+.payment-sec.method .coupon-wrap .coupon{margin-bottom:18px;}
+.payment-sec.method .coupon-wrap .radio-group{height:auto;margin-bottom:16px;}
+.payment-sec.method .coupon-wrap .radio-group .vertical li{margin-bottom:8px;}
+.payment-sec.method .coupon-wrap p.ex{width:100%;font-size:12px;font-weight:500;line-height:1.5;letter-spacing:normal;color:#a2a2a2;word-break:keep-all;background:#f6f7f8;padding:16px;margin-bottom:8px;}
+.payment-sec.method .last-sum{width:690px;margin:0 auto;border:1px solid #d7d7d7;border-top:0;margin-bottom:25px;padding:29px;}
+.payment-sec.method .last-sum ul{width:fit-content;height:22px;line-height:22px;margin:0 auto;}
+.payment-sec.method .last-sum ul li{position:relative;float:left;margin-right:47px;}
+.payment-sec.method .last-sum ul li:last-child{margin:0;}
+.payment-sec.method .last-sum ul li:first-child:after{position:absolute;right:-31px;top:50%;transform:translateY(-50%);content:'';display:block;width:12px;height:2px;background:#222;}
+.payment-sec.method .last-sum ul li:last-child:after{position:absolute;left:-27px;top:57%;transform:translateY(-50%);content:'';display:block;width:12px;height:2px;background:#222;}
+.payment-sec.method .last-sum ul li:last-child:before{position:absolute;left:-27px;top:34%;transform:translateY(-50%);content:'';display:block;width:12px;height:2px;background:#222;}
+.payment-sec.method .last-sum ul li span{font-size:17px;color:#222;margin-left:8px;}
+.payment-sec.method .last-sum ul li span em{font-size:15px;color:#9e9e9e;}
+.payment-sec.method .last-sum ul li:last-child{font-size:17px;}
+.payment-sec.method .last-sum ul li:last-child span{font-size:22px;font-weight:500;color:#3f64c3;}
+.payment-sec.method .method-wrap{width:690px;margin:0 auto;border:1px solid #d7d7d7;padding:24px;}
+.payment-sec.method .method-wrap p{font-weight:500;color:#3f3f3f;margin-bottom:22px;}
+.payment-sec.method .method-wrap .radio-group{width:100%;}
+.payment-sec.method .method-wrap .radio-group .radio-basic{width:20%;}
+.payment-sec.method .method-wrap.col2 .radio-group .radio-basic{width:auto;padding-right:55px;}
+.payment-sec.method .method-wrap .ex{width:100%;margin-top:16px;padding:16px;margin-bottom:8px;background:#f6f7f8;font-size:12px;font-weight: 500;line-height:1.5;letter-spacing:normal;color:#a2a2a2;word-break:keep-all;} 
+.payment-sec.method .register-agree {width:690px;margin:40px auto 0 auto;}
+
+
+.usage-wrap{width:100%;}
+.usage-wrap .tx-list{width:100%;}
+.usage-wrap .tx-list li{border-bottom:1px solid #d7d7d7;padding:30px 0;margin-bottom:0;}
+.usage-wrap .tx-list li:first-child{padding-top:22px;}
+.usage-wrap .tx-list li:last-child{margin-bottom:48px;}
+.usage-wrap .tx-list .radio-basic{width:100%;}
+.usage-wrap .tx-list input + label{font-size:17px;font-weight:500;color:#222;}
+.usage-wrap .tx-list h5{font-size:17px;font-weight:500;color:#222;margin-bottom:12px;}
+.usage-wrap .tx-list h5 .btn-base{position:relative;bottom:2px;}
+.usage-wrap .tx-list h5 + p{padding-left:0;width:65%;}
+.usage-wrap .tx-list p{display:inline-block;font-size:17px;line-height:1.28;color:#828282;padding-left:16px;}
+.usage-wrap .tx-list p span{display:block;font-size:14px;line-height:1.4;margin-top:8px;}
+.usage-wrap .tx-list .period{display:inline-block;width:25%;font-size:15px;text-align:center;color:#222;vertical-align:top;margin-top:2px;}
+.usage-wrap .tx-list .price{float:right;font-size:17px;color:#486fca;margin-top:2px;}
+.usage-wrap .tx-list .price em{font-size:15px;}
+.usage-wrap .tx-list .table-tp1 tbody tr td{text-align:right;}
+.usage-wrap .tx-list .table-tp1 thead tr th span.sub-tit{display:block;font-size:11px;color:#aaa;margin-top:5px;}
+.usage-wrap .tx-list .tx-btn{position:relative;top:9px;display:block;color:#3f64c3;margin:16px auto 0;}
+.usage-wrap .tx-list .tx-btn:after{content:'';display:inline-block;width:6px;height:12px;vertical-align:bottom;background:url(/images/ico/ico-next-blue.png) no-repeat;transform:rotate(90deg);margin-left:8px;}
+.usage-wrap .tx-list .tx-btn.active:after{transform:rotate(270deg);}
+
+.mypage-state-sec .co-wrap .tit{font-size:26px;font-weight:normal;}
+.mypage-state-sec .co-wrap .exp{font-size:18px;line-height:1.56;margin-top:16px;}
+
+/* dealerSell03 */
+.my-ex-admin .tx-list td:nth-child(2){text-align:left;padding-left:12px;}
+.my-ex-admin .step-btn{position:relative;}
+.my-ex-admin .pagination.tp2{position:absolute;top:50%;left:50%;transform:translate(-50%, -50%);}
+/* popup-my-ex */
+.popup-my-ex p{font-size:19px;color:#222;margin-bottom:16px;}
+
+/* dealerSell04 */
+.dealer-service-sec .search tr:last-child td{height:auto;}
+.dealer-service-sec .search tr:last-child td .tx-exp-tp6{text-decoration:underline;}
+.dealer-service-sec .inquire-num ~ .table-tp1{margin-top:17px;}
+.dealer-service-sec .inquire-num ~ .table-tp1:first-child{margin-top:0;}
+.dealer-service-sec .inquire-num ~ .table-tp1 .img-cover{width:auto;padding:15px;}
+.dealer-service-sec .inquire-num ~ .table-tp1 .img-cover-wrap .img-cover{padding:0;width:251px;height:203px;}
+.dealer-service-sec .inquire-num ~ .table-tp1 tr:nth-child(-n+2) th,
+.dealer-service-sec .inquire-num ~ .table-tp1 tr:nth-child(-n+2) td:last-child{font-weight:500;}
+.dealer-service-sec .inquire-num ~ .table-tp1 tr:first-child td:last-child .btn-base a{text-decoration:underline;}
+.dealer-service-sec .essential-point{margin-top:64px;}
+.dealer-service-sec .list-none{color:#222;padding:71px 0;}
+.dealer-service-sec .list-none i{display:block;margin:0 auto 23px;}
+.tooltip-area table.total-pay tr:nth-child(6){border-bottom:10px solid #e7e7e7;}
+.tooltip-area table.total-pay tr:nth-child(6) th{font-weight:500;}
+.tooltip-area table.total-pay tr:nth-child(6) td{color:#ff0000;}
+
+/* dealerSell05 */
+.dealer-assure-sec .search{margin-bottom:48px;}
+.dealer-assure-sec .search .wrap{width:48.3%;}
+
+/* dealerSell06 */
+.dealer-live-sec .top-banner{height:241px;padding:22px;background-image:url(/images/contents/mypage-live-picto.png);background-repeat:no-repeat;background-position:top center;}
+.dealer-live-sec .top-banner p{font-size:26px;margin:0;}
+.dealer-live-sec .top-banner .btn-wrap{float:right;width:155px;}
+.dealer-live-sec .search{margin:64px 0 24px;}
+.dealer-live-sec .search tbody tr > td span.title{width:120px;padding-left:6.5%;}
+.dealer-live-sec .pagination{margin-top:32px;}
+.dealer-live-sec .essential-point{margin-top:64px;}
+.dealer-live-sec .essential-point .btn-base{position:absolute;bottom:1px;}
+
+.dealer-live-sec.info .top-banner{background-position-x:94%;margin-bottom:64px;}
+.dealer-live-sec.info .info-wrap .sub-tit{font-size:18px;letter-spacing:-0.8px;margin:32px 0 16px;}
+.dealer-live-sec.info .info-wrap .sub-tit + .table-tp1 tr td{padding:21px 35px;}
+.dealer-live-sec.info .info-wrap .img-wrap{width:100%;height:365px;background-color:#f6f7f8;;}
+.dealer-live-sec.info .info-wrap h4{font-size:20px;font-weight:500;margin:65px 0 8px;}
+.dealer-live-sec.info .info-wrap ul{margin:48px 0 84px;}
+.dealer-live-sec.info .info-wrap ul:after{content:'';display:block;clear:both;}
+.dealer-live-sec.info .info-wrap ul li{float:left;margin-left:80px;text-align:center;}
+.dealer-live-sec.info .info-wrap ul li:first-child{margin-left:0;}
+.dealer-live-sec.info .info-wrap ul li .ico{display:block;width:160px;height:160px;border-radius:100%;background-color:#f6f7f8;}
+.dealer-live-sec.info .info-wrap ul li .tit{display:block;color:#222;line-height:1.33;margin-top:24px;}
+.dealer-live-sec.info .info-wrap ul li .tit em{display:block;font-size:16px;font-weight:500;margin-bottom:8px;}
+.dealer-live-sec.info .essential-point li:after{content:'';display:block;clear:both;}
+.dealer-live-sec.info .essential-point b{float:left;display:block;width:10%;}
+.dealer-live-sec.info .essential-point em{float:left;display:block;width:90%;}
+.popup-refund .essential-point{color:#222;border:none;padding:0;}
+.popup-refund .table-tp1 caption{font-size:20px;line-height:normal;margin:49px 0 9px;}
+.popup-refund .table-tp1 tbody tr td:nth-last-child(2){text-align:left;padding:8px 12px;}
+.popup-reserve .reserve-step{background-color:#3f64c3;padding:48px 0 51px;}
+.popup-reserve .reserve-wrap{width:100%;padding:48px 50px;}
+.popup-reserve .reserve-wrap .table-tp1.search.pd{padding:3% 12%;}
+.popup-reserve .reserve-wrap .table-tp1.search .radio-group .radio-basic{margin-right:35px;}
+.popup-reserve .reserve-wrap .table-tp1.search td.tx-blue80 .chk-box input + label{color:#3f64c3;}
+.popup-reserve .reserve-wrap .table-tp1.search td.tx-blue80 .chk-box.chk-basic input + label::before{border-color:#3f64c3;}
+.popup-reserve .reserve-wrap .table-tp1 caption{font-size:20px;margin:48px 0 16px;}
+.popup-reserve .reserve-wrap .essential-point{border:none;padding:0;margin-top:24px;}
+.popup-reserve .reserve-wrap .step-btn + .essential-point{margin-top:56px;}
+.popup-reserve .reserve-wrap .agree-terms-wrap{border:1px solid #e7e7e7;margin-top:64px;}
+.popup-reserve .reserve-wrap .agree-terms-wrap .chk-box{padding:14px 24px;}
+.popup-reserve .reserve-wrap .agree-terms-wrap .terms-wrap{height:304px;border:none;border-top:1px solid #e7e7e7;padding:14px 24px;margin-top:0;}
+.popup-reserve .payment-sec.method .sub-tit{padding:0;margin-top:0;}
+.popup-reserve .payment-sec.method .point-area .pick-list{padding-bottom:16px;}
+.popup-reserve .co-wrap{padding:48px 50px;}
+.popup-reserve .co-wrap .tit{font-size:24px;}
+.popup-reserve .co-wrap .exp{font-size:17px;margin-top:36px;}
+
+/* dealerSell07 */
+.inventory-sec .tx-list{margin-top:48px;}
+/* popup-inventory */
+.popup-inventory{padding:48px 40px;}
+.popup-inventory table{margin:17px 0;}
+
+/* dealerSell01_lp_2 */
+.ad-content-admin{width:100%;border:1px solid #e7e7e7;}
+.ad-content-admin:after{content:'';display:block;clear:both;}
+.ad-content-admin > li{float:left;width:25%;text-align:center;border-right:1px solid #e7e7e7;padding:58px 0 22px 0;}
+.ad-content-admin > li:nth-child(-n+4){border-bottom:1px solid #e7e7e7;}
+.ad-content-admin > li:nth-child(4n){border-right:none;}
+.ad-content-admin > li > p{position:relative;height:105px;font-size:21px;line-height:29px;margin-bottom:10px;}
+.ad-content-admin > li > p > span{position:absolute;bottom:0;left:50%;display:block;font-size:24px;transform:translateX(-50%);}
+.ad-content-chk{border:1px solid #e7e7e7;margin:82px 0 25px 0;}
+.ad-content-chk > li{border-top:1px solid #e7e7e7;padding:16px 64px;}
+.ad-content-chk > li:first-child{border-top:none;padding:0;}
+.ad-content-chk > li .chk-tit{display:inline-block;width:180px;font-size:17px;vertical-align:top;color:#3f64c3;padding-top:2px;margin-right:35px;}
+.ad-content-chk > li > ul{display:inline-block;width:653px;}
+.ad-content-chk > li .chk-premium-ad > li{float:left;width:205px;margin-top:19px;}
+.ad-content-chk > li .chk-premium-ad > li:nth-child(-n+3){margin-top:0;}
+.ad-content-chk > li .chk-combine-goods > li{float:left;width:265px;margin-top:19px;}
+.ad-content-chk > li .chk-combine-goods > li:nth-child(-n+2){margin-top:0;}
+/* dealerSell01_lp_4 */
+.popup-update .top{text-align:center;border-bottom:1px solid #e7e7e7;padding:80px 0;}
+.popup-update .top > p{font-size:26px;line-height:40px;}
+.popup-update .top > p > span{font-size:18px;}
+.popup-update .bot{padding:60px 78px 140px 78px;}
+.popup-update .bot > p{font-size:17px;font-weight:500;line-height:28px;padding:0 55px;}
+.popup-update .bot > p > span{font-weight:normal;}
+.popup-update .bot > p > .btn-base{margin-left:10px;}
+.update-consult{position:relative;width:100%;padding:23px 40px;background-color:#3470df;margin-top:60px;}
+.update-consult .ico-ad{position:absolute;top:50%;display:block;width:52px;height:52px;background-color:#fff;transform:translateY(-50%);}
+.update-consult > p{font-size:17px;font-weight:300;letter-spacing:normal;line-height:25px;color:#fff;margin-left:87px;}
+.update-consult > p > span{font-weight:500;}
+/* dealerSell01_lp_8 */
+.price-modify .align-wrap{height:100px;border:0;margin-bottom:80px;}
+.price-modify .align-wrap .radio-group{right:50px;}
+.price-modify .align-wrap .radio-basic{margin-right:40px;}
+.price-modify .align-wrap .radio-basic:last-child{margin:0;}
+/* dealerSell01_lp_12 */
+.popup-declare .admin-list.tp4{border:1px solid #e7e7e7;padding:40px 15px 40px 56px;}
+.popup-declare .admin-list.tp4 .summaryf.member-info .basic-info-wrap table.info-top{padding:36px 0;}
+.popup-declare .sell-declare{padding:60px;border:1px solid #e7e7e7;border-top:none;background-color:#f6f7f8;}
+.popup-declare .sell-declare p{width:100%;font-size:17px;margin-bottom:32px;}
+.popup-declare .sell-declare p:after{content:'';display:block;clear:both;}
+.popup-declare .sell-declare p span{float:right;}
+.popup-declare .sell-declare p span em{color:#5e5e5e;margin-right:25px;}
+.popup-declare .sell-declare .sell-price-wrap{width:100%;height:66px;line-height:66px;}
+.popup-declare .sell-declare .sell-price-wrap:after{content:'';display:block;clear:both;}
+.popup-declare .sell-declare .sell-price-wrap label{float:left;font-size:17px;}
+.popup-declare .sell-declare .sell-price-wrap > span{float:right;}
+.popup-declare .sell-declare input{font-size:26px;text-align:right;color:#222;margin:0 8px 0 54px;}
+.popup-declare .sell-declare em{font-size:17px;}
+
+
+/* dealerPoint */
+.point-current{width:100%;border-bottom:1px solid #d7d7d7;background-color:#f6f7f8;padding:46px 48px;margin-bottom:64px;}
+.point-current:after{content:'';display:block;clear:both;}
+.point-current .tit{float:left;font-size:21px;font-weight:500;line-height:58px;color:#222;}
+.point-current .exp{float:right;font-size:34px;font-weight:500;text-align:right;color:#3f64c3;}
+.point-current .exp .tx-exp-tp4{display:block;font-size:14px;font-weight:normal;margin-top:10px;}
+.point-tx-list{position:relative;}
+.point-tx-list .float-wrap li:nth-child(-n+2){margin-right:0;}
+.point-tx-list .float-wrap li.period-mark{padding:13px 10px;}
+.point-tx-list .table-tp1{margin-top:25px;}
+.coupon-current{margin-top:64px;}
+.coupon-tx-list .float-wrap{height:32px;margin-top:48px;}
+.coupon-tx-list .float-wrap p{margin-top:11px;}
+/* popup-coupon */
+.popup-wrapper .popup-normal-small .popup-con-sec .popup-coupon{padding:80px 76.5px;}
+.popup-coupon label{display:block;font-size:16px;color:#222;margin-bottom:16px;}
+.popup-coupon .bridge{display:inline-block;margin-right:8px;}
+.popup-coupon .none-coupon{height:112px;font-size:17px;line-height:108px;text-align:center;color:#222;border:2px dashed #3f64c3;margin-top:24px;}
+.popup-coupon .have-coupon{height:112px;font-size:17px;line-height:27px;text-align:left;color:#222;border:1px solid #d7d7d7;padding:29px 16px;margin-top:24px;}
+
+
+/* dealerBuy01 */
+.goods-list.auction .img-hover{height:148px;line-height:148px;text-align:center;}
+.goods-list.auction .img-hover span em{color:#fff;margin-left:7px;}
+.detail-option-set{position:absolute;top:151px;left:15px;width:862px;border:1px solid #e7e7e7;background-color:#fff;padding:50px 32px 60px 32px;margin:0 auto;z-index:3;}
+.detail-option-set ul:after{content:'';display:block;clear:both;}
+.detail-option-set ul li > p{float:left;color:#5e5e5e;padding:3px 0;}
+.detail-option-set ul li > p:before{content:'';border-left:1px solid #e7e7e7;margin-right:9px;}
+.detail-option-set ul li > .chk-box{float:right;margin-bottom:10px;}
+.detail-option-set .table-tp1{height:246px;margin-top:10px;}
+.detail-option-set .table-tp1 td{vertical-align:top;padding:24px;}
+.detail-option-set .table-tp1 td .chk-box{margin-bottom:12px;}
+.detail-option-set .table-tp1 td .chk-box:last-child{margin-bottom:0;}
+.detail-option-set .opt-gearbox{float:left;width:150px;}
+.detail-option-set .opt-area{float:right;width:605px;}
+
+.admin-tender-tab{margin-top:72px;}
+.admin-tender-sec .table-tp1.search{margin-top:24px;}
+.admin-tender-sec .float-wrap{background-color:#f6f7f8;padding:14px 24px;margin:24px 0;}
+.admin-tender-sec .float-wrap .radio-group{display:inline-block;}
+.admin-tender-sec .float-wrap .radio-group .radio-basic label > span{margin-left:0;}
+.admin-tender-sec .float-wrap span{margin-left:30px;}
+.admin-tender-sec .admin-list.tp6{position:relative;}
+.admin-tender-sec.co-sec .admin-list.tp6 tbody tr td:nth-child(n+2){line-height:1.5;color:#3f64c3;}
+.admin-tender-sec.co-sec .admin-list.tp6 tbody tr td:nth-child(n+2) > span{display:block;}
+.admin-tender-sec.co-sec .admin-list.tp6 tbody tr td:last-child{color:#222;}
+.admin-tender-sec.co-sec .admin-list.tp6 tbody tr td:last-child span{width:160px;height:32px;line-height:32px;color:#fff;margin:0 auto;margin-bottom:8px;}
+.admin-tender-sec.co-sec .admin-list.tp6 tbody tr td:last-child span.tender-co{background-color:#3e4d72;}
+.admin-tender-sec.co-sec .admin-list.tp6 tbody tr td:last-child span.tender-end{background-color:#777;}
+
+.dealer-tender-sec .car-img-info{width:100%;height:431px;margin-bottom:65px;}
+.dealer-tender-sec .car-img-info:after{content:'';display:block;clear:both;}
+.dealer-tender-sec .car-img-area{float:left;width:54.4%;height:100%;margin-right:2.6%}
+.dealer-tender-sec .car-img-area .img-wrap{float:none;width:100%;height:364px;}
+.dealer-tender-sec .car-img-area .slider-wrap{position:relative;width:100%;height:59px;padding:0 28px 0 33px;margin-top:8px;}
+.dealer-tender-sec .car-img-area .slider-wrap [class^='btn']{position:absolute;top:50%;transform:translateY(-50%);}
+.dealer-tender-sec .car-img-area .slider-wrap .btn-prev-xs{left:0;width:24px;height:100%;background-color:#f6f7f8;}
+.dealer-tender-sec .car-img-area .slider-wrap .btn-next-xs{right:0;width:24px;height:100%;background-color:#f6f7f8;}
+.dealer-tender-sec .car-img-area .slider-wrap .slick-list{width:100%;height:100%;margin-bottom:0;}
+.dealer-tender-sec .car-img-area .slider-wrap .slick-list .inner{float:left;width:18.5%;height:100%;margin-right:1.5%}
+.dealer-tender-sec .car-img-area .slider-wrap .slick-list .inner:nth-child(5n){margin-right:0;}
+.dealer-tender-sec .car-info-area{float:left;width:43%;height:100%;border:1px solid #e7e7e7;}
+.dealer-tender-sec .car-info-area .info-wrap{padding:32px 32px 0;}
+.dealer-tender-sec .car-info-area .info-wrap h3{font-size:22px;font-weight:500;line-height:1.3;padding-bottom:16px;}
+.dealer-tender-sec .car-info-area .info-wrap p span{display:inline-block;font-size:17px;font-weight:500;color:#5e5e5e;}
+.dealer-tender-sec .car-info-area .info-wrap p span:after{position:relative;top:3px;content:'';display:inline-block;width:1px;height:17px;line-height:17px;background-color:#ddd;margin:0 10px;}
+.dealer-tender-sec .car-info-area .info-wrap p span:last-child:after{display:none;}
+.dealer-tender-sec .car-info-area .time{font-size:30px;font-weight:bold;text-align:center;color:#3f64c3;border-top:1px solid #e7e7e7;border-bottom:1px solid #e7e7e7;background-color:#f6f7f8;padding:25px 0;margin-top:57px;}
+.dealer-tender-sec .car-info-area .time.over{font-size:24px;font-weight:normal;letter-spacing:normal;}
+.dealer-tender-sec .car-info-area .num{font-size:19px;text-align:center;color:#222;padding:31px 0;}
+.dealer-tender-sec .car-info-area .num.over{padding:26px 0;}
+.dealer-tender-sec .car-info-area .num.over:after{content:'';display:block;clear:both;}
+.dealer-tender-sec .car-info-area .num.over li{float:left;width:50%;}
+.dealer-tender-sec .car-info-area .num.over li:first-child{border-right:1px solid #d8d8d8;}
+.dealer-tender-sec .car-info-area .price-wrap{height:76px;border-top:1px solid #e7e7e7;padding:11px 0;}
+.dealer-tender-sec .car-info-area .price-wrap:after{content:'';display:block;clear:both;}
+.dealer-tender-sec .car-info-area .price-wrap li{float:left;width:33.33%;font-size:16px;line-height:1.69;text-align:center;color:#222;}
+.dealer-tender-sec .car-info-area .price-wrap li span{display:block;}
+.dealer-tender-sec .car-basic-info .table-tp1 .essential{display:block;text-align:left;margin:24px;}
+.dealer-tender-sec .car-basic-info > div{position:relative;}
+.dealer-tender-sec .car-basic-info > div .btn-base{position:absolute;top:64px;right:0;}
+
+.popup-tender fieldset{width:fit-content;margin:0 auto;}
+.popup-tender .form-list{width:fit-content;margin:0 auto;border:none;padding:0;}
+.popup-tender .form-list > li{margin-top:24px;font-size:17px;line-height:1.6;color:#222;}
+.popup-tender .form-list > li .tit{display:inline-block;width:130px;}
+.popup-tender .form-list > li .bridge{margin-right:8px;}
+.popup-tender .form-list > li .textarea-wrap{margin-top:16px;}
+.popup-tender .form-list > li .input-file-wrap{margin-top:16px;}
+.popup-tender .form-list > li .tx-wrap{width:384px;height:48px;text-align:center;line-height:46px;border:1px solid #e7e7e7;padding:0 24px;margin-top:16px;}
+.popup-tender .form-list > li .tx-wrap .radio-group{display:inline-block;}
+.popup-tender .form-list > li .tx-wrap .radio-group .radio-basic input + label{font-size:17px;}
+.popup-tender .form-list > li.w .textarea-wrap{width:588px;}
+.popup-tender .form-list.line > li{width:588px;border-top:1px solid #e7e7e7;padding:32px 0;margin-top:0;}
+.popup-tender .form-list.line > li:first-child{padding-top:0;}
+.popup-tender .form-list.line > li:last-child{padding-bottom:0;}
+.popup-tender .form-list.line > li .tit{width:204px;}
+.popup-tender .form-list.line > li .tit.v-top{vertical-align:top;}
+/* .popup-tender .form-list.line > li .tit.v-top.mt8 +  */
+.popup-tender .form-list.line > li .form-list{width:auto;}
+.popup-tender .form-list.line > li .form-list .input-file-wrap{display:inline-block;width:calc(100% - 204px);margin-top:0;}
+.popup-tender .radio-list{display:inline-block;}
+.popup-tender .radio-list li{margin-top:16px;}
+.popup-tender .radio-list li .radio-basic.simple input + label{width:max-content;padding-left:28px;}
+.popup-tender .radio-list + .textarea-wrap{margin-top:24px;}
+.popup-tender [class*='-list'] li:first-child{border-top:none;margin-top:0;}
+.popup-tender .textarea-wrap{display:block;width:384px;margin:0 auto;}
+.popup-tender .sub{display:block;letter-spacing:-0.64px;color:#5e5e5e;margin-top:16px;}
+
+.popup-tender.pay .tender-wrap em{font-size:17px;margin-left:16px;}
+.popup-tender.pay .tender-wrap .chk-box{display:block;margin-top:12px;}
+.popup-tender.pay .tender-wrap p{font-size:17px;line-height:1.6;letter-spacing:normal;margin-top:24px;}
+
+/* dealerMember01 */
+.member-info .basic-info-wrap{position:relative;margin-top:24px;}
+.member-info .basic-info-wrap h4{position:absolute;top:-59px;font-size:24px;}
+.member-info .basic-info-wrap .img-wrap{float:left;width:205px;height:205px;overflow:hidden;margin-right:25px;}
+.member-info .basic-info-wrap .img-wrap img{width:100%;}
+.member-info .basic-info-wrap table.info-top{float:left;width:calc(100% - 230px);height:205px;margin-bottom:34px;}
+.member-info .basic-info-wrap table.info-bottom{margin-bottom:65px;}
+.member-info .basic-info-wrap.v-2 table.info-top{margin-bottom:25px;}
+.member-info .basic-info-wrap.v-2 .img-wrap{height:277px;}
+.member-info .basic-info-wrap.v-2 .img-wrap img{height:100%;}
+.popup-member-info p{text-align:left;color:#5e5e5e;margin-top:16px;}
+.popup-member-info textarea{height:272px;}
+
+
+/* dealerMember01_01 */
+.member-info-pw{position:relative;}
+.member-info-pw .member-pw-wrap{position:relative;margin:0 auto;width:425px;height:240px;color:#222;border:1px solid #e7e7e7;padding:84.5px 0;}
+.member-info-pw .member-pw-wrap .member-pw{width:225px;font-size:16px;margin:0 auto;}
+.member-info-pw .member-pw-wrap .member-pw p{float:left;width:150px;margin-bottom:13px;}
+.member-info-pw .member-pw-wrap .member-pw p:first-child{width:75px;}
+.member-info-pw .member-pw-wrap .member-pw p.tx-exp-tp4{margin-top:10px;width:auto;color:#ff0000;font-size:12px}
+.member-info-pw .member-pw-wrap .member-pw label{margin-right:16px;}
+
+/* dealerMember01_02 */
+.member-info-modify .mypage-admin-title{margin-bottom:80px;}
+.member-info-modify td p.tx-exp-tp5{line-height:1;margin-top:10px;}
+.member-info-modify .worker-num td .input-base{margin-right:8px;}
+.member-info-modify .table-tp1 .radio-group{margin:11px 0;}
+.member-info-modify .table-tp1 textarea{height:160px;}
+
+/* dealerMember01_04 */
+.pw-change .member-pw-wrap{height:287px;margin-bottom:48px;padding:46.5px 0;}
+.pw-change .member-pw-wrap .member-pw{width:270px;}
+.pw-change .member-pw-wrap .input-base{margin-bottom:24px;}
+.pw-change .member-pw-wrap .input-base:last-child{margin:0;}
+.pw-change .essential-point{margin:0 auto;width:73%;color:#3f64c3;padding:22px;}
+.pw-change .essential-point .ico-dot{background-color:#3f64c3;margin-right:5px;}
+
+/* dealerMember01_05 */
+.withdrawal .mypage-admin-title{margin-bottom:48px;}
+.withdrawal-ex{width:100%;line-height:1.8;font-size:17px;border:1px solid #e7e7e7;color:#222;background:#f6f7f8;padding:40px 25px;margin-bottom:64px;}
+.withdrawal-ex p > b{font-weight:500;}
+
+/* dealerMember01_06 */
+.withdrawal-reason{width:100%;border:1px solid #e7e7e7;background:#f6f7f8;padding:30px 45px;}
+.withdrawal-reason:after{content:'';display:block;clear:both;}
+.withdrawal-reason > p{float:left;width:30%;line-height:1.5;font-size:16px;}
+.withdrawal-reason ul{float:left;width:70%;}
+.withdrawal-reason ul li{float:left;width:50%;margin-bottom:28px;}
+/* popup-use-service */
+.popup-use-service p.service-tit{font-size:18px;font-weight:500;color:#262626;margin-bottom:35px;}
+.popup-use-service p.name{font-size:20px;font-weight:500;color:#222;margin-top:24px;}
+.popup-use-service p.name:first-child{margin-top:35px;}
+.popup-use-service .cont{line-height:1.6;font-size:16px;color:#222;border:1px solid #d7d7d7;background:#f6f7f8;padding:22px 26px;margin-top:8px;}
+.popup-use-service .cont p{text-indent:-12px;padding-left:12px;}
+.popup-use-service .cont p i{margin-right:8px;}
+.popup-use-service .cont .btn-base{text-indent:0;}
+.popup-use-service p.ex{font-size:14px;color:#222;margin-top:22px;}
+.popup-use-service p.ex .btn-base{margin:7px 0 9px 0;}
+.popup-use-service p.next{font-size:17px;text-align:center;color:#222;margin-top:61px;}
+
+/* dealerMember02 */
+.member-review .mypage-admin-title{margin-bottom:65px;}
+.img-upload.v-2 ul li .img-item, .img-upload.v-2 .img-hover, .img-upload.v-2 .img-dim{height:95px;line-height:95px;}
+
+/* dealerMember02_01 */
+.member-review textarea{height:200px;}
+
+/* dealerMember03 */
+.popup-wrapper .popup-normal-medium .popup-con-sec .popup-dealer-info{padding:80px 100.5px;}
+.popup-dealer-info .mypage-admin-title{margin-bottom:64px;}
+.popup-dealer-info ul:after{content:'';display:block;clear:both;}
+.popup-dealer-info ul li{margin-bottom:16px;}
+.popup-dealer-info ul li.tit{font-size:17px;color:#222;float:left;width:204px;line-height:48px;}
+.office-hours{padding-left:205px;}
+.office-hours .hours-box{display:block;}
+.office-hours .mg8{display:inline-block;margin:0 8px;}
+.office-hours .tit{display:inline-block;width:60px;font-size:17px;color:#222;}
+
+
+/* dealerMember03_01 */
+.dealer-info caption{font-size:18px;color:#222;font-weight:normal;margin-bottom:16px;}
+.dealer-info table td.info li{display:inline-block;font-size:13px;color:#777;}
+.dealer-info table td.info li:after{content:'|';color:#ddd;padding:0 5px;box-sizing:border-box;}
+.dealer-info table td.info li:last-child:after{content:'';}
+.dealer-info.v-2 table td.info li{position:relative;display:inline-block;font-size:13px;color:#3f64c3;}
+.dealer-info.v-2 table td.info li:before{content:'';position:absolute;width:100%;height:1px;background:#3564c3;bottom:1px;}
+.dealer-info.v-2 table td.info li:last-child:before{width:88%;}
+
+/* dealerMember05 */
+.live-shot-sec .tx-list .inquire-num{width:100%;text-align:right;margin-bottom:16px;}
+/* popup-visit */
+.popup-visit .map-wrap{width:100%;height:324px;background:#e1e1e1;margin-top:22px;}
+
+/* dealerAuction01 */
+.auction-membership-intro{position:relative;padding:28px 48px 32px;margin-bottom:24px;border-bottom:1px solid #d7d7d7;background-color:#f6f7f8;}
+.auction-membership-intro h4{font-weight:500;font-size:21px;margin-bottom:17px;}
+.auction-membership-intro p{font-size:18px;margin-bottom:33px;}
+.auction-membership-intro span.btn-auto-auction{position:absolute;top:64px;right:48px;}
+.auction-membership-list{margin-bottom:32px;padding-left:48px;}
+.auction-membership-list:last-child{margin-bottom:0px;}
+.auction-membership-list .h5-tit{margin-bottom:17px;}
+.auction-membership-list ul{padding-left:10px;font-size:17px;color:#777;}
+.auction-membership-list ul li{margin-top:10px;line-height:150%;}
+.auction-membership-list ul li strong{font-weight:normal;font-size:15px;}
+.auction-membership-list table{margin:10px 0px 0px 10px}
+
+/* dealerAuction Steps */
+.auction-membership-steps{padding:50px 0px;margin:72px 0px 40px}
+
+/* dealerAuction02 */
+.auction-membership-agree .terms-agree-all{padding:25px 46px 32px}
+.auction-membership-agree .terms-agree-all span.chk-box{margin-right:38px}
+.auction-membership-agree .terms-agree-wrap{margin-top:0;}
+
+
+/* dealerAuction03 */
+.auction-membership-certified{position:relative;padding-top:220px;margin-top:56px;text-align:center;}
+.auction-membership-certified .ico-amc{position: absolute;top:0px;left:347px;width:200px;padding:30px 0px;border-radius:100px;background-color:#f6f7f8;}
+.auction-membership-certified p{margin-top:8px;}
+
+/* dealerAuction05 & dealerAuction11 */
+.auction-membership-complete{width:640px;margin:78px auto 0px;text-align:center;}
+.auction-membership-complete h2{font-weight:500;border-bottom:1px solid #d7d7d7;padding-bottom:92px;font-size:34px;line-height:44px;}
+.auction-membership-complete h4{padding:45px 0px 22px;line-height:140%;}
+.auction-membership-complete table{width:auto;margin:0px auto 16px;}
+.auction-membership-complete .tx-exp-tp2{color:#222;}
+
+/* dealerAuction Condition & Progress */
+.auction-membership-condition{margin-top:72px}
+.auction-membership-progress{padding-bottom:160px;border-bottom:1px solid #e7e7e7e7;}
+.auction-membership-progress > [class^="step-"]{width:33%;}
+
+/* dealerAuction06 */
+.auction-membership-send-back{padding:32px 40px;border:1px solid #ff0000;margin-top:24px;text-align:center;color:#ff0000;}
+.auction-membership-send-back h4{margin-bottom:14px;font-size:22px;color:#ff0000;font-weight:500;}
+.auction-membership-send-back p{font-size:17px;font-weight:500;}
+.auction-document-form p{float:left;}
+.auction-document-form .btn-set{float:right;}
+.auction-document-form .btn-set span.btn-base{margin-left:8px;}
+
+/* dealerAuction07 */
+.auction-membership-sec .tx-exp-tp2{line-height:1.6;margin:12px 0;}
+
+/* dealerAuction08 */
+.auction-membership-approval{margin:64px 0px;text-align:center}
+.auction-membership-approval h2{font-size:34px;font-weight:500;margin-bottom:23px;}
+.auction-membership-approval h2 strong{font-weight:500;color:#3f64c3}
+.auction-membership-approval p{font-size:34px;font-weight:500;}
+.auction-payment-guidance{font-size:17px;font-weight:500;padding:40px;border:solid 1px #979797;}
+.auction-payment-guidance h4{font-size:17px;font-weight:500;}
+.auction-payment-guidance ul{margin:0 0 40px 8px;}
+.auction-payment-guidance ul:last-child{margin-bottom:0px;}
+.auction-payment-guidance ul li{text-indent:-10px;color:#979797;margin-top:14px;padding-left:10px;line-height:1.53;}
+.auction-payment-guidance ul li strong{color:#141313;font-weight:500;}
+
+/* dealerAuction10 */
+h2.auction-expiry-date{font-weight:500;border:1px solid #222;padding:28px 28px 27px;margin-top:72px;font-size:22px;text-align:center;}
+
+/* dealerAuction12 */
+.auction-info-sec .admin-list.tp7 .table-tp1 tr{position:relative;}
+.auction-info-sec .admin-list.tp7 .table-tp1.dashed tr:nth-child(2n):after{position:absolute;right:0;content:'';display:block;width:calc(100% - 12.9%);height:1px;border-top:1px dashed #d7d7d7;background:#fff;}
+.auction-info-sec .admin-list.tp7 .table-tp1 tr td{height:auto;padding:16px;}
+.auction-info-sec .admin-list.tp7 .table-tp1 tr td span.tx-gray{display:block;margin-top:8px;}
+
+/* dealerSell01 : dealer-advertise-sec */
+.dealer-advertise-sec{width:100%;padding-top:64px;}
+.dealer-advertise-sec .table-tp1.search{margin-top:24px;}
+.dealer-advertise-sec .essential-point{position:relative;margin-top:65px;}
+.dealer-advertise-sec .essential-point .btn-base {position:absolute;right:32px;bottom:35px;}
+.dealer-advertise-sec .payment-sec .usage-wrap .table-tp1 tbody th{background-color:#fff;padding:0;}
+/* tab2 */
+.dealer-advertise-sec .payment-sec.radio .usage-wrap:first-child{margin-top:40px;}
+.dealer-advertise-sec .payment-sec.radio .usage-wrap .table-tp1 tr td{padding:0;}
+.dealer-advertise-sec .payment-sec.method .last-sum{margin-bottom:40px;}
+.usage-wrap .tx-list .radio-basic.txt input + label{font-size:14px;font-weight:normal;color:#5e5e5e;}
+.usage-wrap .tx-list .radio-basic.txt.disabled input + label{cursor:default;color:#999;background:#fdfdfd;}
+.usage-wrap .tx-list .radio-basic.txt.on input + label{color:#fff;}
+/* tab3 */
+.payment-tx-list td:nth-child(3){text-align:left;padding-left:12px;}
+.payment-tx-list td:nth-child(4){text-align:right;padding-right:12px;}
+.payment-tx-list td:nth-child(3) > span{text-decoration:underline;cursor:pointer;}
+.payment-tx-list td:nth-child(6) > span{text-decoration:underline;cursor:pointer;}
+/* popup-payment */
+.popup-con-sec .con-wrap.popup-payment h4{font-size:21px;font-weight:normal;margin-bottom:16px;}
+.popup-payment p{line-height:22px;margin:49px 0 16px 0}
+.popup-payment p b{font-weight:500;}
+.popup-payment .table-tp1 tr td > a{color:#3f64c3;text-decoration:underline;}
+.receipt-apply{text-align:center;border:1px solid #e7e7e7;padding:30px;}
+.receipt-apply span:first-child{margin-right:22px;}
+/* tab4 */
+.deposit-tx-list td:nth-child(2){text-align:right;padding-right:12px;}
+/* tab5 */
+.dealer-adeffect-sec{padding-top:32px;}
+.dealer-adeffect-sec h3.sub-tit{font-size:20px;font-weight:normal;padding:16px 0 24px;}
+.dealer-adeffect-sec .admin-list .content-bottom{height:102px;border-bottom:none;padding:0;margin-bottom:0;}
+.dealer-adeffect-sec .table-tp1{border:none;margin-top:25px;}
+.dealer-adeffect-sec .table-tp1 thead tr{border-top:1px solid #979797;border-bottom:1px solid #979797;}
+.dealer-adeffect-sec .table-tp1 tbody tr th{text-align:left;padding:0;}
+.dealer-adeffect-sec .table-tp1 tr th{height:52px;letter-spacing:normal;border-right:none;background-color:#fff;}
+.dealer-adeffect-sec .table-tp1 tr td{height:52px;border-right:none;}
+.dealer-adeffect-sec .table-tp1 tr td [class^='ico-triangle']{margin-right:4px;}
+.dealer-adeffect-sec .table-tp1 tr td .ico-triangle-top + span{color:#ff0201;}
+.dealer-adeffect-sec .table-tp1 tr td .ico-triangle-bottom + span{color:#0700ff;}
+
+.popup-adeffect .table-tp1{width:100%;max-height:457px;border:none;}
+.popup-adeffect .table-tp1 tr:first-child{border-top:1px solid #e7e7e7;}
+.popup-adeffect .table-tp1 tr td{border-right:none;padding:16px;}
+.popup-adeffect .table-tp1 tr td:last-child{text-align:right;}
+.popup-adeffect .subject{font-size:20px;font-weight:normal;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;word-wrap:normal;}
+.popup-adeffect .info{height:13px;font-size:13px;color:#777;margin-top:10px;}
+.popup-adeffect .info li{float:left;line-height:1;border-left:1px solid #ddd;padding:0 5px;}
+.popup-adeffect .info li:first-child{border-left:none;padding-left:0;}
+.popup-adeffect .price{font-size:17px;color:#222;}
+
+/* dealerSell popup self clearing */
+.popup-wrapper .popup-normal-small .popup-con-sec .con-wrap.popup-self-clearing{padding:80px 75px;}
+.popup-self-clearing .self-clearing {padding:32px 16px;border:1px solid #d7d7d7;}
+.popup-self-clearing .self-clearing li {font-size:17px;line-height:19px;}
+.popup-self-clearing .self-clearing li strong,
+.popup-self-clearing .self-clearing li span{font-size:17px;line-height:29px;font-weight:normal;color:#222;}
+.popup-self-clearing .self-clearing li strong {display:inline-block;width:111px;}
+.popup-self-clearing .self-clearing li span del {position: relative;}
+.popup-self-clearing .self-clearing li span del:after {content:'';display:inline-block;width:25px;height:12px;margin:0 7px;background:url(/images/common/arrow-gray.png) 0 0 no-repeat;background-size:100%;}
+.txt-ex {margin-top:16px;line-height:30px;font-size:17px;color:#222;text-align:center;}
+
+/* dealerSell01  tx-list add-radio */
+.usage-wrap .tx-list.add-radio {margin-bottom:48px;}
+.usage-wrap .tx-list.add-radio li{border-bottom:0;}
+.usage-wrap .tx-list.add-radio li:last-child {margin-bottom:0;} 
+.usage-wrap .tx-list.add-radio .radio-group li {padding:12px 0;}
+.usage-wrap .tx-list.add-radio .radio-group p {display:block;padding-top:5px;padding-left:30px;font-size:13px;color:#777;}
+.usage-wrap .tx-list.add-radio input + label {font-size:14px;font-weight:normal;}
+
+.payment-sec.tp2 h3 {margin-top:65px;padding-bottom:8px;font-size:17px;font-weight:normal;color:#303030;}
+.payment-sec.tp2 h3 + p {font-size:14px;color:#303030;}
+.payment-sec.tp2 table {margin-top:25px;}
+
+/* update  */
+.popup-wrapper [class*='popup-normal'] .popup-con-sec .con-wrap.popup-update {padding:80px 50px;}
+.update-wrap {overflow:hidden;position: relative;}
+.update-wrap .update-left, .update-wrap .update-right {width:500px;border:1px solid #e7e7e7;}
+.update-wrap .update-left {float:left;}
+.update-wrap .update-right {float:right;}
+.update-wrap .check-all {overflow:hidden;height:48px;padding:0 24px;background-color:#e7e7e7;border-bottom:1px solid #e7e7e7;}
+.update-wrap .check-all li {padding:12px 0;}
+.update-wrap .check-all .chk-box + p {width:420px;text-align:center;}
+.update-wrap .check-list {padding:12px 8px 12px 24px;}
+.update-wrap ul {overflow-x:hidden;overflow-y:auto;height:345px;}
+.update-wrap ul li {overflow:hidden;padding:16px 0;}
+.update-wrap .chk-box {float:left;}
+.update-wrap .chk-box + p {float:left;width:410px;word-break:keep-all;}
+.update-wrap .chk-box + p {display:block;font-size:17px; line-height:24px;color:#222;} 
+.update-wrap .chk-box + p span {display:block;font-size:13px;} 
+
+/* btn-move-wrap */
+.btn-move-wrap {position:absolute;top:50%;left:50%; width:40px;transform:translate(-50%, -50%);}
+.btn-move-wrap .btn-base {display:block;}
+.btn-move-wrap.step-btn span.btn-base {margin-left:0;margin-bottom:24px;}
+.btn-move-wrap.step-btn span.btn-base:last-child {margin-bottom:0;}
+.btn-move-wrap .btn-base {background:url(/images/common/arrow-gray-off.png) center no-repeat;background-size:25px 12px;}
+.btn-move-wrap .btn-base.btn-arr-left {transform:rotate(-180deg);}
+.btn-move-wrap .btn-base.on {background-image:url(/images/common/arrow-gray.png);}
+.btn-move-wrap .btn-base a {font-size:0;text-indent:0;}
+
+/* popup-refund  */
+.popup-refund .refund-step {background-color:#3f64c3;padding:48px 0 51px;}
+.popup-refund .refund-wrap {padding:42px;}
+.popup-refund .refund-wrap .refund-inner {overflow-x:auto;height:300px;}
+.popup-refund .refund-wrap .record-list li {padding-top:40px;}
+.popup-refund .refund-wrap .record-list li:first-child {padding-top:0;}
+.popup-refund .refund-wrap .record-list li strong {display:block;padding-bottom:20px;font-size:17px;font-weight:normal;color:#262626;}
+.popup-refund .refund-wrap .record-list li .input-base input {height:40px !important;}
+.popup-refund .refund-wrap .record-list li .bridge {margin-left:8px;}
+.popup-refund .refund-wrap .record-list li label + span.bridge{margin-left:0;}
+.refund-wrap.co-wrap {padding:48px 50px;} 
+.refund-wrap.co-wrap .tit {font-size:24px;}
+.refund-wrap.co-wrap .exp {font-size:17px;margin-top:36px;}
+
+.table-tp1.first-chk .chk-box input + label {padding-left:20px;}
+.table-tp1.first-chk .chk-box input + label em {margin-left:0;}
+.list-gray {margin-top:40px;}
+.list-gray li {line-height:20px;font-size:13px;color:#515151;}
+.list-gray li .ico-dot {background-color:#515151;}
+
+
+
+
+
+
+
+
+

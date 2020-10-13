@@ -1,0 +1,104 @@
+{
+  "data" : {
+    "free":[
+      {
+        "prdDvcd": "112000001",
+        "prdNm": "자유 이용권 5대",
+        "prdMstAmt": 110000,
+        "prdKncd": "11",
+        "prdUseTrmNot": 1,
+        "prdAdNot": 5,
+        "prdUseNot": 4
+      },
+      {
+        "prdDvcd": "112000002",
+        "prdNm": "자유 이용권 10대",
+        "prdMstAmt": 220000,
+        "prdKncd": "11",
+        "prdUseTrmNot": 1,
+        "prdAdNot": 10,
+        "prdUseNot": 4
+      },
+      {
+        "prdDvcd": "112000011",
+        "prdNm": "자유 이용권 5대 3개월",
+        "prdMstAmt": 330000,
+        "prdKncd": "11",
+        "prdUseTrmNot": 3,
+        "prdAdNot": 5,
+        "prdUseNot": 4
+      },
+      {
+        "prdDvcd": "112000012",
+        "prdNm": "자유 이용권 10대 3개월",
+        "prdMstAmt": 660000,
+        "prdKncd": "11",
+        "prdUseTrmNot": 3,
+        "prdAdNot": 10,
+        "prdUseNot": 4
+      },
+      {
+        "prdDvcd": "112000016",
+        "prdNm": "자유 이용권 5대 6개월",
+        "prdMstAmt": 660000,
+        "prdKncd": "11",
+        "prdUseTrmNot": 6,
+        "prdAdNot": 5,
+        "prdUseNot": 4
+      },
+      {
+        "prdDvcd": "112000021",
+        "prdNm": "자유 이용권 5대 9개월",
+        "prdMstAmt": 990000,
+        "prdKncd": "11",
+        "prdUseTrmNot": 9,
+        "prdAdNot": 5,
+        "prdUseNot": 4
+      }
+    ],
+    "update":[
+      {
+        "prdDvcd": "333000001",
+        "prdNm": "자유업데이트 이용권 5대",
+        "prdMstAmt": 33000,
+        "prdKncd": "13",
+        "prdUseTrmNot": 1,
+        "prdAdNot": 5,
+        "prdUseNot": 20
+      },
+      {
+        "prdDvcd": "333000002",
+        "prdNm": "자유업데이트 이용권 10대",
+        "prdMstAmt": 66000,
+        "prdKncd": "13",
+        "prdUseTrmNot": 1,
+        "prdAdNot": 10,
+        "prdUseNot": 20
+      }
+    ],
+    "pricing":[
+      {
+        "prdDvcd": "331000001",
+        "prdNm": "프라이싱 조회권",
+        "prdMstAmt": 1100,
+        "prdKncd": "21",
+        "prdUseTrmNot": 60,
+        "prdAdNot": 0,
+        "prdUseNot": 1
+      },
+      {
+        "prdDvcd": "331000002",
+        "prdNm": "프라이싱 조회권 3 회",
+        "prdMstAmt": 3300,
+        "prdKncd": "21",
+        "prdUseTrmNot": 60,
+        "prdAdNot": 0,
+        "prdUseNot": 3
+      }
+    ]
+  },
+  "statusinfo": {
+    "returncd": "000",
+    "returnmsg": "정상"
+  }
+}

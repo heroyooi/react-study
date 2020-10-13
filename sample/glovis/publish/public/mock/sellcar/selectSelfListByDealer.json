@@ -1,0 +1,79 @@
+{
+  "data": [
+    {
+      "slReqId": "00002",
+      "hh24AuctId": "auct0001",
+      "hh24AuctSttDvcd": "02",
+      "hh24AuctStrtDt": "승인",
+      "hh24AuctEndDt": "2020-03-06 12:00",
+      "sbidAmt": 900000,
+      "maxAmt": 1000000,
+      "crId": "1111",
+      "itrtYn": "Y",
+      "itrtDrlCnt": 15,
+      "biddDrlCnt": 20,
+      "sellcar": {
+        "slReqId": "00002",
+        "rgstRsdcAddrCd": "001",
+        "rgstRsdcAddrCdNm": "서울"
+      },
+      "car": {
+        "crId": "1111",
+        "crNo": "99가1234",
+        "crMnfcCdNm": "현대",
+        "crDtlMdlCdNm": "투싼 IX",
+        "crClsCdNm": "디젤 2WD",
+        "crDtlClsCdNm": "LX20 럭셔리",
+        "frmYyyy": "19년식",
+        "drvDist": "22000",
+        "fuelDvcd": "디젤",
+        "photoList": []
+      },
+      "myBidd": {}
+    },
+    {
+      "slReqId": "00002",
+      "hh24AuctId": "auct0002",
+      "hh24AuctSttDvcd": "03",
+      "hh24AuctStrtDt": "진행",
+      "hh24AuctEndDt": "2020-03-06 12:00",
+      "sbidAmt": 900000,
+      "maxAmt": 1000000,
+      "crId": "1111",
+      "itrtYn": "Y",
+      "itrtDrlCnt": 15,
+      "biddDrlCnt": 20,
+      "sellcar": {
+        "slReqId": "00002",
+        "rgstRsdcAddrCd": "001",
+        "rgstRsdcAddrCdNm": "서울"
+      },
+      "car": {
+        "crId": "1111",
+        "crNo": "99가1234",
+        "crMnfcCdNm": "현대",
+        "crDtlMdlCdNm": "투싼 IX",
+        "crClsCdNm": "디젤 2WD",
+        "crDtlClsCdNm": "LX20 럭셔리",
+        "frmYyyy": "19년식",
+        "drvDist": "22000",
+        "fuelDvcd": "디젤",
+        "photoList": []
+      },
+      "myBidd": {
+        "dlrBiddNo": 1,
+        "biddAmt": 950000,
+        "biddCnclYn": null,
+        "biddDt": "2020-03-04",
+        "sbidYn": null,
+        "sbidDt": null,
+        "hh24AuctId": "auct0001",
+        "dlrMbId": "dlr01",
+        "updtCnt": 2
+      }
+    }
+  ],
+  "StatusInfo": {
+    "ReturnCd": "000"
+  }
+}

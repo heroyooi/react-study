@@ -1,0 +1,7 @@
+export default {
+  OBJECT_TO_STORE_PROPS: 'dealerAdver/OBJECT_TO_STORE_PROPS',
+
+  INPUT_STATE: 'dealerAdver/INPUT_STATE',
+  REMOVE_ITEM_IN_LIST: 'dealerAdver/REMOVE_ITEM_IN_LIST',
+  APPEND_REQ_LIST: 'dealerAdver/APPEND_REQ_LIST'
+};

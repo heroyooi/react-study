@@ -1,0 +1,74 @@
+[
+    {
+        "category" : "카테고리1",
+        "details" : [
+            {
+                "exist" : "true",
+                "text" : "네비게이션(매립)"
+            },
+            {
+                "exist" : "false",
+                "text" : "후방카메라"
+            },
+            {
+                "exist" : "false",
+                "text" : "스마트키"
+            },
+            {
+                "exist" : "true",
+                "text" : "옵션4"
+            }
+        ]
+    },
+    {
+        "category" : "카테고리2",
+        "details" : [
+            {
+                "exist" : "true",
+                "text" : "전자동 에어컨"
+            },
+            {
+                "exist" : "false",
+                "text" : "알루미늄휠"
+            },
+            {
+                "exist" : "false",
+                "text" : "HID/LED 헤드램프"
+            }
+        ]
+    },
+    {
+        "category" : "카테고리3",
+        "details" : [
+            {
+                "exist" : "true",
+                "text" : "에어백(운전석)"
+            },
+            {
+                "exist" : "false",
+                "text" : "에어백(동반석)"
+            },
+            {
+                "exist" : "false",
+                "text" : "에어백(사이드)"
+            }
+        ]
+    },
+    {
+        "category" : "카테고리4",
+        "details" : [
+            {
+                "exist" : "false",
+                "text" : "열선핸들"
+            },
+            {
+                "exist" : "true",
+                "text" : "뒷좌석 TV"
+            },
+            {
+                "exist" : "false",
+                "text" : "오토 슬라이딩도어"
+            }
+        ]
+    }
+]  

@@ -1,0 +1,26 @@
+{
+  "data" : {
+    "memberInfo" : {
+      "mbId" : "aaabbbcccdddeee",
+      "mbNm" : "홍길동",
+      "mbHpPnEnc" : "010-1234-1234",
+      "mbZcd" : "11562",
+      "mbAddrEnc" : "서울시",
+      "mbDtlAddrEnc" : "강남구",
+      "mbBankcd" : "2",
+      "mbAcntnoEnc" : "1112222222333"
+    },
+    "entrInfo" : {
+      "brn" : "250-12-158456",
+      "entrCorpNm" : "아무개 스토어",
+      "reprNm" : "홍길동",
+      "storeHpPnEnc" : "011-1234-5678",
+      "mbFaxEnc" : "031-1234-5678",
+      "emailEnc" : "hong@gmail.com"
+    }
+  },
+  "statusinfo": {
+    "returncd": "000",
+    "returnmsg": "정상"
+  }
+}
