@@ -22,8 +22,7 @@ React.js로 완성한 간단한 애플리케이션 예제<br />
 - CHAT: CRA 기반 + express + socket.io로 채팅앱을 만들어 배포
 - WORD-CLOUD: CRA 기반 + fireabase로 워드클라우드앱 만들어 배포
 - NODEBIRD: React.js + Next.js로 SNS앱 만들어 아마존 웹서버로 배포
-- GLOVIS/PUBLISH: 현대 글로비스 오토벨 퍼블 버전
-- GLOVIS/FRONT: 현대 글로비스 오토벨 프론트개발 버전
+- GLOVIS: 현대 글로비스 오토벨 퍼블 버전
 
 ## DEVELOP
 개발·공부중인 폴더...<br />

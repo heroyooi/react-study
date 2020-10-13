@@ -1,8 +1,0 @@
-export default {
-  RESET_PROD: 'dealerProd/RESET_PROD',
-  INIT_DEALER_PROD: 'dealerProd/INIT_DEALER_PROD',
-
-  INPUT_PROP: 'dealerProd/INPUT_PROP',
-  INPUT_CHILD_PROP: 'dealerProd/INPUT_CHILD_PROP',
-  INPUT_OBJECT_TO_CHILD_PROPS: 'dealerProd/INPUT_OBJECT_TO_CHILD_PROPS',
-};

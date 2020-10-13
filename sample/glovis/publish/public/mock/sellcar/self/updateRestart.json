@@ -1,9 +1,0 @@
-{
-  "data": {
-    "reqSttTpcd": "0002",
-    "reqSttTpcdNm": "신청서 작성 완료"
-  },
-  "statusinfo": {
-    "returncd": "000"
-  }
-}

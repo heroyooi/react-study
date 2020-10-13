@@ -1,2 +1,0 @@
-export const GET_DEALER_SERVICE_INFO = 'car/GET_DEALER_SERVICE_INFO';
-export const GET_LNB_MENU_LIST = 'car/GET_LNB_MENU_LIST';

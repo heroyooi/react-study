@@ -1,4 +1,0 @@
-{
-  "StatusInfo": { "ReturnCd": "111", "ReturnMsg": "SYSTEM_ERROR_NETWORK" },
-  "Data": { "msg": "네트워크 상태가 불안정하거나, 연결이 끊겼습니다.\r\n새로고침 또는 잠시 후 재시도 해주세요." }
-}
