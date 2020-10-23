@@ -16,7 +16,7 @@ React.js 학습 목적<br />
 - TODOLIST: CRA 기반 투두앱 만들기
 - REDUX-MIDDLEWARE: CRA 기반으로 만드는 리덕스 미들웨어
 - REACT-SKELETON-SCREENS: CRA 기반으로 만드는 리액트 스켈레톤 스크린
-[REACT-SKELETON-SCREENS | 듣던 강좌 1:37](https://www.youtube.com/watch?v=zeFFOkr1Rqo&list=PL4cUxeGkcC9i6bZhMuAzQpC6YgLmB4k4-&index=2)
+[REACT-SKELETON-SCREENS | 듣던 강좌](https://www.youtube.com/watch?v=x2D9imNtMlA&list=PL4cUxeGkcC9i6bZhMuAzQpC6YgLmB4k4-&index=5)
 
 ## SAMPLE
 React.js로 완성한 간단한 애플리케이션 예제<br />
